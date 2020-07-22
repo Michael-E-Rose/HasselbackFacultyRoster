@@ -55,8 +55,8 @@ def read_hasselback_file(fname, scopus, aff_map, degrees=('PHD',)):
     before = df.shape[0]
     df = df.dropna(subset=["dep"]).set_index('ID').drop('grad_year', axis=1)
     after = df.shape[0]
-    print(">>> {}: Dropping {} because of missing department and graduation "
-          "year data".format(year, before-after))
+    print(f">>> {year}: Dropping {before-after} names because of missing "
+          "department and graduation year data")
     # Merge with Scopus
     df = df.merge(scopus, "left", left_index=True, right_index=True)
     identified = df[~df['scopus_id'].isnull()].copy()
@@ -86,24 +86,24 @@ def main():
     # Maintenance file
     unidentified = unidentified[~unidentified.index.duplicated()]
     unidentified.to_csv("./mapping_files/unmapped.csv", index_label="faculty")
-    print(">>> {} individuals from {} different universities without "
-          "ID".format(unidentified.shape[0], len(set(unidentified["dep"]))))
+    print(f">>> {unidentified.shape[0]:,} individuals from "
+          f"{unidentified['dep'].nunique():,} different universities without ID")
 
     # Write out
     df.index = df.index.astype(int)
-    df.to_csv(TARGET_FILE)
+    df.to_csv(TARGET_FILE, index_label="scopus_id")
 
     # Statistics
     dep = set()
     dep_cols = [c for c in df.columns if c.endswith("dep")]
     for dep_col in dep_cols:
         dep.update(set(df[dep_col]))
-    print(">>> {:,} individuals from {:,} different universities "
-          "with ID".format(df.shape[0], len(dep)))
+    print(f">>> {df.shape[0]:,} individuals from {len(dep):,} different "
+          "universities with ID")
     all_deps = dep.union(set(unidentified["dep"]))
-    stats = {"N_of_Hasselback_fac_scopus": "{:,}".format(df.shape[0]),
+    stats = {"N_of_Hasselback_fac_scopus": f"{df.shape[0]:,}",
              "N_of_Hasselback_dep_scopus": len(dep),
-             "N_of_Hasselback_fac": "{:,}".format(df.shape[0] + unidentified.shape[0]),
+             "N_of_Hasselback_fac": f"{df.shape[0] + unidentified.shape[0]:,}",
              "N_of_Hasselback_dep": len(all_deps)}
     print(stats)
 
