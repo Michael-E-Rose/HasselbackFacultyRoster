@@ -56,7 +56,7 @@ def read_hasselback_file(fname, scopus, aff_map, degrees=('PHD',)):
     df = df.dropna(subset=["dep"]).set_index('ID').drop('grad_year', axis=1)
     after = df.shape[0]
     print(f">>> {year}: Dropping {before-after} names because of missing "
-          "department and graduation year data")
+          "department data")
     # Merge with Scopus
     df = df.merge(scopus, "left", left_index=True, right_index=True)
     identified = df[~df['scopus_id'].isnull()].copy()
