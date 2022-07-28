@@ -808,8 +808,8 @@ Durham NC,Duke University
 E Anglia,University of East Anglia
 E Carol,East Carolina University
 E Carolina,East Carolina University
-E Illinios,University of Eastern Illinois
-E Illinois,University of Eastern Illinois
+E Illinios,Eastern Illinois University
+E Illinois,Eastern Illinois University
 E Kentucky,Eastern Kentucky University
 E Mennonite,
 E Mich,Eastern Michigan University
@@ -835,7 +835,7 @@ East Txs St,
 East Wash,Eastern Washington University
 Eastern Conn,Eastern Connecticut State University
 Eastern Conn State Univ,Eastern Connecticut State University
-Eastern Illinois Univ,University of Eastern Illinois
+Eastern Illinois Univ,Eastern Illinois University
 Eastern Kentucky University,Eastern Kentucky University
 Eastern Mich,Eastern Michigan University
 Eastern Michigan University,Eastern Michigan University
@@ -1887,7 +1887,7 @@ MSA Adv Mfg,
 Mt Allison U,Mount Allison University
 Mt Holyoke,Mount Holyoke College
 Mt St Mary's,Mount St. Mary's University
-Mt St MaryMD,
+Mt St MaryMD,Mount St. Mary's University
 Mt St Vincen,Mount Saint Vincent University
 MtStMary,Mount St. Mary's University
 Muhlenberg,Muhlenberg College
@@ -2495,9 +2495,9 @@ Saint Leo-FL,Saint Leo University
 Saint Louis University,Saint Louis University
 Saint Martin's College,Saint Martin's College
 Saint Mary's Col of Calif,Saint Mary's College of California
-Saint Mary's College,Saint Mary's University
+Saint Mary's College,Saint Mary's College of California
 Saint Mary's University,Saint Mary's University
-Saint Marys College,Saint Mary's University
+Saint Marys College,Saint Mary's College
 Saint Vincent College,Saint Vincent College
 Saint Xavier,Saint Xavier University
 Saint Xavier University,Saint Xavier University
@@ -2627,9 +2627,9 @@ So Calif,University of Southern California
 So Car-Aiken,University of South Carolina Aiken
 So Carol St,South Carolina State University
 So Carolina,University of South Carolina
-So Colorado,University of South Colorado
+So Colorado,Colorado State University Pueblo
 So Conn St,Southern Connecticut State University
-So Cross Un,
+So Cross Un,Southern Cross University
 So Dakota St,South Dakota State University
 So Florida,University of South Florida
 So Ill-Edwar,Southern Illinois University Edwardsville
@@ -2735,7 +2735,7 @@ St Louis,Saint Louis University
 St Lucia Aus,
 St Martin,Saint Martin's College
 St Martin's,Saint Martin's College
-St Mary Wood,
+St Mary Wood,Saint Mary-of-the-Woods College
 St Mary-NE,
 St Marys,Saint Mary's University
 St Marys Pla,
@@ -2743,7 +2743,7 @@ St Marys-Cal,Saint Mary's College of California
 St Marys-Cdn,Saint Mary's University
 St Marys-Cnd,Saint Mary's University
 St Marys-Ind,Saint Mary's College
-St Marys-MN,
+St Marys-MN,Saint Mary's University of Minnesota
 St Marys-Tx,St. Mary's University
 St Marys-Txs,St. Mary's University
 St Michael's,Saint Michael's College
@@ -2771,8 +2771,7 @@ St. Francis College,St. Francis College
 St. Francis Xavier Univ,St. Francis Xavier University
 St. John Fisher College,St. John Fisher College
 St. John's University,St. John's University
-St. JohnÔÇÖs University,St. John's University
-St. Johns-RM,"St. John's University, Rome"
+St. Johns-RM,St. John's University
 St. Mary's University,St. Mary's University
 St. Mary's University-Tx,St. Mary's University
 St. Norbert,St. Norbert College
@@ -2808,8 +2807,8 @@ StThomMN,University of St Thomas Minnesota
 Stuart Fl,
 Suffolk,Suffolk University
 Suffolk University,Suffolk University
-Sul Ross,
-Sul Ross St,
+Sul Ross,Sul Ross State University
+Sul Ross St,Sul Ross State University
 Sultan Qaboo,Sultan Qaboos University
 Sultan Qaboos,Sultan Qaboos University
 Sung Kyun K,Sungkyunkwan University
@@ -3108,7 +3107,7 @@ U of Wisconsin-Whitewater,"University of Wisconsin, Whitewater"
 U Paris,
 U Phillipean,
 U Port Harco,University of Port Harcourt
-U Portsmith,University of Portsmith
+U Portsmith,University of Portsmouth
 U Prasada,
 U Queensland,University of Queensland
 U San Fran,University of San Francisco
@@ -3222,7 +3221,7 @@ Univ of Northern Colorado,University of Northern Colorado
 Univ of Saskatchewan,University of Saskatchewan
 Univ of South Carolina,University of South Carolina
 Univ of Southern California,University of Southern California
-Univ of Southern Colorado,University of Southern Colorado
+Univ of Southern Colorado,Colorado State University Pueblo
 Univ of Southern Indiana,University of Southern Indiana
 Univ of Southern Maine,University of Southern Maine
 Univ of Southern Queensland,University of Southern Queensland
@@ -3368,7 +3367,7 @@ University of Oxford,University of Oxford
 University of Pennsylvania,University of Pennsylvania
 University of Pittsburgh,University of Pittsburgh
 University of Portland,University of Portland
-University of Portsmith,University of Portsmith
+University of Portsmith,University of Portsmouth
 University of Puerto Rico,University of Puerto Rico
 University of Puget Sound,University of Puget Sound
 University of Queensland,University of Queensland
