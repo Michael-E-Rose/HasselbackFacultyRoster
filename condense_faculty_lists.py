@@ -88,13 +88,14 @@ def main():
 
     # Maintenance file
     unidentified = unidentified[~unidentified.index.duplicated()]
+    unidentified = unidentified.sort_index()
     unidentified.to_csv("./mapping_files/unmapped.csv", index_label="faculty")
     print(f">>> {unidentified.shape[0]:,} individuals from "
           f"{unidentified['dep'].nunique():,} different universities without ID")
 
     # Write out
     df.index = df.index.astype(int)
-    df.to_csv(TARGET_FILE, index_label="scopus_id")
+    df.to_csv(TARGET_FILE, index_label="scopus_id", float_format="%.0f")
 
     # Statistics
     dep = set()
