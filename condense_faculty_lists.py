@@ -94,7 +94,7 @@ def main():
           f"{unidentified['dep'].nunique():,} different universities without ID")
 
     # Write out
-    df.index = df.index.astype(int)
+    df.index = df.index.astype("uint64")
     df.to_csv(TARGET_FILE, index_label="scopus_id", float_format="%.0f")
 
     # Statistics

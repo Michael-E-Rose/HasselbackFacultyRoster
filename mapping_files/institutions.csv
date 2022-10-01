@@ -705,8 +705,8 @@ CUNY-Hunter,"CUNY, Hunter College"
 CUNY-Hunter College,"CUNY, Hunter College"
 CUNY-Lehman,"CUNY, Lehman College"
 CUNY-Lehman College,"CUNY, Lehman College"
-CUNY-Queens,"CUNY, Queens College"
-CUNY-Queens College,"CUNY, Queens College"
+CUNY-Queens,"Queens College, City University of New York"
+CUNY-Queens College,"Queens College, City University of New York"
 CUNY-Stn Isl,"CUNY, College of Staten Island"
 Curtin,
 Cy London Pl,
@@ -1568,8 +1568,8 @@ London,University of London
 London Bus,London Business School
 London Business School,London Business School
 London Econ,London School of Economics and Political Science
-London Guild,London Guildhall University
-London Guildhall University,London Guildhall University
+London Guild,London Metropolitan University
+London Guildhall University,London Metropolitan University
 London Metro,London Metropolitan University
 London School Economics,London School of Economics and Political Science
 London School of Economics,London School of Economics and Political Science
@@ -2011,11 +2011,11 @@ New Brunswic,University of New Brunswick
 New Cana CT,
 New Eng,University of New England Australia
 New Engl,University of New England
-New Hamp Col,New Hampshire College
+New Hamp Col,Southern New Hampshire University
 New Hamps-Gr,
 New Hampshir,University of New Hampshire
 New Hampshire Col-Grad,
-New Hampshire College,New Hampshire College
+New Hampshire College,Southern New Hampshire University
 New Haven,University of New Haven
 New Jersey,New Jersey City University
 New Jersey City University,New Jersey City University
@@ -2509,9 +2509,9 @@ Salem State College,Salem State College
 Salf,University of Salford
 Salfird,University of Salford
 Salford,University of Salford
-Salisbury,Salisbury State University
-Salisbury St,Salisbury State University
-Salisbury State University,Salisbury State University
+Salisbury,Salisbury University
+Salisbury St,Salisbury University
+Salisbury State University,Salisbury University
 Salisbury University,Salisbury University
 Salt Lake Cy,
 Salve Regina,
@@ -2916,7 +2916,7 @@ Tennessee at Chattanooga,"University of Tennessee, Chattanooga"
 Tennessee State University,Tennessee State University
 Tennessee Technological Un,Tennessee Technological University
 Texarkana TX,
-Texas,University of Texas
+Texas,University of Texas at Austin
 Texas A&M,Texas A&M University
 Texas A&M - Corpus Christi,Texas A&M University
 Texas A&M International Univ,Texas A&M International University
@@ -2931,7 +2931,7 @@ Texas Tech,Texas Tech University
 Texas Tech University,Texas Tech University
 Texas Wesleyan University,Texas Wesleyan University
 Texas Woman's University,Texas Woman's University
-Texas-Austin,University of Texas
+Texas-Austin,University of Texas at Austin
 Texas-Dallas,"University of Texas, Dallas"
 Texas-Tyler,"University of Texas, Tyler"
 Thailand,
@@ -3025,7 +3025,7 @@ Tx Tech Law,
 Tx Woman,Texas Woman's University
 Tx-Arlin,"University of Texas, Arlington"
 Tx-Arlington,"University of Texas, Arlington"
-Tx-Austin,"University of Texas, Austin"
+Tx-Austin,University of Texas at Austin
 Tx-Brownsvil,"University of Texas, Brownsville"
 Tx-Dallas,"University of Texas, Dallas"
 Tx-El Paso,"University of Texas, El Paso"
@@ -3164,7 +3164,7 @@ Union Inst,
 Union University,Union University
 Union-KY,
 Union-TN,Union University
-United States Intl Univ,United States International University
+United States Intl Univ,Alliant International University
 Univ Alberta,University of Alberta
 Univ America,
 Univ Bath,University of Bath
@@ -3227,7 +3227,7 @@ Univ of Southern Maine,University of Southern Maine
 Univ of Southern Queensland,University of Southern Queensland
 "Univ of Technology, Sydney",University of Technology Sydney
 Univ of Tennessee at Martin,"University of Tennessee, Martin"
-Univ of Texas at Austin,University of Texas
+Univ of Texas at Austin,University of Texas at Austin
 Univ of Texas at Dallas,"University of Texas, Dallas"
 Univ of Texas at El Paso,"University of Texas, El Paso"
 Univ of Texas at Tyler,"University of Texas, Tyler"
@@ -3423,7 +3423,7 @@ UR,University of Richmond
 Ursinus,
 US Air Force,U.S. Air Force Academy
 US Dept Def,
-US Intl,United States International University
+US Intl,Alliant International University
 USAF,U.S. Air Force Academy
 USAF Academy,U.S. Air Force Academy
 USC,University of South Carolina
