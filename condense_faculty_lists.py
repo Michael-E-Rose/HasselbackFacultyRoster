@@ -6,15 +6,13 @@ with Scopus IDs and PhD.
 
 from collections import Counter
 from math import log10
-from os.path import basename, splitext
 from pathlib import Path
 
 import pandas as pd
 from numpy import nan
 
 SOURCE_FOLDER = Path("./source_files/")
-SCOPUS_FILE = Path("./mapping_files/persons.csv")
-MAPPING_FILE = Path("./mapping_files/institutions.csv")
+MAPPING_FOLDER = Path("./mapping_files/")
 TARGET_FILE = Path("./hasselback.csv")
 
 
@@ -71,8 +69,9 @@ def read_hasselback_file(fname, scopus, aff_map, degrees=('PHD',)):
 
 def main():
     # Read in
-    scopus = pd.read_csv(SCOPUS_FILE, index_col=0)
-    inst_map = pd.read_csv(MAPPING_FILE, index_col=0).dropna(subset=['our_name'])
+    scopus = pd.read_csv(MAPPING_FOLDER/"persons.csv", index_col=0)
+    inst_map = pd.read_csv(MAPPING_FOLDER/"institutions.csv", index_col=0)
+    inst_map = inst_map.dropna(subset=['our_name'])
     inst_map = inst_map["our_name"].to_dict()
     files = list(SOURCE_FOLDER.glob("*.csv"))
     df, unidentified, missing = read_hasselback_file(files[0], scopus[["scopus_id"]], inst_map)
