@@ -361,7 +361,7 @@ Brookline MA,
 Brooklyn,"CUNY, Brooklyn College"
 Brookpol,
 Brown,Brown University
-Brunel,
+Brunel,Brunel University
 Brussels,Brussels University
 Bruxelle,Brussels University
 Bryan Coll,Bryant College
@@ -831,7 +831,7 @@ East Central University,East Central University
 East London,University of East London
 East Tenn St,East Tennessee State University
 East Tennessee State Univ,East Tennessee State University
-East Txs St,
+East Txs St,Texas A&M University–Commerce
 East Wash,Eastern Washington University
 Eastern Conn,Eastern Connecticut State University
 Eastern Conn State Univ,Eastern Connecticut State University
@@ -1114,6 +1114,7 @@ Griffith-GC,Griffith University
 Grinnell,Grinnell College
 Groninge,University of Groningen
 Groningen,University of Groningen
+Groningn,University of Groningen
 Groupe ESCP de Paris,ESCP Business School
 Grove City,Grove City College
 Grove City College,Grove City College
@@ -1511,7 +1512,7 @@ Lawrence Tec,Lawrence Technological University
 Lawrence Technological Univ,Lawrence Technological University
 LBS,London Business School
 Lebanon,
-Lebanon Val,
+Lebanon Val,Lebanon Valley College
 Leeds,Leeds University
 Lees-McRae,Lees-McRae College
 Lees-McRae College,Lees-McRae College
@@ -1537,7 +1538,7 @@ Liberty University,Liberty University
 Libya,
 Limburg,University of Limburg
 Lincoln,Lincoln University
-Lincoln Inv,
+Lincoln Inv,Lincoln Investment Management
 Lincoln University,Lincoln University
 Lincoln University-NZ,Lincoln University (New Zealand)
 Lincoln-MO,Lincoln University
@@ -1649,10 +1650,11 @@ Malaysia,
 Management Co,
 Management In,
 Manches Inst,University of Manchester Institute of Science and Technology
-Manchest,Manchester Business School
+Manchest,University of Manchester
 Manchest Bus,Manchester Business School
 Manchester,University of Manchester
 Manchester C,
+Manchestr,University of Manchester
 Manhattan,Manhattan College
 Manhattan College,Manhattan College
 Manhattan KS,
@@ -2012,9 +2014,9 @@ New Cana CT,
 New Eng,University of New England Australia
 New Engl,University of New England
 New Hamp Col,Southern New Hampshire University
-New Hamps-Gr,
+New Hamps-Gr,Southern New Hampshire University
 New Hampshir,University of New Hampshire
-New Hampshire Col-Grad,
+New Hampshire Col-Grad,Southern New Hampshire University
 New Hampshire College,Southern New Hampshire University
 New Haven,University of New Haven
 New Jersey,New Jersey City University
@@ -2755,7 +2757,7 @@ St Peter,Saint Peter's University
 St Peters,Saint Peter's University
 St Rose,College of Saint Rose
 St Scholasti,College of St Scholastica
-St Stevens,
+St Stevens,Stevens Institute of Technology
 St Thomas,
 St Thomas-FL,University of St Thomas Florida
 St Thomas-MN,University of St Thomas Minnesota
@@ -3004,14 +3006,14 @@ Tuskegee University,Tuskegee University
 Tuskgegee,Tuskegee University
 Tx A&I,Texas A&M University
 Tx A&M,Texas A&M University
-Tx A&M C,Texas A&M University
-Tx A&M C Chr,Texas A&M University
+Tx A&M C,Texas A&M University–Commerce
+Tx A&M C Chr,Texas A&M University–Corpus Christi
 Tx A&M Intl,Texas A&M International University
-Tx A&M-C,Texas A&M University
-Tx A&M-C Chr,Texas A&M University
-Tx A&M-Comm,Texas A&M University
-Tx A&M-K,Texas A&M University
-Tx A&M-Kings,Texas A&M University
+Tx A&M-C,Texas A&M University–Commerce
+Tx A&M-C Chr,Texas A&M University–Corpus Christi
+Tx A&M-Comm,Texas A&M University–Commerce
+Tx A&M-K,Texas A&M University–Kingsville
+Tx A&M-Kings,Texas A&M University–Kingsville
 Tx AM,Texas A&M University
 Tx Chr,Texas Christian University
 Tx Christian,Texas Christian University
@@ -3501,6 +3503,7 @@ W Illinois,Western Illinois University
 W Indies,University of the West Indies
 W Kentucky,Western Kentucky University
 W Maryland,
+W Maryland,McDaniel College
 W Mich,Western Michigan University
 W Michigan,Western Michigan University
 W New Eng,Western New England College
