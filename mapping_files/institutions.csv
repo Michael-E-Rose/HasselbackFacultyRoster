@@ -82,6 +82,7 @@ Alfred,Alfred University
 Alfred University,Alfred University
 Allegheny,Allegheny College
 Alliant Intl,Alliant International University
+Alliant University,Alliant International University
 Alma,Alma College
 Alma College,Alma College
 AM,
@@ -101,6 +102,7 @@ Ambassodor,
 Amer Col,American College
 American,American College
 American Col,American College
+American College,American College
 American Grad Sch Intl Mgt,Thunderbird School of Global Management
 American Int,Thunderbird School of Global Management
 American International Coll,Thunderbird School of Global Management
@@ -385,7 +387,7 @@ Butler,Butler University
 Butler University,Butler University
 BYU,Brigham Young University
 C Lancash,
-C New Jersey,College of New Jersey
+C New Jersey,The College of New Jersey
 C SUNY-Stony B,Stony Brook University
 C W Post,
 "C,B,L&K TX","Cheatham, Brady, Lafferty & Cox"
@@ -1582,8 +1584,9 @@ Long Isl,Long Island University
 "Long Isl U, Brooklyn Campus",Long Island University
 Long Isl Univ-Southampton,Long Island University
 Long Island U.-C.W. Post,Long Island University
-Longwood,Longwood College
-Longwood College,Longwood College
+Longwood,Longwood University
+Longwood College,Longwood University
+Longwood University,Longwood University
 Loras,Loras College
 Loras College,Loras College
 Loughbor,Loughborough University
@@ -1879,6 +1882,7 @@ Mount Allison University,Mount Allison University
 Mount Olive,
 Mount Olive College,
 Mount Saint Vincent Univ,
+Mount Saint Vincent Univ,Mount Saint Vincent University
 Mount St. Mary's College,Mount St Mary's College
 Mount Union,
 Mount Union College,Mount Union College
@@ -2420,6 +2424,7 @@ Roanoke,Roanoke College
 Roanoke Col,Roanoke College
 Roanoke College,Roanoke College
 Robert Morris College,Robert Morris University
+Robert Morris University,Robert Morris University
 Roberts Wesl,
 Robt Morris,Robert Morris University
 Rochest Tech,Rochester Institute of Technology
@@ -2680,6 +2685,7 @@ Southern Cross University,Southern Cross University
 Southern Illinois Univ,Southern Illinois University
 Southern Methodist Univ,Southern Methodist University
 Southern Nazarene Univ,Southern Nazarene University
+Southern New Hampshire Col,Southern New Hampshire University
 Southern Oregon University,Southern Oregon University
 Southern U,Southern University and A&M College
 Southern Univ at New Orleans,Southern University and A&M College
@@ -2944,7 +2950,7 @@ Thammasat Un,Thammasat University
 Thclyde,
 The Citadel,"Citadel, The Military College of South Carolina"
 The College of Insurance,College of Insurance
-The College of New Jersey,College of New Jersey
+The College of New Jersey,The College of New Jersey
 The Colorado College,Colorado College
 Thomas More,
 Thunderb,Thunderbird School of Global Management
@@ -3636,6 +3642,7 @@ Willamet,Willamette University
 Willamette,Willamette University
 Willamette University,Willamette University
 William Jewell College,William Jewell College
+William Paterson University,William Paterson University of New Jersey
 Williams,Williams College
 Willmette IL,
 Wilmington,Wilmington University
@@ -3671,8 +3678,8 @@ Wm Carey,
 Wm Jewel,William Jewell College
 Wm Jewell,William Jewell College
 Wm Mitch,
-Wm Paterson,William Paterson University
-Wm Patterson,William Paterson University
+Wm Paterson,William Paterson University of New Jersey
+Wm Patterson,William Paterson University of New Jersey
 Wm&Mary,College of William & Mary
 Wofford,Wofford College
 Wofford College,Wofford College
