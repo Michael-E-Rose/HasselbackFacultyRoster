@@ -60,6 +60,7 @@ faculty,dep
 "Ahmad, Khurshi;University of Pennsylvania;1970",Wright State University
 "Ahmad, Khurshid;University of Pennsylvania;1970",Wright State University
 "Ahmadi, Hamid Z.;Claremont McKenna College;1983","California State University, Sacramento"
+"Ahn, Dong-hyan;New York University;1996",University of North Carolina
 "Ahrens, Ashley",University of Alaska Southeast
 "Ahsmann, Leroy L.;Illinois Institute of Technology;1975",Roosevelt University
 "Aitchison, Gary L.;Iowa State University;1972",Iowa State University
@@ -161,6 +162,7 @@ faculty,dep
 "Amaram, Donatus I.;Ohio State University;1976",Virginia State University
 "Amat, Driol;University of Barcelona;1990",Pompeu Fabra University
 "Ambron, Sueann;Columbia University;1973","University of Colorado, Denver"
+"Ambron, Susanne;Columbia University;1973","University of Colorado, Denver"
 "Amegbe, Annan;Catholic University of America;1977",Morgan State University
 "Amer, Metwalli B.;University of Illinois;1966","California State University, Sacramento"
 "Amerongen, Loretta;University of Alberta;1996",University of Alberta
@@ -213,6 +215,7 @@ faculty,dep
 "Anton, Ronald J. SJ;Northwestern University;1989",Loyola University Maryland
 "Antoniou, Peter H.;Alliant International University;1986",Mount St. Mary's University
 "Antouiou, Peter H.;Alliant International University;1986",Mount St. Mary's University
+"Antouiou, Peter;Alliant International University",Mount St Mary's College
 "Anyanwu, Casimar I.;University of Missouri;1977",Howard University
 "Anyanwu, Casimir I.;University of Missouri;1977",Howard University
 "Applegate, Michael J.;Iowa State University;1973",Oklahoma State University
@@ -773,6 +776,7 @@ Athanassiou;University of South Carolina;1995,Northeastern University
 "Brooks, Eugene H.;University of North Carolina;1983",Elon University
 "Brooks, Ileana;Northern Illinois University;1988",Aurora University
 "Broome, Sarah J.;University of North Carolina;2001",University of Connecticut
+"Brown, Aaron;University of Chicago;1984",Yeshiva University
 "Brown, Alex;Stanford University;1998",Vanderbilt University
 "Brown, Bruce;University of South Carolina;1984",Furman University
 "Brown, Carl C.;Oklahoma State University;1979",Florida Southern College
@@ -788,7 +792,9 @@ Athanassiou;University of South Carolina;1995,Northeastern University
 "Brown, Ken;University of Illinois;1994",University of Northern Iowa
 "Brown, Kevin;Case Western Reserve University;1999",Drexel University
 "Brown, Kevin;Case Western Reserve University;2001",Drexel University
+"Brown, Larry;Temple University;1982","University of Maryland, College Park"
 "Brown, Michael H.;University of Mississippi;1994",Millikin University
+"Brown, Mollie;Georgia State University;1972",Albany State University
 "Brown, Victor H.;University at Buffalo;1957",George Mason University
 "Brown, William P.;University of North Carolina;1985",Longwood University
 "Browne, James H.;University of Illinois;1981",Colorado State University Pueblo
@@ -915,6 +921,7 @@ Athanassiou;University of South Carolina;1995,Northeastern University
 "Cannon, Harold L.;University of Minnesota;1965",University at Albany
 "Cannon, Norman S.;Columbia University;1958",Utah State University
 "Cannon, William T.;Harvard University;1976",Queen's University
+"Cantillo-Simon, Miguel;Stanford University;1995","University of California, Berkeley"
 "Cantrell, Pat;Southern Methodist University;1983",University of Central Arkansas
 "Cao, Yong;Australian National University;1992",Nanyang Technological University
 "Capatch, P. William;University of Pittsburgh;1967",Kent State University
@@ -941,11 +948,13 @@ Athanassiou;University of South Carolina;1995,Northeastern University
 "Carr, Janice S.;Arizona State University;1985",California Polytechnic State University
 "Carr, Pamela S.;Oklahoma State University;2001",Arkansas Tech University
 "Carreno, Eufronio;Rutgers University;1980",Kean University
+"Carrica, Jean L.;University of Nebraska;1987",Gonzaga University
 "Carrier, Ronald E.;University of Illinois;1960",James Madison University
 "Carrithers, James M.;University of Illinois;1942",Washington State University
 "Carruth, Paul J.;Louisiana State University;1979",Southeastern Louisiana University
 "Carson, Albert B.;University of Nebraska;1943","University of California, Los Angeles"
 "Carson, John;Lehigh University;1976",George Washington University
+"Carson, Scott A.;University of London;1980",Wilfrid Laurier University
 "Carstens, Pamela J.;University of Iowa;1993",Coe College
 "Carstens, Robert H. K.;University of Mississippi;1992",Tuskegee University
 "Carter, B. Douglas;University of Arkansas;1985",University of Central Arkansas
@@ -967,7 +976,6 @@ Athanassiou;University of South Carolina;1995,Northeastern University
 "Cassidy, Jack C.;University of Pennsylvania;1979",Saint Mary's College of California
 "Cassidy, Jack;University of Pennsylvania;1978",Saint Mary's College of California
 "Cassill, Arthur D.;University of Tennessee;1986",Elon University
-"Cassimatis, Peter J.;The New School;1967",Fairleigh Dickinson University
 "Cassing, Shirley;University of Iowa;1976",University of Pittsburgh
 "Casson, Michael H.;University of Connecticut;2001",Delaware State University
 "Cassuno, Mark;Yale University;1996",Stony Brook University
@@ -1038,7 +1046,6 @@ Athanassiou;University of South Carolina;1995,Northeastern University
 "Cheema, Balwir Singh;American College",Wittenberg University
 "Chehab, Adham;University of New Orleans",University of Saskatchewan
 "Chen, Chao C.;University at Buffalo;1992",Rutgers University
-"Chen, Chao;University of Maryland, College Park;1988","California State University, Northridge"
 "Chen, Chong-Tong;University of Illinois;1972",Northeastern Illinois University
 "Chen, Chuan Yu;New York University;1968",Montclair State University
 "Chen, Heiwei;Emory University;1997",Southern Utah University
@@ -1081,6 +1088,7 @@ Athanassiou;University of South Carolina;1995,Northeastern University
 "Chilton, Kenneth;Washington University in St. Louis;1994",Lindenwood University
 "Chinchilla, Maria Nuria;University of Navarra",University of Navarra
 "Chinn, Kenneth L.;Colorado State University;1991",Southeastern Oklahoma State University
+"Chinn, Kenneth L.;Colorado State University;1992",Southeastern Oklahoma State University
 "Chiodo, Beverly A.;Texas A&M University;1980",Texas State University
 "Chiong, Winston R.;Boston College;1974",University of Massachusetts
 "Chiou, Img Yu;New York University;1999",Eastern Illinois University
@@ -1164,7 +1172,6 @@ Athanassiou;University of South Carolina;1995,Northeastern University
 "Clark, Carol M.;University of Michigan;1979",Guilford College
 "Clark, Erlinda T.;Texas Tech University;1971","California State University, Sacramento"
 "Clark, George William Jr.;University of Illinois;1994",Florida A&M University
-"Clark, John Michael;University of Alabama;1997",University of Missouri–Kansas City
 "Clark, Johnnie L.;University of Georgia;1973",Clark Atlanta University
 "Clark, Paul Buddy;Kent State University;1992",South Carolina State University
 "Clark, Paul;Kent State University;1992",South Carolina State University
@@ -1224,6 +1231,7 @@ Athanassiou;University of South Carolina;1995,Northeastern University
 "Colie, Dennis;University of South Florida;1994",University of South Florida
 "Collarelli, Margaret C.;University of Chicago;1996",Northwood University
 "Colley, J. Ronald;Georgia State University;1986",University of West Georgia
+"Collins, Craig;University of Florida;1993",Florida A&M University
 "Collins, Dan;University of North Texas;1983",Tarleton State University
 "Collins, David T.;Georgia State University;1993",Bellarmine College
 "Collins, Joanne A.;Northwestern University;1976","California State University, Los Angeles"
@@ -1248,6 +1256,7 @@ Athanassiou;University of South Carolina;1995,Northeastern University
 "Condon, Clarence N. III;University of South Carolina;1978",College of Charleston
 "Cone, Randolph E.;Louisiana State University;1971",University of New Orleans
 "Conhaim, Louis E.;Columbia University;1960",St. John's University
+"Connell, J. A.;Louisiana Tech University;1992",Mercer University at Atlanta
 "Connell, James A.;Louisiana Tech University;1992",University of Montevallo
 "Conover, Roger B.;University of California, Riverside;1992",Azusa Pacific University
 "Conover, Roger B.;University of California, Riverside;2003",Azusa Pacific University
@@ -1273,6 +1282,7 @@ Athanassiou;University of South Carolina;1995,Northeastern University
 "Coolidge, Herbert;Michigan State University;1970",Southern Adventist University
 "Coombs, Roderick W.;University of Manchester",University of Manchester Institute of Science and Technology
 "Cooper, John;Fielding Graduate University",Western Connecticut State University
+"Cooper, Joseph E.;Harvard University;1992",Dartmouth College
 "Cooper, Kathleen Anne;University of Wollongong;1994",University of Wollongong
 "Cooper, Ken;University of Minnesota;1984",Ohio Northern University
 "Copeland, Joe B.;University of Arkansas;1974",University of North Alabama
@@ -1314,6 +1324,7 @@ Athanassiou;University of South Carolina;1995,Northeastern University
 "Craig, George;University of Illinois;1968",Oklahoma City University
 "Craig, Quiester;University of Missouri;1971",North Carolina A&T State University
 "Crain, Gilbert W.;University of Illinois;1978",Montana State University
+"Crain, Susan J.;University of Oklahoma;1997",Southern Illinois University Edwardsville
 "Crampton, John V.;University of Missouri;1970",Southeast Missouri State University
 "Cranson, Robert;Maharishi University of Management;1989",Maharishi University of Management
 "Crary, David T.;Ohio State University;1966",Louisiana State University
@@ -1557,6 +1568,7 @@ Athanassiou;University of South Carolina;1995,Northeastern University
 "Dibbrell, Clay;University of Memphis;2000",Oregon State University
 "Dickens, Edwin T.;The New School;1990",Drew University
 "Dickey, Robert I.;University of Illinois;1942",University of Illinois
+"Diefer, Dean;University of New Orleans;1996",Northern Kentucky University
 "Dieffenbach, Bruce C.;Harvard University;1972",University at Albany
 "Diephouse, David;Princeton University;1974",Calvin College
 "Diephouse, David;Vanderbilt University",Calvin College
@@ -1574,6 +1586,7 @@ Athanassiou;University of South Carolina;1995,Northeastern University
 "Dimick, David E.;University of Minnesota",York University
 "Dimitry, Kenneth E.;Florida State University;1990",University of Missouri
 "Dimkoff, Gregg K.;Michigan State University;1978",Grand Valley State University
+"Dimpak, Young;Howard University",Bethune-Cookman College
 "Ding, Yuan;University of Bordeaux;2000",HEC Paris
 "Dira, Dennis S.;University of British Columbia;1977",University of Hong Kong
 "Dittrich, Norman E.;Ohio State University;1966",University of Tennessee
@@ -1588,6 +1601,7 @@ Athanassiou;University of South Carolina;1995,Northeastern University
 "Dobbs, Scott;University of Wollongong;2002",University of Wollongong
 "Dobis, Vernon J.;University of Manitoba;1994",Minnesota State University Moorhead
 "Dobitz, Carol;University of North Dakota;1989",Minnesota State University Moorhead
+"Dobitz, Carol;University of North Dakota;1990",Minnesota State University Moorhead
 "Dobitz, Clifford P.;Colorado State University;1971",North Dakota State University
 "Dobkins, Linda H.;Virginia Polytechnic Institute and State University;1995",Emory University
 "Dock, V. Thomas;University of Northern Colorado;1970","University of Wisconsin, Eau Claire"
@@ -1935,6 +1949,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Feller, James F.;University of Florida;1979",Middle Tennessee State University
 "Feltus, Oliver L.;University of Alabama;1986",Eastern Kentucky University
 "Fender, Ann Harper;Johns Hopkins University;1976",Gettysburg College
+"Fenic, Elsie;Wright State University;1983",Wright State University
 "Fennema, Martin G. (Bud);University of Illinois;1993",Florida State University
 "Fennema, Martin G.;University of Illinois;1993",Florida State University
 "Fenollosa, Michael K.;Boston College;1994",Framingham State University
@@ -2114,11 +2129,13 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Frost, Douglas A.;Nova Southeastern University;1993",Bellevue University
 "Frost, Shleby D.;University of Colorado;2002",Georgia State University
 "Froweiss, K.;Harvard University;1977",New York University
+"Fruhan, William E. Jr.;Harvard University;1970",Harvard University
 "Fry, Joseph N.;Stanford University",University of Western Ontario
 "Frydlender, Alain;Paris IX;1985",HEC Paris
 "Frykblom, Peter;Swedish U;1999",Appalachian State University
 "Fryman, Richard F.;University of Illinois;1967",University of West Georgia
 "Fu, Philip Y.;University of Illinois;1968",Chinese University of Hong Kong
+"Fugar, Chris V.;Howard University;1989",Dillard University
 "Fugar, Christian V.;Howard University;1989",Dillard University
 "Fuhs, F. Paul;University of Massachusetts;1975",Virginia Commonwealth University
 "Fujihara, Ryo;University of Waterloo;1981",University of Tsukuba
@@ -2189,10 +2206,12 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Garner, Phillip D.;Brown University;2002",Brigham Young University
 "Garnier, Bernard G.;University of Western Ontario;1976",Universite Laval
 "Garnier, Bernard G.;University of Western Ontario;1981",Universite Laval
+"Garren, Kenneth;Virginia Polytechnic Institute and State University;1968",Roanoke College
 "Garrett, Carol;Georgia State University;1985",Mount St. Mary's University
 "Garrett, Richard D.;The New School",Marymount Manhattan College
 "Garrigan, Richard T.;University of Wisconsin, Madison;1973",DePaul University
 "Garris, John M.;Clemson University;1984",University of North Carolina Wilmington
+"Garrison, R. Bruce;University of Northern Colorado;1975",Houston Baptist University
 "Garvin, Alexander;University of Tennessee;1973",Indiana University of Pennsylvania
 "Gaspar, Jess;Stanford University;1997",University of Chicago
 "Gasper, Juli-Ann;University of Nebraska;1984",Creighton University
@@ -2217,6 +2236,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Geller, A. Neal;Syracuse University;1977",Cornell University School of Hotel Administration
 "Gemello, John M.;Stanford University;1974",San Francisco State University
 "Gendel, E. B.;Boston University;1979",Woodbury University
+"Genetay, Nadege V.R.;Bangor University;1996",University of Manchester Institute of Science and Technology
 "Geng, L.;University of Alberta",Lakehead University
 "Gensemer, Bruce L.;University of Michigan;1966",Kenyon College
 "Gentenaar, Robert;Michigan State University;1977",Hope College
@@ -2493,6 +2513,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Gustafson, Leland Verne;Florida State University;1974",University of West Georgia
 "Gustafson, Lyal;Georgia State University;1989","University of Wisconsin, Whitewater"
 "Gustafson, Nancy;Arizona State University;2000",Michigan State University
+"Guta, Anurag;New York University;1999",Case Western Reserve University
 "Gutowsky, Albert R.;University of Oregon;1965","California State University, Sacramento"
 "Guttikonda, Rama R.;University of Arkansas;1984",Tuskegee University
 "Guydosh, Ray;Carnegie Mellon University;1974",SUNY Plattsburgh
@@ -2610,6 +2631,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Harsha, Phillip D.;Georgia State University;1983",Missouri State University
 "Hart, Barbara;Sam Houston University","University of Texas, Tyler"
 "Hart, Jeffrey;University of Texas, Arlington;1999",University of Tampa
+"Hart, Richard;University of Minnesota;1964",California University of Pennsylvania
 "Hartley, William",SUNY Empire
 "Hartley, William B.;University of Wisconsin, Madison;1969",SUNY Fredonia
 "Hartline, Jessie C.;Rutgers University;1968",Rutgers University
@@ -2662,6 +2684,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Heahigh, David J.;Georgetown University;1979",The College of Christ the King
 "Heaston, Patrick H.;University of Nebraska;1982",Drake University
 "Heavey, Jerome F.;Pennsylvania State University;1976",Lafayette College
+"Heavner, Lee;University of Chicago;1998",Tulane University
 "Hebble, Annette;University of Houston;1989",University of St Thomas Texas
 "Hebert, Catherine;Paris IX;1987",ESCP Business School
 "Hebert, L.;University of Western Ontario;1993",Concordia University
@@ -2839,6 +2862,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Hool, Bryce;University of California, Berkeley;1974",Stony Brook University
 "Hooper, Cameron P.;University of New South Wales",University of Michigan
 "Hooper, Cameron P.;University of New South Wales;2003",University of Michigan
+"Hoover, Gary;Kent State University;1995",Jacksonville University
 "Hoover, Harwood Jr.;Michigan State University;1984",Aquinas College
 "Hope, Barney F.;University of California, Riverside;1979","California State University, Chico"
 "Hopeman, Richard J.;University of Washington;1962",Villanova University
@@ -3087,7 +3111,6 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Johnson, Mark S.;Washington State University;1987",Michigan State University
 "Johnson, Paul R.;Stanford University;1968",Thunderbird School of Global Management
 "Johnson, Raymond M.;Oklahoma State University;1973",Auburn University at Montgomery
-"Johnson, Richard D.;University of Oregon;1980",Colorado State University
 "Johnson, Robert E.;University of Rochester;1997",University of Connecticut
 "Johnson, Roy;University of North Carolina;1991",University of Tampa
 "Johnson, Scott;Michigan State University;1990","Minnesota State University, Mankato"
@@ -3123,6 +3146,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Jones, Richard C.;Rutgers University;2001",Hofstra University
 "Jones, Robert C. III;University of California, Los Angeles;1991",Northwestern State University of Louisiana
 "Jones, Robert J.;Columbia University;1978",Skidmore College
+"Jones, Robert;University of Notre Dame;1978",Western Michigan University
 "Jones, Roberta Ann;University of Illinois;1996",California Polytechnic State University
 "Jones, Rose-Ann;University of Pennsylvania;1997",University of Guam
 "Jones, Royal Maurice;University of Maryland, College Park;1967",Western Carolina University
@@ -3199,6 +3223,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Karaaslar, Mehmet;Washington State University;1991",Southwestern University
 "Karadbil, Laura L.;American College;1971",American University
 "Karangu, Mwangi;Walden;1981",Morgan State University
+"Karanjia, Rohinton M.;University of North Carolina;1990",University of Notre Dame
 "Karant, Yasha;University of California, Berkeley;1981","California State University, San Bernardino"
 "Karaoglu, N. Emre;Northwestern University;2002",University of Toronto
 "Karatjas, Nicholas;Stony Brook University;1976",Indiana University of Pennsylvania
@@ -3303,6 +3328,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Khalil, Mohammed;University of California, Los Angeles",Alliant International University
 "Khamalah, Joe;University of Waterloo;1998",Indiana University-Purdue University Indianapolis
 "Khan, Agha Nisar;Virginia Polytechnic Institute and State University;1970",Virginia State University
+"Khan, Agha;Virginia Polytechnic Institute and State University;1970",Virginia State University
 "Khan, Israr;Kanpur;1985",King Fahd University of Petroleum & Minerals
 "Khan, S.;University of Manchester;1995",Bangor University
 "Khan, Saleem M.;Johannes Gutenberg University Mainz;1967",Bloomsburg University of Pennsylvania
@@ -3330,7 +3356,6 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Kilpatrick, William C.;University of Illinois;1972",Colorado State University
 "Kim, An-Gyu;Seogang;1996",Chosun University
 "Kim, Byoung Ho;Northwestern University;1991",Kookmin University
-"Kim, Dong Man;Arizona State University;1990","California State University, San Bernardino"
 "Kim, Gew-Rae;CUNY;1992",University of Bridgeport
 "Kim, Han J.;Oregon State University;1969",South Dakota State University
 "Kim, Hwogyun;University of Chicago;2003",University at Buffalo
@@ -3353,6 +3378,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Kim, Song-Ki;University of Texas at Austin;1979",Seoul National University
 "Kim, Soon Kee;University of Houston;1983",Seoul National University
 "Kim, Sung-soo;CUNY, Baruch College;1993",Rutgers University
+"Kim, Wheegook;Catholic University of America",Southeastern University
 "Kim, Wheegook;Catholic University of America;1990",Southeastern University
 "Kim, Won Kee;University of Cincinnati;1987",Korea University
 "Kim, Yang H.;University of Utah;1967",Alabama A&M University
@@ -3373,7 +3399,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "King, James R.;University of Texas, Arlington;1988",University of Mary Hardin-Baylor
 "King, Jeanne;Claremont McKenna College;1992","California State University, San Bernardino"
 "King, Jerry G.;University of Mississippi;1975",University of Southern Mississippi
-"King, Jules E.;Stanford University;1985",University of Arkansas at Pine Bluff
+"King, Jules E.;Stanford University;1985","University of Arkansas, Pine Bluff"
 "King, Mary;University of Washington;1983",University of Alaska Southeast
 "King, Roger;Texas Tech University;1969",University of Southern Mississippi
 "King, Roger;Texas Tech University;1996",University of Southern Mississippi
@@ -3550,7 +3576,6 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Kullman, Cornelia;Columbia University",University of British Columbia
 "Kulsrud, William N.;University of Texas at Austin;1980",Indiana University-Purdue University Indianapolis
 "Kumar, Ashok;Purdue University;1990",Grand Valley State University
-"Kumar, Praveen;Stanford University;1985",University of Houston
 "Kunpanitchakit, Danuja;University of Wisconsin, Madison;1983",Chulalongkorn University
 "Kuntz, Dale F.;University of Connecticut;1979",Bentley College
 "Kupilik, Michael H.;University of Colorado;1976",University of Montana
@@ -3710,7 +3735,6 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Lee, J. Finley;University of Pennsylvania;1965",University of North Carolina
 "Lee, Jae Nam;KAIST;1998",City University Hong Kong
 "Lee, Jason.;Kent State University;2003","Louisiana State University, Shrevenport"
-"Lee, Jeong Wan;University of Texas at Austin;1986",University of North Dakota
 "Lee, Jonathan;University of South Carolina;1995",Fayetteville State University
 "Lee, Jong-Cheon;University of Illinois;1989",Korea University
 "Lee, Joseph S.;University of Massachusetts;1970","Minnesota State University, Mankato"
@@ -3732,6 +3756,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Lee, Yang Hyun;Chung-Ang University;1985",Chung-Ang University
 "Leekley, Robert M.;Michigan State University;1974",Illinois Wesleyan University
 "Leenaars, Hans;University of Amsterdam;1993",University of Amsterdam
+"Leese, David A.;Brandeis University",Mount St Mary's College
 "Leese, David A.;Brandeis University;1975",Mount St. Mary's University
 "Leese, David;Brandeis University;1976",Mount St. Mary's University
 "Leese, Wallace R.;Arizona State University;1978","California State University, Chico"
@@ -3843,7 +3868,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Lin, Kenny Z. P.;University of Glasgow;1996",Lingnan University
 "Lin, Lung-Ho;University of Notre Dame;1974",University of Akron
 "Lin, Meilee Wu;University of Pittsburgh",SUNY Potsdam
-"Lin, Pansy;University of California, Los Angeles;2000","University of California, Riverside"
+"Lin, Pansy;University of California, Los Angeles;2000",University of Washington
 "Lin, Pao-Chuan (Paul);Louisiana State University;1988",Wright State University
 "Lin, Pao-Chuan;Louisiana State University;1988",Wright State University
 "Lin, Parsy;University of California, Los Angeles;2000",University of Washington
@@ -3880,6 +3905,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Liv, Sheen;Syracuse University;2002",Youngstown State University
 "Livesay, Robin R.;Ohio State University;1974",University of Indianapolis
 "Livingston, David T.;University of South Carolina;1978",College of Charleston
+"Livingston, Linda;University of Washington;1996",University of Puget Sound
 "Livingston, Thomas;University of South Carolina;1977",College of Charleston
 "Llona, Agustin;Boston University;1990",Boston University
 "Loan, Dang Thi;Kiev;1991",National Economics University
@@ -3910,6 +3936,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Longfield, Henry W.;Arizona State University;1970",Indiana State University
 "Loo, J. K. A.",Free University Amsterdam
 "Loomba, Narendra P.;University of Wisconsin, Madison;1959","CUNY, Baruch College"
+"Lopez, Salvadur;Georgia State University;1995",Gardner-Webb University
 "Lopilato, Carol;University of Southern California;1980","California State University, Dominguez Hills"
 "Lord, Beverly R.;University of Waikato;2001",University of Canterbury
 "Lorie, James H.;University of Chicago;1947",University of Chicago
@@ -3953,6 +3980,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Ludolf, Gordon W.;Ohio State University;1964",East Tennessee State University
 "Ludwig, Stephen E.;University of Arkansas",Georgia Southern University
 "Ludwig, Stephen E.;University of Arkansas;1999",Northwest Missouri State University
+"Luehrman, Timothy A.;Harvard University;1986",Thunderbird School of Global Management
 "Luh, Frank F. S.;Ohio State University;1965",Lehigh University
 "Luizer, James C.;Lehigh University;1984",Kutztown University
 "Luke, Cheryl M.;Indiana University;1967",University of South Carolina
@@ -4115,6 +4143,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Martin, Donald D.;University of Missouri;1972",University of Central Missouri
 "Martin, Ervin;Fielding Graduate University;2000",Belhaven College
 "Martin, R. Keith;University of Washington;1973",Fairfield University
+"Martin, Rand Dennis;University of Alabama;1994",Bloomsburg University of Pennsylvania
 "Martin, Randall P.;Georgia State University;1970",KPMG
 "Martin, Richard S.;Cornell University",University of Hartford
 "Martin, Susan W.;Michigan State University;1988",Grand Valley State University
@@ -4211,6 +4240,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "McFerrin, W. Don;USI;1978","California State University, Fresno"
 "McGahagan, Thomas A.;University of Pennsylvania;1976","University of Pittsburgh, Johnstown"
 "McGahey, Stanley;Hanyang University;1995",University of Guam
+"McGary, Daina;Union College",Capital University
 "McGaugh, Jack D.;Alliant International University;1974",University of Michigan
 "McGee, C. Dylan;University of North Carolina;2001",Assumption College
 "McGee, Charles H.;Northwestern University;1987",West Chester University
@@ -4305,7 +4335,6 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Menge, John A.;Massachusetts Institute of Technology;1959",Dartmouth College
 "Mengistu, Tadessa;Indiana University;1986",Dillard University
 "Mensah, Samuel E.;University of Toronto;1992",University of Michigan
-"Mensah, Samuel;University of Toronto;1992",University of Michigan
 "Mensz, Pawel;Polish A",University of New Haven
 "Mercer, Charles R.;University of Arkansas;1967",Drury University
 "Meredith, John W.;University of North Texas;1975",University of Mary Hardin-Baylor
@@ -4377,6 +4406,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Milller, Daniel J.;University of Texas, Arlington;1994",Central Connecticut State University
 "Mills, Donald;University of Alabama;1961",University of Alabama
 "Mills, Geofrey T.;University of Illinois;1979",University of Northern Iowa
+"Mills, James",Thunderbird School of Global Management
 "Mills, Jennifer L.;Bond University",University of Adelaide
 "Mills, John R.;University of Colorado;1979","University of Nevada, Reno"
 "Mills, Judith W.;Stony Brook University;1994",Southern Connecticut State University
@@ -4445,6 +4475,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Molyneaus, David;University of Edinburgh;2001",University of Aberdeen
 "Molz, Ferdinand L.;Catholic University of America;1968",Millersville University
 "Monaco, Diane K.;Wayne State College;1998",University of Manchester
+"Monaco, Susan;Duke University;1996",Indiana University
 "Monahan, Steve;University of North Carolina;1999",University of Chicago
 "Monat, Jonathan S.;University of Minnesota;1972","California State University, Long Beach"
 "Moneef, Abdullah Ali;University of South Carolina;1981",King Saud University
@@ -4514,7 +4545,6 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Morris, Barry K.;University of Arkansas;1974",University of North Alabama
 "Morris, Clair E. Jr.;University of Wisconsin, Madison;1972",U.S. Naval Academy
 "Morris, Clyde D.;Case Western Reserve University;1987",Youngstown State University
-"Morris, D.",Coventry University
 "Morris, Don",Eastern New Mexico University
 "Morris, Don;Southern Illinois University;1979",Eastern New Mexico University
 "Morris, J. Andrew;University of South Carolina;1995",University of St Thomas Texas
@@ -4570,6 +4600,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Mullin, R. David;University of Virginia;1993",U.S. Air Force Academy
 "Mullin, Ralph F.;University of Florida;1987",University of Central Missouri
 "Mullings, Llewellyn M.;Clark University;1964",University of Bridgeport
+"Mullins, Gary;Washington University in St. Louis","University of Wisconsin, Stevens Point"
 "Mullins, Gary;Washington University in St. Louis;1994","University of Wisconsin, Stevens Point"
 "Mun, Kyung Chun;Virginia Polytechnic Institute and State University;1991",Truman State University
 "Muncrief, George;Texas A&M University;1983",Western New Mexico University
@@ -4586,6 +4617,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Murkison, Eugene C.;University of Missouri;1986",Georgia Southern University
 "Murli, Rajan;Temple University;1992",University of Scranton
 "Murphy, David;University of Manchester",University of Manchester Institute of Science and Technology
+"Murphy, Suzan",University of Tennessee
 "Murra, Gene E.;Ohio State University;1963",South Dakota State University
 "Murray, Alan",Thunderbird School of Global Management
 "Murray, Alan;Columbia University;1961",Long Island University
@@ -4752,6 +4784,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Norman-Zietz, Emily J.;Florida State University;1994",Middle Tennessee State University
 "Norment, Bev R.;Mississippi State University;1969",Mississippi State University
 "North, Monica;Massachusetts Institute of Technology;1995",University of New Mexico
+"Northey, Margot E.;York University;1974",Queen's University
 "Norton, Arthur J.;University of Missouri;1973",University of Central Missouri
 "Norton, Virgil;Oregon State University;1963",Albany State University
 "Norvelle, Joan W.;University of Arizona;1978",University of Arizona
@@ -4819,6 +4852,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Oestreich, Nathan;University of Houston;1981",San Diego State University
 "Officer, Robert R.;University of Chicago;1971",Victoria University
 "Ofong, Chigbo;Johns Hopkins University;1982",Savannah State University
+"Ogazon, Tomas;Florida International University",St. Thomas University
 "Ogburia, Sylvanus S.;Louisiana State University;1982",Alabama A&M University
 "Oglesbee, Thomas W. Jr.;University of South Carolina;1983","University of South Carolina, Spartanburg"
 "Oglesby, Rod;University of Missouri",Southwest Baptist University
@@ -4982,6 +5016,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Parks, Tom",Azusa Pacific University
 "Parks, Virginia L.;University of Houston;1971",Seattle University
 "Parmley, William K.;Oklahoma State University;1979",Missouri State University
+"Parr, Steve H.;University of Iowa;1986",North Carolina State University
 "Parrino, James;University of Virginia;1996",Babson College
 "Parrish, Barbara K.;University of Arkansas;1994",University of Central Oklahoma
 "Parrish, Lillian C.;University of Mississippi;1977",Georgia Southwestern State University
@@ -5140,6 +5175,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Pitsvada, Bernart T.;American College;1972",George Washington University
 "Pitt, H. Ronald;Oklahoma State University;1978",Northern Arizona University
 "Pittman, Jeff;University of Waterloo;2000",Memorial University of Newfoundland
+"Pitts, Archie;University of Oxford",University of Warwick
 "Plachta, Leonard E.;Michigan State University;1964",Central Michigan University
 "Planisek, R. J.;Kent State University",Grand Valley State University
 "Plante, David;University of Utah;2003",Western Colorado University
@@ -5304,7 +5340,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Raman, Jaishankar;University of Notre Dame;1997",Valparaiso University
 "Ramanathan, K. V.;Northwestern University;1970",University of Washington
 "Ramanauskas, Helene M. A.;University of Munich;1948",DePaul University
-"Ramanujam, Srinivasa;Brown University;1965",St. John's University
+"Ramanujam, Srinivasa;Brown University;1965",College of Insurance
 "Ramaswamy, Kadangode P.;University of Kansas;1993",Hong Kong University of Science and Technology
 "Ramaswamy, Mysone;Louisiana State University;1995",Southern University and A&M College
 "Rambeck, Charles;University of Minnesota;1979",College of Saint Benedict and Saint John's University
@@ -5355,7 +5391,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Ray, Clarence G.;University of South Carolina;1972","University of Nevada, Las Vegas"
 "Ray, Delmas D.;University of Florida;1956",University of Florida
 "Ray, Marvin E.;University of Arkansas;1974",Valdosta State University
-"Rayhorn, Charles;University of Colorado;1992",University of Michigan
+"Rayhorn, Charles;University of Colorado;1992",Northern Michigan University
 "Raynis, Susan A.;Colorado State University;1985",College of Saint Rose
 "Reagan, Shirley P.;Louisiana Tech University;1980",Louisiana Tech University
 "Rebmann-Huber, Zelma;University of Washington;1988",Simon Fraser University
@@ -5524,6 +5560,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Rosa, Ray Da Silva;UWA;1994",University of Sydney
 "Rosanes, M. Josep;Northwestern University;1977",University of Navarra
 "Rose, Clarence C.;Virginia Polytechnic Institute and State University;1983",Radford University
+"Rose, P. John;Cambridge University;1973",Victoria University
 "Rose, Terry L.;University of Illinois;1978",West Virginia University
 "Roselius, Ted;University of Colorado;1967",Colorado State University
 "Roseman, Robert E.;University of Minnesota;1982",Washington State University
@@ -5636,6 +5673,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Said, Hassan A.;University of Alabama;1994",Albany State University
 "Said, Hassan;University of Alabama;1994",Albany State University
 "Sailors, James;University of Georgia;1985",Alabama State University
+"Saito, Mika;Cornell University",University of Notre Dame
 "Saito, Mika;Cornell University;2000",University of Notre Dame
 "Sakar, Amin U.;University of California, Berkeley;1988",Georgia College & State University
 "Salam, Ahmad W.;University of Illinois;1968",Widener University
@@ -5658,6 +5696,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Samprone, Joseph C. Jr.;University of California, Santa Barbara;1975",Georgia College & State University
 "Samson, Mike;Stanford University;1994",Williams College
 "Samuels, George E.;University of Oregon;1972",Sam Houston University
+"Sanator, Robert J.",Long Island University
 "Sanator, Robert J.;Poly-NY",Long Island University
 "Sanator, Robert J.;Poly-NY;1991",Long Island University
 "Sanchez, Pedro;University of Michigan;1972",George Washington University
@@ -5813,6 +5852,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Selassie, Haile G.;Oklahoma State University;1983",South Carolina State University
 "Selim, Mohamed Ali;University of Minnesota;1981",University of St Thomas Minnesota
 "Selivanoff, George A.;American College;1964",LaSierra University
+"Selivanoff, George;American College;1964",LaSierra University
 "Sellers, Gary;University of Cincinnati;1977",University of Akron
 "Sellers, James H.;University of Arkansas;1970","University of Texas, Tyler"
 "Selvanathan, Rani G.;University of Paris",West Chester University
@@ -5985,6 +6025,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Simmons, Joseph T.;University of Nebraska;1974",University of South Dakota
 "Simmons, Joyce Monroe;Duke University;1980",Florida State University
 "Simmons, Laurette P.;University of North Texas;1985",Loyola University Maryland
+"Simmons, Mark;Texas A&M University;1987",Stephen F. Austin State University
 "Simmons, Michael;Washington State University;1979",North Carolina A&T State University
 "Simon, Abraham J.;University of Pennsylvania;1971","CUNY, Queens College"
 "Simon, Cary;Alliant International University;1997",Naval Postgraduate School
@@ -6000,6 +6041,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Singal, Padamja;Georgia State University;1997",Ohio University
 "Singer, Les;Indiana University;1958",Indiana University Northwest
 "Singh, Ajmer;Oregon State University;1964",University of Western Ontario
+"Singh, Manaher;Southern Illinois University;1999",Long Island University
 "Singh, Prabhu;University of South Carolina;1969",Florida A&M University
 "Singh, Ranjit;Southern Illinois University;1970",Clark Atlanta University
 "Singh, Robert;University of Illinois;1998",University of the Pacific
@@ -6046,6 +6088,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Slocum, Donald;Syracuse University;1996",Lycoming College
 "Sluti, Donald;N Zealan;1992",University of Nebraska at Kearney
 "Smale, Stephen;University of Michigan;1957","University of California, Berkeley"
+"Smalley, Roger",McKendree College
 "Smalley, Roger;Southern Illinois University;1994",McKendree College
 "Smallwood, Dennis;Yale University;1966",University of Southern Maine
 "Smiles, Ronald;University of Texas, Arlington;1987",Dallas Baptist University
@@ -6075,7 +6118,6 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Smith, Kenneth A.;University of Texas at Austin;1971",Idaho State University
 "Smith, Kenneth G.;University of Washington;1983","University of Maryland, College Park"
 "Smith, Lynn A.;University of Pittsburgh;1985",Clarion University of Pennsylvania
-"Smith, Michael L.;University of Minnesota;1974",Ohio State University
 "Smith, Michael L.;University of Minnesota;1978",Ohio State University
 "Smith, Michael;Stanford University;1998",Duke University
 "Smith, Paul H.;University of Arkansas;1985",McKendree College
@@ -6087,14 +6129,14 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Smith, Sammie L.;University of Arkansas;1972",Stephen F. Austin State University
 "Smith, Sarah H.;Virginia Polytechnic Institute and State University;1982",Cedarville University
 "Smith, Solomon S.;Southern Illinois University;1982",Fisk University
-"Smith, Stephanie T.;Virginia Commonwealth University;1993",Otterbein College
+"Smith, Stephanie T.;Virginia Commonwealth University;1993",Texas A&M International University
 "Smith, Stephanie;Virginia Commonwealth University;1995",Otterbein College
 "Smith, Steven H.;Arizona State University;2000",Western Washington University
 "Smith, Vardaman Russell;Pennsylvania State University;1980",James Madison University
 "Smith, Yvonne;Texas Tech University;1995",Biola University
 "Smolen, Gerald E.;University of Tennessee;1971",University of Toledo
 "Smoluk, Bert;Lehigh University;1979",University of Southern Maine
-"Smoluk, Bert;Lehigh University;1997",University of Southern Maine
+"Smoluk, Bert;Lehigh University;1997",University of Maine
 "Smyth, John W.;University of Nebraska;1973",Youngstown State University
 "Sneathen, Lowell Dwight Jr.;University of Arizona;2001",Mississippi State University
 "Sneed, Joel;University of Arizona;2000",University of Oregon
@@ -6325,6 +6367,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Subramanian, Mohan;Boston University;1998",Boston College
 "Succari, Owais R.;University Catholique de Louvain;1968",DePaul University
 "Sudarwan, M.;Case Western Reserve University;1995",University of Indonesia
+"Sudwecks, Bryan L.;George Washington University;1987",Brigham Young University
 "Sudweeks, Bryan L.;George Washington University;1987",Brigham Young University
 "Sue, Della;Columbia University;1996",Marist College
 "Sugiyanto, Bambang;Temple University;1997",Gadjah Mada University
@@ -6543,6 +6586,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Toporvosky, Rinaldo H.;Columbia University;1972",Fairleigh Dickinson University
 "Topping, Peter;University of North Carolina;1977",Emory University
 "Tori, Cynthia R.;University of Kentucky;1992",Valdosta State University
+"Tornburn, Karin S.;Stockholm University;1998",Dartmouth College
 "Toros, Fernanda;University of Illinois;2003",Virginia Polytechnic Institute and State University
 "Torres, Maximilian B.;Harvard University",University of Navarra
 "Torres, Paul D.;University of Alabama;1971",University of Southern Mississippi
@@ -6560,6 +6604,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Tracy, John A.;University of Wisconsin, Madison;1961",University of Colorado
 "Trailer, Jeffrey;University of Houston;1995",Penn State Behrend
 "Trammell, Michael;Florida State University;1995",Florida State University
+"Tran, Trong;Catholic University of America",Southeastern University
 "Tran, Trong;Catholic University of America;1991",Southeastern University
 "Tranter, Terry;University of Washington;1978",University of Minnesota
 "Trapani, John M.;Tulane University;1972",Tulane University
@@ -6592,6 +6637,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Tsay, Bor-Yi;University of Houston;1986","University of Alabama, Birmingham"
 "Tsay, Jimmy Yang-Tzong;University of Maryland, College Park;1988",National Taiwan University
 "Tsay, Wenyah;University of Utah;1997","California State University, San Marcos"
+"Tse, Kwok Sang;Michigan State University;1990",Hong Kong University of Science and Technology
 "Tsolakides, Jordan A.;Michigan State University;1968",Governors State University
 "Tsoukas, Mendimos;University of Manchester;1989",University of Essex
 "Tsui, Rebecca;University of Pennsylvania;2000","University of California, Los Angeles"
@@ -6658,6 +6704,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Valachi, Donald J.;University of Southern California;1976","California State University, Fullerton"
 "Valente, Sharon A.;University of Akron;1997",Ashland University
 "Valentine, Erick G.;University of Memphis;2003",Kansas State University
+"Valentine, Jerome L.;University of North Texas;1971",St. Edward's University
 "Valentino, Salvatore;University of Nebraska;1954",Creighton University
 "Valero, Antonio;EEIIT",University of Navarra
 "Valluro, Ram;University of Nebraska;2002",University of Nebraska at Kearney
@@ -6668,6 +6715,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "Van Ornam, Don;Claremont McKenna College;1995",Southern Adventist University
 "Van Wesop, Edward;Michigan State University;2002",Western Michigan University
 "VanAuken, Philip Mark;Texas Tech University;1976",Baylor University
+"VanBiema, Michael;Columbia University;1990",Columbia University
 "VanBreda, Michael F.;Stanford University;1979",Southern Methodist University
 "VanBuer, Michael G.;Northwestern University;1992",Loyola University Chicago
 "VanDeVen, Andrew H.;University of Wisconsin, Madison;1972",University of Minnesota
@@ -6675,6 +6723,7 @@ Edirisinghem Chanaka;University of British Columbia;1991,University of Tennessee
 "VanDusen, Cheryl;University of South Carolina;1997",University of North Florida
 "VanDyne, Linn;University of Minnesota;1993",Michigan State University
 "VanEaton, Charles D.;Tulane University;1974",Hillsdale College
+"VanEaton, R. Douglas;University of Washington;1993",University of North Texas
 "VanEynde, Donald F.;Columbia University;1984",Trinity University
 "VanFleet, David;University of Tennessee;1969",Arizona State University
 "VanGigch, John P.;Oregon State University;1968","California State University, Sacramento"
@@ -6747,6 +6796,7 @@ Vedd Rishma;University of Dundee,University College of Cariboo
 "Verson, John;University of Pennsylvania;2000",University of Connecticut
 "Verstraete, Anthony A.;Pennsylvania State University;1978",Pennsylvania State University
 "Vertigan, Michael J.;University of California, Berkeley;1974",University of Western Australia
+"Vessal, Ahmad;Clark University",Mount St Mary's College
 "Vessel, Herbert;University of Missouri;1986",Southern University and A&M College
 "Veuleman, Malcolm W.;University of Arkansas;1971",Lamar University
 "Vezine, Martine;ESSEC",HEC Montreal
@@ -6773,7 +6823,6 @@ Vedd Rishma;University of Dundee,University College of Cariboo
 "Vo, Han X.;University of Tennessee;1979",Winthrop University
 "Voege, Herbert W.;University of Michigan;1971",Ferris State University
 "Voelker, Keith E.;University of Wisconsin, Madison;1969","University of Wisconsin, Oshkosh"
-"Vogt, Stephen C.;Washington University in St. Louis;1990",DePaul University
 "Volk, Gary A.;University of Nebraska;1986",Wayne State College
 "Vollmers, A. Clyde;Michigan State University;1980",Minnesota State University Moorhead
 "Volpe, Ronald P.;University of Pittsburgh;1975",Youngstown State University
@@ -6781,6 +6830,7 @@ Vedd Rishma;University of Dundee,University College of Cariboo
 "VonGlinow, MaryAnn;Ohio State University;1978",Florida International University
 "VonHagen, Jurgen;University of Bonn;1986",Indiana University
 "VonStroh, Gordon E.;University of Oklahoma;1967",University of Denver
+"Vopel, Ronald P.;University of Pittsburgh;1975",Youngstown State University
 "Vor der Landwehr, Dale;Wayne State College;1974",Thunderbird School of Global Management
 "Vorherr, Philip H.;University of Cincinnati;1975",University of Dayton
 "Vorst, Karen S.;Indiana University;1980",University of Missouri–Kansas City
@@ -6820,6 +6870,7 @@ Vedd Rishma;University of Dundee,University College of Cariboo
 "Walgreen, John A.;Boston College;1965","Wheaton College, MA"
 "Walgren, Blaine;University of Washington;1993","California State University, Fullerton"
 "Walka, Joseph J.;Harvard University;1969",Northern Arizona University
+"Walker, Craig;Southern Methodist University;1996",Delta State University
 "Walker, Edward R.;University of Houston;1996","University of Texas, Pan American"
 "Walker, G. Craig;Southern Methodist University;1996",Oklahoma Baptist University
 "Walker, John P.;University of Cincinnati;1976","CUNY, Queens College"
@@ -6885,6 +6936,7 @@ Vedd Rishma;University of Dundee,University College of Cariboo
 "Watanabe, Mashiro;Yale University;2003",Rice University
 "Watanabe, Shin-ichiro;Cornell University;1994",University of Tsukuba
 "Waterhouse, John H.;University of Washington;1972",Simon Fraser University
+"Waterhouse, John;University of Washington;1972",Simon Fraser University
 "Waters, Edwin D.;University of Alabama;1971",Tennessee Technological University
 "Waters, Elmer;CUNY;1973",Montclair State University
 "Watiins, Boyce;Ohio State University;2002",Syracuse University
@@ -6996,7 +7048,7 @@ Vedd Rishma;University of Dundee,University College of Cariboo
 "Whitesell, Frank Cook;Tulane University;1971",University of Southern Mississippi
 "Whitesell, William E.;University of Texas at Austin;1963",Franklin & Marshall College
 "Whitman, Raymond D.;Columbia University;1971",University of the District of Columbia
-"Whitmire, Ray E.;University of Texas at Austin;1975",Texas A&M University–Corpus Christi
+"Whitmire, Ray E.;University of Texas at Austin;1975",Texas A&M University
 "Whitney, Chet;University of Kansas;1965",Augustana University
 "Whitt, John Doyle;University of Mississippi;1968",Stephen F. Austin State University
 "Whittaker, Victor A.;University of Illinois;1971",Morgan State University
@@ -7144,6 +7196,7 @@ Vedd Rishma;University of Dundee,University College of Cariboo
 "Wyatt, Robert L.;University of Memphis;1993",Drury University
 "Wyatt, Robert W.;University of Iowa;1978",University of Northern Iowa
 "Wyler, Wayne E.;University of Northern Colorado;1975","California State University, Sacramento"
+"Wylie, Sam;London Business School;1999",Dartmouth College
 "Wylie, Samuel V.;London Business School;1999",Dartmouth College
 "Wyman, Harold E.;Stanford University;1967",Florida International University
 "Wymar, Benno;University of Nebraska;1973",University of South Dakota
