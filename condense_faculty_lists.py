@@ -37,11 +37,13 @@ def complete_year(y):
         return str(y)
 
 
-def read_hasselback_file(fname, scopus, aff_map, degrees=('PHD',)):
+def read_hasselback_file(fname, scopus, aff_map, degree_incl=('PHD',),
+                         rank_excl=('Retir', 'Emer', 'Deces')):
     """Read and compile file, subsetted to relevant degress only."""
     year = fname.stem.split("-")[0]
     df = pd.read_csv(fname).dropna(subset=["dep"])
-    df = df[df['degree'].isin(degrees)]
+    df = df[df['degree'].isin(degree_incl)]
+    df = df[~df['rank'].isin(rank_excl)]
     # Aggregate entries
     df['grad_year'] = df['grad_year'].apply(complete_year)
     df['school'] = df['school'].replace(aff_map)

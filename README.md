@@ -2,7 +2,7 @@
 Compiled Data of James R. Hasselback's Faculty lists, combined with Scopus IDs
 
 ## What is this?
-James Hasselback publishes a near-complete list of faculties of Economics, Management, Finance and Accounting departments in the US, Canada and some other places for various years.  I have compiled those lists (available at http://www.jrhasselback.com/FacDir.html as pdfs) to make them usable in my research.  They are augmented with the Scopus IDs of the researchers.  Although I've given great attention to the mapping of researchers to their Scopus Author profile IDs, there might be few errors.  We used all availble information, including affiliation history and field.
+James Hasselback publishes a near-complete list of faculties of Economics, Management, Finance and Accounting departments in the US, Canada and some other places for various years.  I have compiled those lists (available at http://www.jrhasselback.com/FacDir.html as pdfs) to make them usable in my research.
 
 The following year-field combinations are available:
 
@@ -12,6 +12,10 @@ The following year-field combinations are available:
 | 2001-2002 |     x      |     x     |         |            |
 | 2002-2003 |            |           |    x    |            |
 | 2003-2004 |     x      |     x     |         |            |
+
+I only report faculty member with PHD and who are not decesased, retired or emeritus.
+
+They are augmented with the Scopus IDs of the researchers.  Although I've given great attention to the mapping of researchers to their Scopus Author profile IDs, there might be few errors.  We used all availble information, including affiliation history and field.
 
 Feel free to use them in your research, too.  You can find a variable description on [James' website](http://www.jrhasselback.com/AtgDir.html).  I am open to data additions and gladly accept Pull Requests.  Note that I aggregated information for researchers holding a PhD only.
 
