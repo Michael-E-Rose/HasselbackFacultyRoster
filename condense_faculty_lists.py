@@ -44,6 +44,7 @@ def read_hasselback_file(fname, scopus, aff_map, degree_incl=('PHD',),
     df = pd.read_csv(fname).dropna(subset=["dep"])
     df = df[df['degree'].isin(degree_incl)]
     df = df[~df['rank'].isin(rank_excl)]
+    df = df[~df["annotation"].fillna("").str.startswith("visiting from")]
     # Aggregate entries
     df['grad_year'] = df['grad_year'].apply(complete_year)
     df['school'] = df['school'].replace(aff_map)
