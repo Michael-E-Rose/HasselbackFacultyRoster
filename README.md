@@ -8,6 +8,7 @@ The following year-field combinations are available:
 
 |           | Accounting | Economics | Finance | Management |
 |-----------|------------|-----------|---------|------------|
+| 1999-2000 |            |     x     |         |            |
 | 2000-2001 |     x      |           |    x    |      x     |
 | 2001-2002 |     x      |     x     |         |            |
 | 2002-2003 |            |           |    x    |            |
