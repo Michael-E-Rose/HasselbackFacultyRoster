@@ -13,6 +13,9 @@ The following year-field combinations are available:
 | 2001-2002 |     x      |     x     |         |            |
 | 2002-2003 |            |           |    x    |            |
 | 2003-2004 |     x      |     x     |         |            |
+| 2004-2005 |            |           |         |            |
+| 2005-2006 |            |           |         |            |
+| 2006-2007 |            |     x     |         |            |
 
 I only report faculty member with PHD and who are not decesased, retired or emeritus.
 

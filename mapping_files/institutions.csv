@@ -269,6 +269,7 @@ Belhaven College,Belhaven College
 Bellarm,Bellarmine College
 Bellarmine,Bellarmine College
 Bellarmine College,Bellarmine College
+Bellarmine University,Bellarmine College
 Bellevue,Bellevue University
 Bellevue University,Bellevue University
 Bello Univ,Ahmadu Bello University
@@ -385,6 +386,7 @@ Bruxelle,Brussels University
 Bryan Coll,Bryant College
 Bryant,Bryant College
 Bryant College,Bryant College
+Bryant University,Bryant College
 Bryn Mawr,Bryn Mawr College
 Bryn Mawr College,Bryn Mawr College
 Bucknell,Bucknell University
@@ -456,6 +458,7 @@ Calif State Univ – Humboldt,Humboldt State University
 Calif State Univ-Fresno,"California State University, Fresno"
 Calif State Univ-Sacramento,"California State University, Sacramento"
 "Calif State Univ, Chico","California State University, Chico"
+"Calif State Univ, East Bay","California State University, East Bay"
 "Calif State Univ, Fullerton","California State University, Fullerton"
 "Calif State Univ, Hayward","California State University, East Bay"
 "Calif State Univ, Long Beach","California State University, Long Beach"
@@ -535,6 +538,7 @@ Centenary College,Centenary University
 Centenary-LA,Centenary College of Louisiana
 Centenary-NJ,Centenary University
 Central Col,
+Central College,Central College (Iowa)
 Central College of Iowa,Central College (Iowa)
 Central Conn,Central Connecticut State University
 Central Connecticut St Univ,Central Connecticut State University
@@ -659,6 +663,7 @@ Colorado,University of Colorado
 Colorado Col,Colorado College
 Colorado Spr,University of Colorado Colorado Springs
 Colorado St,Colorado State University
+Colorado State Univ-Pueblo,Colorado State University Pueblo
 Colorado State University,Colorado State University
 Columbia,Columbia University
 Columbia University,Columbia University
@@ -744,6 +749,7 @@ CUNY-Baruch College,"CUNY, Baruch College"
 CUNY-Brookly,"CUNY, Brooklyn College"
 CUNY-Brooklyn College,"CUNY, Brooklyn College"
 CUNY-City C,City College of New York
+CUNY-City College,City College of New York
 CUNY-Col of Staten Island,"CUNY, College of Staten Island"
 CUNY-Hunter,"CUNY, Hunter College"
 CUNY-Hunter College,"CUNY, Hunter College"
@@ -966,6 +972,7 @@ Fairleigh Di,Fairleigh Dickinson University
 Fairleigh Dickinson Univ,Fairleigh Dickinson University
 Fairmont St,Fairmont State College
 Fairmont State College,Fairmont State College
+Fairmont State University,Fairmont State College
 Fak Economi,Universitas Indonesia
 FASB,
 FASB Board,
@@ -1139,6 +1146,7 @@ Gonzaga,Gonzaga University
 Gonzaga University,Gonzaga University
 Gordon,Gordon College
 Gordon Coll,Gordon State College
+Gordon College,Gordon College (Massachusetts)
 Goshen,Goshen College
 Goshen College,Goshen College
 Gottingen,University of Gottingen
@@ -1270,6 +1278,7 @@ Holy Cr,University of Holy Cross
 Holy Cross,College of the Holy Cross
 Holy Family,Holy Family College
 Holy Family College,Holy Family College
+Holy Family University,Holy Family College
 Hong Kong,University of Hong Kong
 Hong Kong Polytechnic Univ,Hong Kong Polytechnic University
 Hong Kong Sc,Hong Kong University of Science and Technology
@@ -1332,7 +1341,8 @@ Illinois State University,Illinois State University
 Illinois Tch,Illinois Institute of Technology
 Illinois Wes,Illinois Wesleyan University
 Illinois Wesleyan University,Illinois Wesleyan University
-Immaculata,
+Immaculata,Immaculata University
+Immaculata University,Immaculata University
 Imperial,Imperial College London
 Incarnate,University of the Incarnate Word
 Ind Ist M,
@@ -1365,6 +1375,7 @@ Indiana Univ Northwest,Indiana University Northwest
 Indiana Univ South Bend,Indiana University South Bend
 Indiana Univ Southeast,Indiana University Southeast
 Indiana University,Indiana University
+Indiana University Kokomo,Indiana University Kokomo
 Indiana Wesl,Illinois Wesleyan University
 Indiana Wesleyan,Indiana Wesleyan University
 Indiana-Indy,Indiana University-Purdue University Indianapolis
@@ -1542,6 +1553,7 @@ Kyunggi Univ,Kyunggi University
 Kyungpook National Univ,Kyungpook National University
 Kyungpook Un,Kyungpook National University
 L Eotvos,
+La Salle University,LaSalle University
 La Sierra University,La Sierra University
 La St-Shreve,"Louisiana State University, Shrevenport"
 La Tech,Louisiana Tech University
@@ -1587,9 +1599,11 @@ Lawrence,Lawrence University
 Lawrence KS,
 Lawrence Tec,Lawrence Technological University
 Lawrence Technological Univ,Lawrence Technological University
+Lawrence University,Lawrence University
 LBS,London Business School
 Lebanon,
 Lebanon Val,Lebanon Valley College
+Lebanon Valley College,Lebanon Valley College
 Leeds,Leeds University
 Lees-McRae,Lees-McRae College
 Lees-McRae College,Lees-McRae College
@@ -1641,6 +1655,7 @@ Livingstone,
 Lk Superior,Lake Superior State University
 Lng Isl,Long Island University
 Lock Haven,Lock Haven University
+Lock Haven U of Pennsylvania,Lock Haven University
 Lock Haven University,Lock Haven University
 Lodz,University of Lodz
 Loma Lin,Loma Linda University
@@ -1737,7 +1752,8 @@ Manches Inst,University of Manchester Institute of Science and Technology
 Manchest,University of Manchester
 Manchest Bus,Manchester Business School
 Manchester,University of Manchester
-Manchester C,
+Manchester C,Manchester College (Indiana)
+Manchester College,Manchester College (Indiana)
 Manchester Inst Sci & Tech,University of Manchester Institute of Science and Technology
 Manchestr,University of Manchester
 Manhattan,Manhattan College
@@ -1802,6 +1818,7 @@ Masstricht,Maastricht University
 MBA Seminars,
 Mc Gill University,McGill University
 McDaniel,McDaniel College
+McDaniel College,McDaniel College
 McGeorge,
 McGill,McGill University
 McGill Univ,McGill University
@@ -1913,8 +1930,11 @@ Mississippi Valley St Univ,Mississippi Valley State University
 Missouri,University of Missouri
 Missouri So,Missouri Southern State University
 Missouri Southern St Col,Missouri Southern State University
+Missouri Southern St Univ,Missouri Southern State University
+Missouri State University,Missouri State University
 Missouri Wes,Missouri Western State University
 Missouri Western St College,Missouri Western State University
+Missouri Western St Univ,Missouri Western State University
 MIT,Massachusetts Institute of Technology
 Mn St-Mankat,"Minnesota State University, Mankato"
 MN St-Mankat,"Minnesota State University, Mankato"
@@ -1978,6 +1998,7 @@ Mount Olive College,Mount Olive College
 Mount Saint Vincent Univ,Mount Saint Vincent University
 Mount Saint Vincent Univ,Mount Saint Vincent University
 Mount St. Mary's College,Mount St Mary's College
+Mount St. Mary's Univ-MD,Mount St Mary's College
 Mount Union,
 Mount Union College,Mount Union College
 MryHrd-B,
@@ -2182,6 +2203,7 @@ North Carolina at Pembroke,University of North Carolina at Pembroke
 North Carolina at Wilmington,University of North Carolina Wilmington
 North Carolina Central Univ,North Carolina Central University
 North Carolina State Univ,North Carolina State University
+North Carolina Wilmington,University of North Carolina Wilmington
 North Central College,North Central College
 North Dakota,University of North Dakota
 North Dakota State,North Dakota State University
@@ -2368,6 +2390,7 @@ Penn St-Harr,Penn State Harrisburg
 Penn St-Hotl,Penn State School of Hospitality Management
 Penn State,Pennsylvania State University
 Penn State - Erie,Penn State Behrend
+Penn State Univ - Erie,Penn State Behrend
 Penn State Univ-Erie,Penn State Behrend
 Penn State Univ-Harrisburg,Penn State Harrisburg
 Penn State Univ-Hotel School,Penn State School of Hospitality Management
@@ -2422,6 +2445,7 @@ Port St,Portland State University
 Portland,University of Portland
 Portland St,Portland State University
 Portland State University,Portland State University
+Post University,Post University
 PPC,
 Prac-El Paso,
 Practi-India,
@@ -2438,7 +2462,7 @@ Price Waterh,PriceWaterhouseCoopers
 Pricewaterh,PriceWaterhouseCoopers
 Prin,Princeton University
 Princeton,Princeton University
-Princeton University,Randolph-Macon College
+Princeton University,Princeton University
 Private Prac,Private Practitioner
 Providence,Providence College
 Providence College,Providence College
@@ -2678,6 +2702,7 @@ Santiago Chl,
 Sao Paulo,University of Sao Paulo
 SaoPaulo,University of Sao Paulo
 Sarah Lawr,Sarah Lawrence College
+Sarah Lawrence College,Sarah Lawrence College
 Sarasota,
 Saskatch,University of Saskatchewan
 Saskatchawan,University of Saskatchewan
@@ -2720,6 +2745,7 @@ Shenandoah,Shenandoah University
 Shenandoah University,Shenandoah University
 Shepherd,Shepherd University
 Shepherd College,Shepherd University
+Shepherd University,Shepherd University
 Sherbrook,Sherbrooke University
 Sherbrooke,Sherbrooke University
 Shippenburg,Shippensburg University
@@ -2810,6 +2836,7 @@ Southern Illinois Univ,Southern Illinois University
 Southern Methodist Univ,Southern Methodist University
 Southern Nazarene Univ,Southern Nazarene University
 Southern New Hampshire Col,Southern New Hampshire University
+Southern New Hampshire Univ,Southern New Hampshire University
 Southern Oregon University,Southern Oregon University
 Southern U,Southern University and A&M College
 Southern Univ at New Orleans,Southern University and A&M College
@@ -2819,6 +2846,7 @@ Southern Utah University,Southern Utah University
 Southern-NO,
 Southwes,Southwestern University
 Southwest Baptist Univ,Southwest Baptist University
+Southwest Minnesota St Univ,Southwest Minnesota State University
 Southwest Missouri St Univ,Missouri State University
 Southwest State University,Southwest State University
 Southwest Texas State Univ,Texas State University
@@ -2951,6 +2979,7 @@ Sung Kyun K,Sungkyunkwan University
 Sung Kyun Kw,Sungkyunkwan University
 Sunley,
 SUNY,
+SUNY - New Paltz,SUNY New Paltz
 SUNY at Albany,University at Albany
 SUNY at Binghamton,Binghamton University
 SUNY at Buffalo,University at Buffalo
@@ -3073,6 +3102,7 @@ Texas Christian University,Texas Christian University
 Texas Lutheran College,Texas Lutheran University
 Texas Lutheran University,Texas Lutheran University
 Texas Southern University,Texas Southern University
+Texas State U - San Marcos,Texas State University
 Texas Tech,Texas Tech University
 Texas Tech University,Texas Tech University
 Texas Wesleyan University,Texas Wesleyan University
@@ -3122,6 +3152,7 @@ Trenton St,
 Tri State,Tri State University
 Tri State University,Tri State University
 Tri-State,Tri State University
+Tri-State University,Tri State University
 Trieste,University of Trieste
 Trinity,Trinity University
 Trinity Col,Trinity College Hartford
@@ -3135,6 +3166,7 @@ Troy St-Mont,Troy State University
 Troy State,Troy State University
 Troy State Univ Dothan,Troy State University
 Troy State University,Troy State University
+Troy University,Troy University
 Truman State,Truman State University
 Truman State University,Truman State University
 TRW,
@@ -3231,6 +3263,7 @@ U Missouri--St. Louis,University of Missouri-St. Louis
 U New Englan,University of New England Australia
 U Newcastle,University of Newcastle
 U North Carolina at Pembroke,University of North Carolina at Pembroke
+U North Carolina Greensboro,"University of North Carolina, Greensboro"
 U Nottingham,University of Nottingham
 U of Alabama at Birmingham,"University of Alabama, Birmingham"
 U of Alabama in Huntsville,"University of Alabama, Huntsville"
@@ -3269,8 +3302,10 @@ U Queensland,University of Queensland
 U San Fran,University of San Francisco
 U So Denmark,Syddansk Universitet
 U South Carolina at Spartanb,"University of South Carolina, Spartanburg"
+U South Carolina Upstate,"University of South Carolina, Spartanburg"
 U South Carolina-Spartanburg,"University of South Carolina, Spartanburg"
 U South Carolina/Spartanburg,"University of South Carolina, Spartanburg"
+U Texas of the Permian Basin,"University of Texas, Permian Basin"
 U Ulsan-Kore,University of Ulsan
 U Wash,University of Washington
 U Wash-Bothe,University of Washington Bothell
@@ -3377,6 +3412,7 @@ Univ of Illinois at Chicago,"University of Illinois, Chicago"
 Univ of Louisiana at Monroe,University of Louisiana at Monroe
 Univ of Maine,University of Maine
 Univ of Mary Hardin-Baylor,University of Mary Hardin-Baylor
+Univ of Mary Washington,University of Mary Washington
 Univ of Melbourne-Victoria,Victoria University
 Univ of Michigan-Dearborn,University of Michigan
 Univ of Michigan-Flint,University of Michigan
@@ -3401,6 +3437,7 @@ Univ of Texas at Dallas,"University of Texas, Dallas"
 Univ of Texas at El Paso,"University of Texas, El Paso"
 Univ of Texas at Tyler,"University of Texas, Tyler"
 Univ of Texas-Pan American,"University of Texas, Pan American"
+Univ of the Cumberlands,University of the Cumberlands
 Univ of the Incarnate Word,University of the Incarnate Word
 Univ of the Virgin Islands,University of the Virgin Islands
 Univ of The West Indies7,University of the West Indies
@@ -3456,6 +3493,7 @@ University of Baltimore,University of Baltimore
 University of Bath,University of Bath
 University of Bridgeport,University of Bridgeport
 University of Bristol,University of Bristol
+"University of Buffalo, SUNY",University at Buffalo
 University of Calgary,University of Calgary
 University of Canterbury,University of Canterbury
 University of Chicago,University of Chicago
@@ -3582,6 +3620,7 @@ University of Washington,University of Washington
 University of Waterloo,University of Waterloo
 University of West Alabama,University of West Alabama
 University of West Florida,University of West Florida
+University of West Georgia,University of West Georgia
 University of Windsor,University of Windsor
 University of Wollongong,University of Wollongong
 University of Wyoming,University of Wyoming
@@ -3701,7 +3740,8 @@ Wake Fr-MBA,Wake Forest University
 Walden,
 Wales,University of Wales
 Wales-Bangor,Bangor University
-Walla Walla,
+Walla Walla,Walla Walla College
+Walla Walla College,Walla Walla College
 Walsh,
 Warford,
 Warick,University of Warwick
@@ -3765,6 +3805,7 @@ West Tx A&M,West Texas A&M University
 West Txs A&M,West Texas A&M University
 West Txs St,Texas State University
 West Virginia State College,West Virginia State University
+West Virginia State Univ,West Virginia State University
 West Virginia Univ Inst Tech,West Virginia University Institute of Technology
 West Virginia University,West Virginia University
 Western Carolina University,Western Carolina University
