@@ -1196,7 +1196,7 @@ ID,scopus_name,scopus_id,grad_year
 "Barnett, Richard;University of Minnesota;1989","Barnett, Richard C.",7201800959,1989
 "Barnett, William A.;Carnegie Mellon University;1974","Barnett, William A.",7102771655,1974
 "Barnett, William P.;University of California, Berkeley;1988","Barnett, William P.",7102771669,1988
-"Barnett, William;Michigan State University;1974","Barnett, William A.",7102771655,1974
+"Barnett, William;Michigan State University;1974","Barnett, William",57204346882,1974
 "Barney, Douglas K.;University of Mississippi;1993","Barney, Douglas K.",7003539381,1993
 "Barney, Jay B.;Yale University;1982","Barney, Jay B.",24524350000,1982
 "Barney, L. Dwayne;Texas A&M University;1984","Barney, L. Dwayne",8702292200,1984
@@ -3265,7 +3265,7 @@ ID,scopus_name,scopus_id,grad_year
 "Chae, Joon;Massachusetts Institute of Technology;2003","Chae, Joon",35304629600,2003
 "Chae, Suchan;University of Pennsylvania;1985","Chae, Suchan",7101962062,1985
 "Chaganti, Radha;University at Buffalo;1979","Chaganti, Radha",7102911515,1979
-"Chaganti, Raj;University at Buffalo;1978","Chaganti, Radha",7102911515,1979
+"Chaganti, Raj;University at Buffalo;1978","Chaganti, Rajeswararao S.",57225373801,1979
 "Chaikind, Stephen B.;CUNY;1978","Chaikind, Stephen",6506128189,1978
 "Chaison, Gary N.;University at Buffalo;1972","Chaison, Gary N.",6602559970,1972
 "Chakrabarti, Alok K.;Northwestern University;1972","Chakrabarti, Alok K.",7202579409,1972
@@ -6258,7 +6258,6 @@ ID,scopus_name,scopus_id,grad_year
 "Field, William","Field, William J.",57012798300,1980
 "Field, William J.;University of Michigan;1980","Field, William J.",57012798300,1980
 "Field, William Joseph;University of Michigan;1980","Field, William J.",57012798300,1980
-"Field, William P. Jr.;University of North Carolina;1971","Field, William J.",57012798300,1971
 "Field-Hendrey, Elizabeth;Duke University;1985","Field-Hendrey, Elizabeth B.",6505836809,1985
 "Fields, Dail;Georgia Institute of Technology;1994","Fields, Dail L.",7005488848,1994
 "Fields, Joseph A.;Pennsylvania State University;1986","Fields, J. A.",7103238510,1986
@@ -8452,8 +8451,8 @@ ID,scopus_name,scopus_id,grad_year
 "HassabElnaby, Hassan;Cairo U;1998","HassabElnaby, Hassan R.",8255059800,1998
 "Hassan, M. Kabir;University of Nebraska;1988","Hassan, Mohammad Kabir",57203737478,1988
 "Hassan, M. Zia;Illinois Institute of Technology;1965","Hassan, M. Zia",24387422900,1965
-"Hassan, Mahmud","Hassan, Mohammad Kabir",57203737478,1989
-"Hassan, Mahmud;Vanderbilt University;1989","Hassan, Mohammad Kabir",57203737478,1989
+"Hassan, Mahmud","Hassan, Mohammad Kabir",57192805490,1989
+"Hassan, Mahmud;Vanderbilt University;1989","Hassan, Mohammad Kabir",57192805490,1989
 "Hassan, Seid;Texas A&M University;1993","Hassan, Seid Y.",8096905700,1993
 "Hassanein, Saad A.;Catholic University of America","Hassanein, Saad A.",6602919109,
 "Hassel, Lars G.;Abo;1992","Hassel, Lars",6507603265,1992
@@ -9387,7 +9386,7 @@ ID,scopus_name,scopus_id,grad_year
 "Hund, John E.;University of Texas at Austin","Hund, John E.",22985367100,
 "Hundley, Greg S.;University of Minnesota;1981","Hundley, Greg",6603596486,1981
 "Hung, Chao-shun;Texas A&M University;1982","Hung, Chaoshun",7403166557,1982
-"Hung, K.H.K.;York University;1995","Koon Hung, Chan",56226753300,1995
+"Hung, K.H.K.;York University;1995","Hung, Kineta H.",15769295600,1995
 "Hung, Mingyi;Massachusetts Institute of Technology;1998","Hung, Mingyi",7202454362,1998
 "Hunger, J. David;Ohio State University;1973","Hunger, J. David",7004214480,1973
 "Hungerman, Daniel;Duke University;2005","Hungerman, Daniel M.",9250700100,2005
@@ -10042,7 +10041,6 @@ ID,scopus_name,scopus_id,grad_year
 "Johnson, Timothy;University of Chicago;1999","Johnson, Timothy C.",55462711000,1999
 "Johnson, W. Bruce;Ohio State University;1975","Johnson, W. Bruce",11640282400,1975
 "Johnson, Walter D.;University of Oklahoma;1971","Johnson, Walter D.",57199385361,1971
-"Johnson, Walter L.;Duke University;1963","Johnson, Walter D.",57199385361,1963
 "Johnson, Walter L.;University of Texas at Austin;1974","Johnson, Walter L.",35603570600,1974
 "Johnson, William R.;Massachusetts Institute of Technology;1975","Johnson, William R.",24343962700,1975
 "Johnson, Woodrow;Columbia University;2002","Johnson, Woodrow T.",35094061400,2002
@@ -11412,7 +11410,7 @@ ID,scopus_name,scopus_id,grad_year
 "Kumar, Kamalesh;University of North Texas;1990","Kumar, Kamalesh",55042990200,1990
 "Kumar, Krishna R.;Columbia University;1988","Kumar, Krishna R.",27170610100,1988
 "Kumar, Nirmalya;Northwestern University;1991","Kumar, Nirmalya",9271966600,1991
-"Kumar, P. C.;Pennsylvania State University;1975","Kumar, Praveen",55545543800,1975
+"Kumar, P. C.;Pennsylvania State University;1975","Kumar, Praveen",57189674285,1975
 "Kumar, Praveen;Stanford University;1985","Kumar, Praveen",55545543800,1985
 "Kumar, Rachna;New York University;1993","Kumar, Rachna",55492133800,1993
 "Kumar, Raman;University of Pittsburgh;1985","Kumar, Raman Krishna",10045369200,1985
@@ -13156,7 +13154,7 @@ ID,scopus_name,scopus_id,grad_year
 "Marshall, Beverly B.;Georgia State University;1998","Marshall, Beverly B.",7202279978,1998
 "Marshall, Beverly;Georgia State University;1998","Marshall, Beverly B.",7202279978,1998
 "Marshall, Brenda S.;University of Michigan;1990","Marshall, Brenda Stevenson",7202280131,1990
-"Marshall, C. R.;Washington University in St. Louis;1995","Marshall, Brenda Stevenson",7202280131,1990
+"Marshall, C. R.;Washington University in St. Louis;1995","Marshall, C. R.",7201903504,1990
 "Marshall, David W.;University of Illinois;1988","Marshall, David W.",57190901398,1988
 "Marshall, J.;Massachusetts Institute of Technology;1969","Marshall, John M.",55471925600,1969
 "Marshall, James N.;Lehigh University;1982","Marshall, James",55471926600,1982
@@ -14774,7 +14772,6 @@ ID,scopus_name,scopus_id,grad_year
 "Myers, James N.;University of Michigan;1997","Myers, James N.",7402996287,1997
 "Myers, Joan K.;Syracuse University;1993","Myers, Joan K.",57191044906,1993
 "Myers, Mary D.;University of Maryland, College Park;1988","Myers, Mary D.",7402142948,1999
-"Myers, Mary Margaret;University of North Carolina;1999","Myers, Mary D.",7402142948,1999
 "Myers, Patricia M.;University of Arizona;1995","Myers, Patricia M.",35574491000,1995
 "Myers, Phyllis S.;University of South Carolina;1984","Myers, Phyllis S.",7201449593,1984
 "Myers, Stewart C.;Stanford University;1967","Myers, Stewart C.",7402640677,1967
@@ -20719,7 +20716,7 @@ ID,scopus_name,scopus_id,grad_year
 "Thornton, Daniel B.;York University;1978","Thornton, Daniel B.",7102567722,1978
 "Thornton, James R.;Cornell University;1974","Thornton, James R.",24322927600,1974
 "Thornton, James;University of Oregon;1991","Thornton, James A.",7402781950,1991
-"Thornton, John H.;Georgia State University;1975","Thornton, John H.",9433478000,1975
+"Thornton, John H.;Georgia State University;1975","Thornton, John H.",57647444100,1975
 "Thornton, John H.;Georgia State University;1999","Thornton, John H.",9433478000,1999
 "Thornton, John M.;Washington State University;1996","Thornton, John M.",15049736600,1996
 "Thornton, Robert J.;University of Illinois;1970","Thornton, Robert J.",7102053033,1970
@@ -22963,7 +22960,7 @@ ID,scopus_name,scopus_id,grad_year
 "Young, Danqing;University of Connecticut;1998","Young, Danqing",7404150421,1998
 "Young, Dean Max;University of Texas, Dallas;1980","Young, Dean M.",7404150010,1980
 "Young, Doug;Oregon State University;1976","Young, Douglas L.",7404145129,1976
-"Young, Douglas J.;University of Wisconsin, Madison;1978","Young, Douglas L.",7404145129,1978
+"Young, Douglas J.;University of Wisconsin, Madison;1978","Young, Douglas J.",7404145164,1978
 "Young, Eric;Carnegie Mellon University;2001","Young, Eric R.",16744833200,2001
 "Young, Gary F.;Louisiana Tech University;1977","Young, Gary F.",57029630200,1977
 "Young, George R.;University of Texas, Arlington;1996","Young, George R.",57203148540,1996

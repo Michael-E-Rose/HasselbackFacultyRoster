@@ -160,7 +160,7 @@ name,rank,dep,area,degree,grad_year,school,since,annotation
 "Albrecht, W. David",Assoc,Bowling Gr,FKA,PHD,91,Va Tech,1990,
 "Albrecht, W. Steve",Prof,Brigham Yg,FA,PHD,75,Wisconsin,6-77,Arthur Andersen Professor
 "Albright, Thomas L.",Assoc,Alabama,M,PHD,90,Tennessee,1990,J. Reese Phifer Faculty Fe
-"Albuloushi, Saad",,,,PHD,00.,Kent St,,
+"Albuloushi, Saad",,,,PHD,0,Kent St,,
 "Alciatore, Mimi L.",Assoc,Louisiana St,FVZ,PHD,89,Tx-Austin,1-97,
 "Alcorn, John M.",Assoc,Morehead St,GUR,MBA,75,Geo St,1966,
 "Alderman, C. Wayne",Dean,Auburn,FA,DBA,77,Tennessee,4-77,
@@ -519,7 +519,7 @@ name,rank,dep,area,degree,grad_year,school,since,annotation
 "Balachandran, Bala V.",Prof,Northwestern,AMS,PHD,73,Car Mellon,1973,J.L. Kellogg DistinguishedProfessor; Dir Atg ResearchCenter
 "Balachandran, I.",SLect,London Guild,CM,MBA,,,1998,
 "Balachandran, K. R.",Prof,New York U,MYQC,PHD,68,Berkeley,1979,
-"Balachandran, Sudhakar",Asst,Columbia,MF,PHD,00.,Harvard,2000,
+"Balachandran, Sudhakar",Asst,Columbia,MF,PHD,0,Harvard,2000,
 "Baladouni, Vahe",Emer,New Orleans,2000,PHD,65,Illinois,1966,
 "Balakrishnan, Ramji",Prof,Iowa,MY,PHD,86,Columbia,8-86,
 "Balcom, N. Jean",Assoc,Indianapolis,ACPX,PHD,91,Arkansas,1992,
@@ -583,7 +583,7 @@ name,rank,dep,area,degree,grad_year,school,since,annotation
 "Baridwan, Zaki",,Fak Economi,1992,DBA,89,Kentucky,,Fak Economi Univraw; JawaTimur Indonesia
 "Bariff, Martin L.",Assoc,Illinois Tch,AS,PHD,73,Illinois,1983,
 "Baril, Charles P.",Prof,Jms Madison,F,PHD,87,Florida,1-89,Arthur Andersen Alumni Fellow
-"Barker, Katherine J.",Asst,Tx-Brownsvil,FM,PHD,00.,Arkansas,1999,
+"Barker, Katherine J.",Asst,Tx-Brownsvil,FM,PHD,0,Arkansas,1999,
 "Barker, Robert L.",Prof,CS-Northrdge,X,PHD,74,Alabama,1981,
 "Barkess, Lynn",Lect,New So Wales,AB,MCO,M93,NS Wales,1990,
 "Barkhi, Reza",Asst,Virg Tech,S,PHD,95,Ohio St,8-97,
@@ -1071,7 +1071,7 @@ name,rank,dep,area,degree,grad_year,school,since,annotation
 "Bowles, Windell",Deces,Bellarmine,1993,MBA,62,Louisville,1960,
 "Bowlin, William F.",Prof,No Iowa,MN,PHD,84,Tx-Austin,1994,
 "Bowman, Robert G.",H-Pr,U Auckland,F,PHD,78,Stanford,1987,
-"Bowrin, Anthony",,West Indies,,PHD,00.,S Illinois,,
+"Bowrin, Anthony",,West Indies,,PHD,0,S Illinois,,
 "Bows, Albert J.",Retir,Emory,1979,MBA,35,Nrthwstrn,1975,
 "Boyce, Gordon",Lect,Macquarie Un,SA,BCO,M94,Deakin,1997,
 "Boyce, L. Fred",Retir,NE Missouri,1991,MS,47,Dartmouth,1985,
@@ -1805,7 +1805,7 @@ name,rank,dep,area,degree,grad_year,school,since,annotation
 "Choi, Chang K.",C-Pr,Chicago St,FCP,DBA,74,S Calif,1980,
 "Choi, Frederick D. S.",Prof,New York U,IFM,PHD,72,U Wash,1981,
 "Choi, Hyun-Dol",,,,PHD,95,Ga Tech,,
-"Choi, Jong-Hag",Asst,Hong Kong Sc,AFI,PHD,00.,Illinois,2000,
+"Choi, Jong-Hag",Asst,Hong Kong Sc,AFI,PHD,0,Illinois,2000,
 "Choi, Jung Ho",Prof,Chung-Ang,FPQ,PHD,87,Houston,1988,
 "Choi, Kok-Kun",,,,PHD,94,Houston,,
 "Choi, Kwan",,King Sejong,1992,PHD,92,Syracuse,,Dept Acctg; Sch of Mgt; King Sejong Univ; Kunja-DonSeoul Korea
@@ -1835,7 +1835,7 @@ name,rank,dep,area,degree,grad_year,school,since,annotation
 "Christensen, Peter O.",Prof,Syddansk Un,TMF,PHD,90,Odense,1985,
 "Christensen, Theodore E.",Asst,Brigham Yg,M,PHD,95,Georgia,9-00,
 "Christenson, Charles J.",Emer,Harvard,TMN,DBA,61,Harvard,1957,Royal Little Professor ofBusiness Administration
-"Christian, Cal",Asst,East Carol,FA,PHD,00.,Fla St,8-00,
+"Christian, Cal",Asst,East Carol,FA,PHD,0,Fla St,8-00,
 "Christian, Charles W.",Assoc,Arizona St,X,PHD,85,Georgia,1-85,
 "Christiansen, Linda",Lect,Indiana SE,FL,JD,87,Indiana,8-98,
 "Christianson, Chuck",Assoc,Luther,AFM,MBA,75,S Dakota,1988,
@@ -4576,7 +4576,7 @@ name,rank,dep,area,degree,grad_year,school,since,annotation
 "Hoyle, Joe B.",C-Ac,Richmond,FVR,MBA,72,Appalach,1979,
 "Hoyt, Hugh A.",Prof,Miami U-Ohio,AF,PHD,70,Mich St,9-73,
 "Hrasky, Sue L.",Lect,Un Tasmania,FA,MSO,C95,Tasmania,1987,
-"Hribar, S. Paul",Asst,Cornell,F,PHD,00.,Iowa,7-00,
+"Hribar, S. Paul",Asst,Cornell,F,PHD,0,Iowa,7-00,
 "Hrncir, Theresa",Asst,SE Okla St,AF,PHD,94,Oklahoma,1996,
 "Hronsky, Jane J. F.",Lect,U Melbourne,FA,MCO,M,Melbourne,1997,
 "Hsieh, James",SLect,Simon Fraser,F,MBA,74,Oregon,1-85,
@@ -5342,7 +5342,7 @@ name,rank,dep,area,degree,grad_year,school,since,annotation
 "Kimball, William L.",Prof,CS-Northrdge,FMX,PHD,67,Nrthwstrn,1981,
 "Kimbell, James A. Jr.",Retir,Fran Marion,1995,DBA,78,La Tech,8-85,
 "Kimbrell, Janet I.",Assoc,Oklahoma St,F,PHD,79,Okla St,1979,
-"Kimbro, M.",Asst,HongKon Tech,I,PHD,00.,Maryland,1999,
+"Kimbro, M.",Asst,HongKon Tech,I,PHD,0,Maryland,1999,
 "Kimmel, Paul D.",Assoc,Wis-Milwauke,FA,PHD,89,Wisconsin,1989,
 "Kimmell, Dennis L.",Retir,Akron,1998,DBA,74,Kent St,9-76,
 "Kimmell, Sharon L.",Assoc,Akron,FV,DBA,86,Kent St,9-81,
@@ -5740,7 +5740,7 @@ name,rank,dep,area,degree,grad_year,school,since,annotation
 "Latham, Harold L.",Retir,E Kentucky,1988,MA,56,Kentucky,1973,
 "Lathan, Malcolm H.",Assoc,Virginia,FA,PHD,82,N Carol,8-83,
 "Lathen, William C.",Dean,Boise State,XE,PHD,82,Ariz St,9-84,
-"Latshaw, Craig A.",Asst,St John's,CF,PHD,00.,Drexel,1999,
+"Latshaw, Craig A.",Asst,St John's,CF,PHD,0,Drexel,1999,
 "Lattimer, Lee L.",Assoc,St John's,FM,DBA,76,Geo Wash,1978,
 "Lau, Amy Hing-Ling",Prof,Oklahoma St,CMF,PHD,82,Wash U,1984,Kerr-McGee Chair
 "Lau, Chor T.",Prof,CS-L Angeles,MC,PHD,76,Oregon,1985,
@@ -5808,7 +5808,7 @@ name,rank,dep,area,degree,grad_year,school,since,annotation
 "Lee, Chang-Woo",Assoc,Seoul Natl,FIAX,PHD,87,Berkeley,1992,
 "Lee, Charles M. C.",Prof,Cornell,FB,PHD,90,Cornell,8-96,Dir Parker Center for InvestmentResearch/H.J.Louis Professor of Mgt
 "Lee, Chi-Wen Jevons",Prof,Tulane,FMAI,PHD,77,Rochester,1988,Exxon Professor of Business; joint appointmentwithHong Kong Univ SciTech
-"Lee, Choh Chen",Asst,Fla Internat,AS,PHD,00.,S Illinois,2000,
+"Lee, Choh Chen",Asst,Fla Internat,AS,PHD,0,S Illinois,2000,
 "Lee, Choongseop",,,FA,PHD,95,Geo St,,
 "Lee, Chun-Eui",Prof,Chosun Univ,BFHW,PHD,92,Sejong,1980,
 "Lee, Daisun",,Sogang Univ,1992,PHD,87,Nebraska,,Sogang Univ; CPO Box 1142;SeoulKorea
@@ -5986,7 +5986,7 @@ name,rank,dep,area,degree,grad_year,school,since,annotation
 "Limacher, Joseph",,,F,PHD,97,U Wash,,
 "Limberg, Stephen T.",C-Pr,Texas-Austin,X,PHD,82,Ariz St,9-82,PricewaterhouseCoopers CentennialProfessor ofAccountng
 "Limmack, Robin J.",Prof,Un Stirling,FPQE,MBA,73,Liverpool,1978,
-"Lin, Cecila",Asst,East Central,AFS,PHD,00.,North Tx,8-00,
+"Lin, Cecila",Asst,East Central,AFS,PHD,0,North Tx,8-00,
 "Lin, Chan-Jane",Prof,Nat Taiwan U,FI,PHD,89,Maryland,1990,
 "Lin, Hsiou-wei",Asst,Nat Chengchi,,PHD,94,Stanford,,
 "Lin, Hwey-Jane",Assoc,Nat Taiwan U,CFMP,MA,80,Penn,1984,
@@ -6141,7 +6141,7 @@ name,rank,dep,area,degree,grad_year,school,since,annotation
 "Lu, Debra Hua",Retir,St Cloud St,1999,PHD,73,Minnesota,1973,
 "Lu, Wei",Lect,Monash Univ,IH,MEC,,,1994,
 "Lu, Zemin",Asst,HongKon Tech,FT,PHD,98,Tulane,1998,
-"Lu, Zhou",,Hong Kong U,FX,PHD,00.,S Calif,,
+"Lu, Zhou",,Hong Kong U,FX,PHD,0,S Calif,,
 "Lubberink, Martien",Lect,U Lancaster,F,MSC,92,Groningn,2000,
 "Lubell, Myron S.",Assoc,Fla Internat,XM,DBA,78,Maryland,1975,
 "Lubich, Bruce H.",VAsst,American U,XF,PHD,91,Penn St,9-96,
@@ -6151,7 +6151,7 @@ name,rank,dep,area,degree,grad_year,school,since,annotation
 "Lucas, William H.",Retir,So Miss,1995,PHD,66,Alabama,1990,
 "Luckett, Peter F.",Assoc,New So Wales,MB,PHD,84,Sydney,1983,
 "Luckie, William V.",Asst,Mercer-Macon,FMPG,MBA,68,Miss,1976,
-"Ludwig, Stephen E.",Asst,Geo Southern,AS,PHD,00.,Arkansas,1999,
+"Ludwig, Stephen E.",Asst,Geo Southern,AS,PHD,0,Arkansas,1999,
 "Luehlfing, Michael S.",Assoc,Louisiana Te,FTA,PHD,90,Georgia,1998,
 "Luft, Joan L.",Assoc,Michigan St,MB,PHD,92,Cornell,1992,
 "Luh, Frank F. S.",Retir,Lehigh,1995,PHD,65,Ohio St,1965,
@@ -6340,7 +6340,7 @@ name,rank,dep,area,degree,grad_year,school,since,annotation
 "Mangold, Nancy R.",Prof,CS-Hayward,MF,PHD,84,Berkeley,9-84,
 "Manion, John J.",Retir,Temple,1994,MBA,64,Temple,1964,
 "Mankin, Jeff A.",Inst,Lipscomb,MPSF,MAC,C90,Alabama,1-91,
-"Manly, Tracy S.",Asst,Louisiana St,F,PHD,00.,Arkansas,8-99,KPMG Developing Scholar
+"Manly, Tracy S.",Asst,Louisiana St,F,PHD,0,Arkansas,8-99,KPMG Developing Scholar
 "Mann, Gary J.",C-Pr,Txs-El Paso,BCMU,PHD,86,Tx Tech,1-86,
 "Mann, Harvey",Deces,Brock Univ,8-95,PHD,72,NYU,7-87,
 "Mann, Lucretia S.",D-Ac,Mercy-NY,FAVT,MBA,78,Iona,9-82,
@@ -6887,7 +6887,7 @@ name,rank,dep,area,degree,grad_year,school,since,annotation
 "Miller, Herbert E.",Emer,Georgia,1989,PHD,44,Minnesota,1978,
 "Miller, James",Inst,Gannon,CMA,MBA,,Gannon,1997,
 "Miller, James J.",,Manhattan KS,1990,PHD,78,Missouri,,1815 Cedar Crest Dr; Manhattan KS66502
-"Miller, Jeffrey",Asst,Notre Dame,F,PHD,00.,Tx-Austin,2000,
+"Miller, Jeffrey",Asst,Notre Dame,F,PHD,0,Tx-Austin,2000,
 "Miller, Jeffrey R.",Assoc,Augusta St,ADFP,PHD,85,LSU,1993,
 "Miller, Jerome",Adj,Southeastern,,MBA,89,Southeas,,
 "Miller, Karen",Inst,Union-TN,,MAC,,Tn-Martin,1998,
@@ -7043,7 +7043,7 @@ name,rank,dep,area,degree,grad_year,school,since,annotation
 "Moreland, Keith A.",Assoc,Mich-Flint,AF,PHD,92,Cincinnati,1994,
 "Morell, Robert W.",Retir,Virginia,,PHD,57,St Louis,,
 "Moreno, Kimberly",Asst,Virg Tech,B,PHD,98,Mass,9-98,Professors William S. Gay and Mahlon Harrell Research Fellow
-"Morf, Duffy",Asst,Lander,CMP,PHD,00.,Miss,8-99,
+"Morf, Duffy",Asst,Lander,CMP,PHD,0,Miss,8-99,
 "Morgan, Carmen",C-Ac,Oregon Tech,FVA,MBA,91,Port St,1989,
 "Morgan, Donald Ace",Prof,Neb-Kearney,APF,PHD,78,Iowa,8-88,
 "Morgan, J. B.",SLect,Univ Ulster,X,BSC,,,1-76,
@@ -7095,7 +7095,6 @@ name,rank,dep,area,degree,grad_year,school,since,annotation
 "Mosakowski, Joe",Asst,No Alabama,CMPW,ABD,,,1972,
 "Moschetta, Judy",AdjAs,Wash & Jeff,CFTX,MS,,W Virginia,1978,
 "Moscove, Stephen A.",C-Pr,Central Conn,SM,PHD,71,Okla St,8-91,
-"Moscove, Stephen A.",,New Haven,SM,PHD,71,Okla St,1-01,
 "Mosebach, Janet",Inst,Arkansas,FX,MTX,98,Old Dom,2000,
 "Mosebach, Michael",Asst,Arkansas,FM,PHD,96,Oklahoma,2000,
 "Moseley, Owen B.",Prof,Arkansas St,ACT,PHD,76,Okla St,8-86,
@@ -7129,7 +7128,7 @@ name,rank,dep,area,degree,grad_year,school,since,annotation
 "Muehsam, Valerie P.",Asst,Sam Houston,,PHD,98,Tx A&M,,Economics Dept
 "Mueller, Fred J.",Emer,U Washington,1987,PHD,56,Ohio St,1956,
 "Mueller, Gerhard G.",Emer,U Washington,1996,PHD,62,Berkeley,1960,Financial Accounting Standards Board; 2030847-0700x 222 ggmueller @fasb.org
-"Mueller, Jennifer M.",Asst,Auburn,F,PHD,00.,Va Tech,8-00,
+"Mueller, Jennifer M.",Asst,Auburn,F,PHD,0,Va Tech,8-00,
 "Mufrig, Nasser",Asst,West Bank,1992,DBA,92,S Illinois,1992,
 "Mugan, Can Simga",,Bilkent Univ,2000,PHD,87,Illinois,,Dept of Management; Bilkent UnivPks; 06533 BilkentAnkaraTurkey
 "Mugavero, Daniel C.",Assoc,Lk Superior,AFMD,MBA,67,Mich St,9-76,
@@ -7387,7 +7386,7 @@ name,rank,dep,area,degree,grad_year,school,since,annotation
 "Nohl, Thomas",Inst,Intl College,POA,MS,95,Wisconsin,1996,
 "Noke, Christopher",SLect,London Econ,FH,MSC,78,London,1976,
 "Nolan, Elizabeth",Asst,SE Okla St,MVF,MED,78,SE Okla,1976,
-"Noland, Thomas",Asst,Morehead St,JQUY,PHD,00.,Miss,2000,
+"Noland, Thomas",Asst,Morehead St,JQUY,PHD,0,Miss,2000,
 "Noland, Thomas R.",Assoc,Houston,F,PHD,92,Illinois,9-92,
 "Nordhauser, Fred",Assoc,Tx-S Antonio,CM,PHD,71,Purdue,9-79,
 "Nordhauser, Susan L.",Prof,Tx-S Antonio,X,PHD,78,Tx-Austin,1978,
@@ -7569,7 +7568,7 @@ name,rank,dep,area,degree,grad_year,school,since,annotation
 "Orsini, Larry L.",Prof,St Bonaventu,FAI,MBA,81,St Bonav,1979,
 "Ortega, William R.",Asst,Western Wash,M,PHD,95,Fla St,1997,
 "Ortegren, Alan K.",Assoc,S Ill-Edward,FT,PHD,82,Arkansas,1982,
-"Ortiz, Dennis S.",Asst,Tx-Brownsvil,,PHD,00.,North Tx,1998,
+"Ortiz, Dennis S.",Asst,Tx-Brownsvil,,PHD,0,North Tx,1998,
 "Ortiz, Eulalio",Prof,Puerto RicoM,CFMX,MBA,76,Syracuse,8-73,
 "Ortman, Richard F.",Assoc,Neb-Omaha,MCU,PHD,71,Wisconsin,8-79,
 "Orton, Bryce B.",Retir,Brigham Yg,1989,PHD,62,U Wash,9-61,
@@ -7953,7 +7952,7 @@ name,rank,dep,area,degree,grad_year,school,since,annotation
 "Poletti, Elena",Lect,Univ Otago,FM,PHD,87,Otago,1988,
 "Poli, Patricia M.",Asst,Fairfield,FI,PHD,94,NYU,1996,
 "Polimeni, Ralph S.",Dean,Hofstra,C,PHD,73,Arkansas,9-73,
-"Polinski, Paul W.",Asst,Louisiana St,ATS,PHD,00.,Alabama,8-98,
+"Polinski, Paul W.",Asst,Louisiana St,ATS,PHD,0,Alabama,8-98,
 "Polk, Patricia P.",Inst,So Miss,F,MPA,86,S Miss,1986,
 "Pollack, Robert",,Purdue Calmu,,,,,,
 "Pollack, Sheldon D.",Assoc,Delaware,XL,PHD,80,Cornell,1994,
@@ -8230,7 +8229,7 @@ name,rank,dep,area,degree,grad_year,school,since,annotation
 "Ray, Amy W.",Assoc,Bentley,S,PHD,89,Va Tech,2000,Trustee Associate Professor of Accounting
 "Ray, Delmas D.",Deces,Florida,6-98,PHD,56,Florida,1948,
 "Ray, Diane",Inst,S Ill-Edward,FM,MSA,95,S Illinois,1998,
-"Ray, Gautam",Asst,Tx-Austin,,PHD,00.,Ohio St,2000,Univ of Texas-Austin; MSISDept;512-232-9379;gautam.ray@bus.utexas.edu
+"Ray, Gautam",Asst,Tx-Austin,,PHD,0,Ohio St,2000,Univ of Texas-Austin; MSISDept;512-232-9379;gautam.ray@bus.utexas.edu
 "Ray, Graham H.",Retir,Univ Bath,1996,PHD,81,Bath,1964,
 "Ray, J. C.",Retir,CS-L Angeles,1989,MBA,57,Tulsa,1957,303 30th Street; Hermosa Beach CA90254
 "Ray, J. O. III",,Troy State,1990,DBA,85,Miss St,,430 Cecilla Dr; Memphis TN38117
@@ -8932,7 +8931,7 @@ name,rank,dep,area,degree,grad_year,school,since,annotation
 "Scott, Stanley J.",Retir,So Methodist,1987,MBA,41,Tx-Austin,1-82,
 "Scott, Thomas W.",Assoc,Univ Alberta,FM,PHD,88,Queens,1985,
 "Scott, William R.",Retir,Un Waterloo,1996,PHD,73,Chicago,1983,
-"Scott, Winifred D.",Asst,Delaware,,PHD,00.,Fla St,8-99,
+"Scott, Winifred D.",Asst,Delaware,,PHD,0,Fla St,8-99,
 "Scott-Morton, Michael S.",Prof,MIT,1994,DBA,67,Harvard,1966,Behavioral & Policy Science Dept;MIT; 617-253-7175; Forrester Prof ofMgt
 "Scribner, Edmund A.",Prof,New Mex St,STJ,PHD,85,Okla St,8-83,
 "Scribner, John",Assoc,CS-San Bern,FP,MAB,A74,Ca-Rivers,9-78,
@@ -10566,7 +10565,7 @@ name,rank,dep,area,degree,grad_year,school,since,annotation
 "Wegman, David E.",Assoc,Fla Atlantic,CFM,DBA,79,Fla St,9-77,
 "Wehle, Mary M.",,,,DBA,72,Harvard,,
 "Wei, Donna",Asst,INSEAD,M,PHD,0,Berkeley,2000,
-"Weidenmier, Marcia",Asst,Tx Christian,SM,PHD,00.,Tx-Austin,2001,
+"Weidenmier, Marcia",Asst,Tx Christian,SM,PHD,0,Tx-Austin,2001,
 "Weidman, Stephanie",Asst,Rowan,BMSJ,ABD,,Drexel,1995,
 "Weihrich, Susan G.",Assoc,Seattle,XF,PHD,86,Houston,1989,
 "Weil, Roman L.",Prof,Chicago,FM,PHD,66,Car Mellon,1965,
@@ -11014,7 +11013,7 @@ name,rank,dep,area,degree,grad_year,school,since,annotation
 "Yeong, Bobby Mak Wai",Lect,Nanyang Tech,,ASD,S,,,on leave
 "Yerep, Stanley J.",Asst,Indiana U-PA,FAM,MS,72,Ind-Penn,1984,
 "Yerkes, Russell E.",Retir,Roosevelt,1992,PHD,75,SUNY-Buf,1985,305 55th St NW; BradentonFl 34209
-"Yetman, Robert J.",Asst,Iowa,FX,PHD,00.,N Carol,8-00,
+"Yetman, Robert J.",Asst,Iowa,FX,PHD,0,N Carol,8-00,
 "Yetmar, Scott A.",Asst,Drake,XFBM,PHD,95,Okla St,1996,
 "Yeung, Daniel",Lect,W Sydney-Nep,CS,MCO,M95,Wollong,1997,
 "Yeutter, John P.",Asst,NE St-Okla,XFJC,PHD,96,Oklahoma,1995,
@@ -11047,7 +11046,7 @@ name,rank,dep,area,degree,grad_year,school,since,annotation
 "Young, Harding B.",,,,DBA,55,Harvard,,
 "Young, James C.",Assoc,No Illinois,X,PHD,88,Mich St,8-00,
 "Young, Joni J.",Assoc,New Mexico,FH,PHD,91,Illinois,1992,
-"Young, Marilyn N.",Asst,Lipscomb,PX,PHD,00.,Miss,1992,
+"Young, Marilyn N.",Asst,Lipscomb,PX,PHD,0,Miss,1992,
 "Young, Nicola",Assoc,St Marys-Cdn,F,MBA,82,Dalhousie,1993,
 "Young, Richard A.",Prof,Ohio State,BCMY,PHD,84,Ohio St,1990,
 "Young, Roger D.",Retir,Bluffton,,MBA,62,Xavier,2001,
@@ -11055,7 +11054,7 @@ name,rank,dep,area,degree,grad_year,school,since,annotation
 "Young, S. David",Prof,INSEAD,F,PHD,85,Virginia,1989,
 "Young, S. Mark",Prof,So Calif,BCM,PHD,83,Pittsburgh,7-92,KPMG Foundation Professor& Associate Dean AcademicPlanning
 "Young, Steven",Lect,U Lancaster,FM,PHD,95,Lancaster,2000,
-"Young, Susan",Asst,Emory,F,PHD,00.,S Calif,9-00,
+"Young, Susan",Asst,Emory,F,PHD,0,S Calif,9-00,
 "Youngberg, Suzanne",Inst,No Illinois,FX,MST,91,DePaul,8-00,
 "Younkins, Edward",Prof,Wheeling Col,,PHD,84,Miss,,
 "Youssef, Leon A.",Retir,CS-Northrdge,1989,PHD,70,Minnesota,1966,21525 Pch; Malibu CA 90265

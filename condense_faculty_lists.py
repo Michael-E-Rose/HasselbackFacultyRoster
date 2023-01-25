@@ -38,7 +38,7 @@ def complete_year(y):
 
 
 def read_hasselback_file(fname, scopus, aff_map, degree_incl=('PHD',),
-                         rank_excl=('Retir', 'Emer', 'Deces')):
+                         rank_excl=('Retir', 'Emer', 'Deces', 'Visit')):
     """Read and compile file, subsetted to relevant degress only."""
     year = fname.stem.split("-")[0]
     df = pd.read_csv(fname).dropna(subset=["dep"])
