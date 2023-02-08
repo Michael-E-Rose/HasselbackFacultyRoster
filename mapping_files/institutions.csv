@@ -109,7 +109,7 @@ American Int,Thunderbird School of Global Management
 American International Coll,Thunderbird School of Global Management
 American U,American University
 American University,American University
-Amherst,University of Massachusetts
+Amherst,Amherst College
 Amherst College,Amherst College
 Amn Univ,American University
 Amsterda,University of Amsterdam
@@ -905,7 +905,7 @@ Eastern Washington Univ,Eastern Washington University
 Ecole des Hautes Comm Montreal,HEC Montreal
 Ecole des Hautes Etudes Com,HEC Montreal
 Ecole Pl,École Polytechnique
-Ecole Sup des Sci Econ et C,Paris School of Economics
+Ecole Sup des Sci Econ et C,ESSEC
 Ecole Superievre DeC deParis,ESCP Business School
 Ecole-Poly,École Polytechnique
 EcolePol,École Polytechnique
@@ -1420,8 +1420,8 @@ Israel,
 IsraelIn,
 Istanbul,
 ISTY,
-ITA Mex,
-ITA Mexico,
+ITA Mex,Instituto Tecnológico Autónomo de México
+ITA Mexico,Instituto Tecnológico Autónomo de México
 Ithaca,Ithaca College
 Ithaca College,Ithaca College
 ITIsrael,
@@ -1464,7 +1464,7 @@ John Brown U,John Brown University
 John Carroll,John Carroll University
 John Carroll University,John Carroll University
 John F. Kennedy University,John F. Kennedy University
-Johns Hopkins University,Tufts University
+Johns Hopkins University,Johns Hopkins University
 Johnson&Wale,
 Jordan,
 Kaist,KAIST
@@ -1641,7 +1641,7 @@ Lincoln-MO,Lincoln University
 Lincoln-NZ,Lincoln University (New Zealand)
 Lincoln-PA,Lincoln University (Pennsylvania)
 Lindenwood,Lindenwood University
-Lindenwood University,Randolph-Macon College
+Lindenwood University,Lindenwood University
 Linfield,Linfield College
 Linfield College,Linfield College
 Lingnan U,Lingnan University
@@ -1975,8 +1975,8 @@ Monteval,University of Montevallo
 Montevallo,University of Montevallo
 Montpell,
 Montreal,Universite de Montreal
-Moorhead St,Morehead State University
-Moorhead State University,Morehead State University
+Moorhead St,Minnesota State University Moorhead
+Moorhead State University,Minnesota State University Moorhead
 Moravian,Moravian College
 Moravian Col & Theological S,Moravian College
 Moravian College,Moravian College
@@ -2001,12 +2001,12 @@ Mount Olive,Mount Olive College
 Mount Olive College,Mount Olive College
 Mount Saint Vincent Univ,Mount Saint Vincent University
 Mount Saint Vincent Univ,Mount Saint Vincent University
-Mount St. Mary's College,Mount St Mary's College
-Mount St. Mary's College-MD,Mount St Mary's College
-Mount St. Mary's Univ-MD,Mount St Mary's College
-Mount Union,
+Mount St. Mary's College,Mount St. Mary's University
+Mount St. Mary's College-MD,Mount St. Mary's University
+Mount St. Mary's Univ-MD,Mount St. Mary's University
+Mount Union,Mount Union College
 Mount Union College,Mount Union College
-MryHrd-B,
+MryHrd-B,University of Mary Hardin-Baylor
 Ms St-Meridn,Mississippi State University
 Ms Women,
 MSA Adv Mfg,
@@ -2048,7 +2048,7 @@ N Delhi,University of New Delhi
 N Eng-Au,University of New England Australia
 N Eng-Austr,University of New England Australia
 N Fla,University of Northern Florida
-N Georgia,University of North Georgia
+N Georgia,North Georgia College & State University
 N Illinois,Northern Illinois University
 N Iowa,University of Northern Iowa
 N Jersey,New Jersey City University
@@ -2190,12 +2190,12 @@ No Carol St,North Carolina State University
 No Carolina,University of North Carolina
 No Central,North Central College
 No Colorado,University of Northern Colorado
-No Georgia,Georgia State University
+No Georgia,North Georgia College & State University
 No Illinois,Northern Illinois University
 No Illinos,Northern Illinois University
 No Iowa,University of Northern Iowa
 No Kentucky,Northern Kentucky University
-No Michigan,University of Michigan
+No Michigan,Northern Michigan University
 No Texas St,University of North Texas
 Norfolk St,Norfolk State University
 Norfolk State University,Norfolk State University
@@ -2214,8 +2214,8 @@ North Dakota,University of North Dakota
 North Dakota State,North Dakota State University
 North Dakota State Univ,North Dakota State University
 North Fla,University of North Florida
-North Georgia Col & St Univ,University of North Georgia
-North Georgia Col & State U,University of North Georgia
+North Georgia Col & St Univ,North Georgia College & State University
+North Georgia Col & State U,North Georgia College & State University
 North Texas,University of North Texas
 North Tx,University of North Texas
 North Wales,
@@ -2330,9 +2330,10 @@ Oklahoma State University,Oklahoma State University
 Old Dom,Old Dominion University
 Old Dominion,Old Dominion University
 Old Dominion University,Old Dominion University
-Olivet,Olivet University
+Olivet,Olivet College
 Olivet College,Olivet College
-Olivet Nazar,
+Olivet Nazar,Olivet Nazarene University
+Olivet Nazarene University,Olivet Nazarene University
 Olka St,Oklahoma State University
 Open,
 Oral Roberts,Oral Roberts University
@@ -2430,7 +2431,7 @@ Playa CA,
 PlayaCA,
 Plymouth,University of Plymouth
 Plymouth St,Plymouth State University
-Plymouth State College,Plymouth State College
+Plymouth State College,Plymouth State University
 PNC Bank,PNC Bank
 PO S FranCA,
 Point Loma Nazarene Univ,Point Loma Nazarene University
@@ -2476,8 +2477,8 @@ Provo UT,
 PSU,Pennsylvania State University
 Pt Loma Naz,Point Loma Nazarene University
 PTA,
-Puerto Rico,
-Puerto RicoM,
+Puerto Rico,University of Puerto Rico
+Puerto RicoM,University of Puerto Rico
 Puget Sd,University of Puget Sound
 Puget Sound,University of Puget Sound
 Punjab,
@@ -2509,8 +2510,8 @@ Queensld Tec,Queensland University of Technology
 Queensln,University of Queensland
 Queenslnd,University of Queensland
 Quincy,Quincy University
-Quincy Col,Quincy College
-Quincy College,Quincy College
+Quincy Col,Quincy University
+Quincy College,Quincy University
 Quincy University,Quincy University
 Quinnipiac,Quinnipiac College
 Quinnipiac College,Quinnipiac College
@@ -2576,7 +2577,7 @@ Rochester Inst of Technology,Rochester Institute of Technology
 Rockches,University of Rochester
 Rockford,
 Rockhurst,Rockhurst University
-Rockhurst College,Rockhurst College
+Rockhurst College,Rockhurst University
 Rockhurst University,Rockhurst University
 Roger Williams University,Roger Williams University
 Roger Wm,Roger Williams University
@@ -2853,7 +2854,7 @@ Southwes,Southwestern University
 Southwest Baptist Univ,Southwest Baptist University
 Southwest Minnesota St Univ,Southwest Minnesota State University
 Southwest Missouri St Univ,Missouri State University
-Southwest State University,Southwest State University
+Southwest State University,Southwest Minnesota State University
 Southwest Texas State Univ,Texas State University
 Southwestern,Southwestern University
 Southwestern Oklahoma St U,Southwestern Oklahoma State University
@@ -2922,7 +2923,7 @@ St Rose,College of Saint Rose
 St Scholasti,College of St Scholastica
 St Stevens,Stevens Institute of Technology
 St Thomas,
-St Thomas-FL,University of St Thomas Florida
+St Thomas-FL,St. Thomas University
 St Thomas-MN,University of St Thomas Minnesota
 St Thomas-TX,University of St Thomas Texas
 St Thomas-Tx,University of St Thomas Texas
@@ -3171,7 +3172,7 @@ Troy St-Mont,Troy State University
 Troy State,Troy State University
 Troy State Univ Dothan,Troy State University
 Troy State University,Troy State University
-Troy University,Troy University
+Troy University,Troy State University
 Truman State,Truman State University
 Truman State University,Truman State University
 TRW,
@@ -3441,7 +3442,7 @@ Univ of Texas at Dallas,"University of Texas, Dallas"
 Univ of Texas at El Paso,"University of Texas, El Paso"
 Univ of Texas at Tyler,"University of Texas, Tyler"
 Univ of Texas-Pan American,"University of Texas, Pan American"
-Univ of the Cumberlands,University of the Cumberlands
+Univ of the Cumberlands,Cumberland College
 Univ of the Incarnate Word,University of the Incarnate Word
 Univ of the Virgin Islands,University of the Virgin Islands
 Univ of The West Indies7,University of the West Indies
@@ -3726,7 +3727,9 @@ W Nex Mexico,Western New Mexico University
 W Ontario,University of Western Ontario
 W Oregon St,Western Oregon University
 W Sydney,Western Sydney University
-W Sydney-Nep,
+W Sydney-Na,Western Sydney University
+W Sydney-Ne,Western Sydney University
+W Sydney-Nep,Western Sydney University
 W Tx St,West Texas A&M University
 W Virg St,West Virginia State University
 W Virg Tech,West Virginia University Institute of Technology
@@ -3772,10 +3775,10 @@ Washington State University,Washington State University
 Washington University,Washington University in St. Louis
 Waterloo,University of Waterloo
 Wayland Bapt,
-Wayne St,Wayne State College
-Wayne St Col,Wayne State College
+Wayne St,Wayne State University
+Wayne St Col,Wayne State University
 Wayne State,Wayne State University
-Wayne State College,Wayne State College
+Wayne State College,Wayne State University
 Wayne State University,Wayne State University
 Webber Coll,Webber College
 Webber College,Webber College
