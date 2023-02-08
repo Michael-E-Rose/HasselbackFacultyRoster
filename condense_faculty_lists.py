@@ -76,7 +76,8 @@ def main():
     inst_map = pd.read_csv(MAPPING_FOLDER/"institutions.csv", index_col=0)
     inst_map = inst_map.dropna(subset=['our_name'])
     inst_map = inst_map["our_name"].to_dict()
-    files = list(SOURCE_FOLDER.glob("*.csv"))
+    files = sorted(SOURCE_FOLDER.glob("*.csv"),
+                   key=lambda s: f"{s.stem[1]}{s.stem[4]}{s.stem[0]}")
     df, unidentified, missing = read_hasselback_file(files[0], scopus[["scopus_id"]], inst_map)
     for file in files[1:]:
         new, new_un, new_miss = read_hasselback_file(file, scopus[["scopus_id"]], inst_map)
