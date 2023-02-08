@@ -1,6 +1,7 @@
 hasselback,our_name
 0retirFla,University of Florida
 Aachen Univ,RWTH Aachen
+Aachen Univ (RWTH),RWTH Aachen
 Aachen Univ of Technology,RWTH Aachen
 Aarhus,Aarhus University
 Aberdeen,University of Aberdeen
@@ -587,6 +588,7 @@ Christian Br,Christian Brothers University
 Christian Brothers Univ,Christian Brothers University
 Christopher Newport Univ,Christopher Newport University
 Chulalongkor,Chulalongkorn University
+Chulalongkorn University,Chulalongkorn University
 Chung-Ang,Chung-Ang University
 Chung-Ang Un,Chung-Ang University
 Chung-Ang University,Chung-Ang University
@@ -781,7 +783,8 @@ David Lipsco,
 Davidson,Davidson College
 Davidson College,Davidson College
 Dayton,University of Dayton
-De Cordoba,
+DeCordoba,National University of Córdoba
+De Cordoba,National University of Córdoba
 Deakin,Deakin University
 Deakin Univ,Deakin University
 Deakin Univ at Burwood,Deakin University
@@ -919,7 +922,8 @@ Edmonton,
 EEIIT,EEIIT
 Egypt,
 Eindhove,University of Eindhoven
-Elizabeth Ct,
+Elizabeth City State Univ,Elizabeth City State University
+Elizabeth Ct,Elizabeth City State University
 Elizabethtown College,Elizabethtown College
 Elizabethtwn,Elizabethtown College
 Elmhurst,Elmhurst College
@@ -1243,6 +1247,7 @@ Hebrew U,Hebrew University of Jerusalem
 Hebrew Univ,Hebrew University of Jerusalem
 Hebrew Univ of Jerusalem,Hebrew University of Jerusalem
 HEC,HEC Paris
+HEC Montreal,HEC Montreal
 HEC Paris,HEC Paris
 HEC-Mont,HEC Montreal
 HEC-Montreal,HEC Montreal
@@ -1253,6 +1258,7 @@ Heidelberg,Heidelberg College
 Heidelberg College,Heidelberg College
 Helsinki Sch,Helsinki School of Economics
 Helsinki Sch of Econ & BA,Helsinki School of Economics
+Helsinki Sch of Economics,Helsinki School of Economics
 Henderson St,Henderson State University
 Henderson State University,Henderson State University
 Hendrix,Hendrix College
@@ -1403,7 +1409,7 @@ International College,Hodges University
 International Univ of Japan,International University of Japan
 Intl College,Hodges University
 Intl Grd,
-Intl Inst for Mgt Dev-IMD,
+Intl Inst for Mgt Dev-IMD,International Institute for Management Development
 Intl Inst for Mgt Develop,International Institute for Management Development
 Intl Japan,International University of Japan
 Intl Mgt Dev,International Institute for Management Development
@@ -1736,7 +1742,7 @@ Maastricht,Maastricht University
 Maastricht University,Maastricht University
 Macalester,Macalester College
 Macalester College,Macalester College
-Macon State,Macquarie University
+Macon State College,Macon State College
 Macquarie,Macquarie University
 Macquarie Un,Macquarie University
 Macquarie University,Macquarie University
@@ -1812,11 +1818,12 @@ Massachusett,University of Massachusetts
 Massachusetts Inst of Tech,Massachusetts Institute of Technology
 Massey,Massey University
 Massey Univ,Massey University
+Massey Univ - Albany Campus,Massey University
 Massey University,Massey University
 Massey University Turitea,Massey University
-Massey-Alban,Massey University Auckland
+Massey-Alban,Massey University
 Massey-Turit,Massey University
-Massey-Welli,Massey University Wellington
+Massey-Welli,Massey University
 Masstricht,Maastricht University
 MBA Seminars,
 Mc Gill University,McGill University
@@ -1837,7 +1844,7 @@ McMurry University,McMurry University
 McNeese,McNeese State University
 McNeese St,McNeese State University
 McNeese State University,McNeese State University
-MD E Shore,
+MD E Shore,University of Maryland Eastern Shore
 MD-Baltim Co,"University of Maryland, Baltimore County"
 Medford,
 Melbourne,University of Melbourne
@@ -1851,8 +1858,8 @@ Mercer University-Atlanta,Mercer University at Atlanta
 Mercer University-Macon,Mercer University at Macon
 Mercer-Atlan,Mercer University at Atlanta
 Mercer-Macon,Mercer University at Macon
-Mercy College,
-Mercy-NY,Mercer University at New York
+Mercy College,Mercy College (New York)
+Mercy-NY,Mercy College (New York)
 Meredith,Meredith College
 Meredith College,Meredith College
 Merrimack,Merrimack College
@@ -1869,6 +1876,7 @@ Metropolitan St Col Denver,Metropolitan State University of Denver
 Metropolitan St Coll,Metropolitan State University of Denver
 Metropolitan St Coll Denver,Metropolitan State University of Denver
 Metropolitan State Univ,Metropolitan State University
+Metropolitan State Univ-MN,Metropolitan State University
 Miami,Miami University
 Miami U,Miami University
 Miami U-Ohio,Miami University
@@ -1969,7 +1977,7 @@ Montana State University,Montana State University
 Montclair St,Montclair State University
 Montclair State College,Montclair State University
 Montclair State University,Montclair State University
-Monterey,
+Monterey Inst Intl Studies,Monterey Institute of International Studies
 Monterre,
 Monteval,University of Montevallo
 Montevallo,University of Montevallo
@@ -2339,6 +2347,7 @@ Open,
 Oral Roberts,Oral Roberts University
 Oral Roberts University,Oral Roberts University
 Oregon,University of Oregon
+Oregon Insitute of Tech,Oregon Institute of Technology
 Oregon Inst,Oregon Institute of Technology
 Oregon St,Oregon State University
 Oregon State,Oregon State University
@@ -2396,6 +2405,7 @@ Penn St-Harr,Penn State Harrisburg
 Penn St-Hotl,Penn State School of Hospitality Management
 Penn State,Pennsylvania State University
 Penn State - Erie,Penn State Behrend
+Penn State Sch of Hotel Rst,Penn State School of Hospitality Management
 Penn State Univ - Erie,Penn State Behrend
 Penn State Univ-Erie,Penn State Behrend
 Penn State Univ-Harrisburg,Penn State Harrisburg
@@ -2414,6 +2424,7 @@ Pfeiffer,Pfeiffer University
 Pfeiffer University,Pfeiffer University
 Philadel,Philadelphia University
 Philadelphia,Philadelphia University
+Philadelphia University,Philadelphia University
 Phillips Oil,
 Phoenix AZ,
 Picardie,
@@ -2486,6 +2497,7 @@ Purdue,Purdue University
 Purdue Calmu,Purdue University Calumet
 Purdue Calum,Purdue University Calumet
 Purdue University,Purdue University
+Purdue University Calumet,Purdue University Calumet
 Purdue University-Calumet,Purdue University Calumet
 Purdue-Calmu,Purdue University
 Pusan-Korea,
@@ -2501,6 +2513,7 @@ Queen's University,Queen's University
 Queenn's,Queen's University
 Queens,Queen's University
 Queens College,Queens University of Charlotte
+Queens Univ of Charlotte,Queens University of Charlotte
 Queens-Charl,Queens University of Charlotte
 Queensl,University of Queensland
 Queensland,University of Queensland
@@ -2830,6 +2843,7 @@ Southeast Missouri St Univ,Southeast Missouri State University
 Southeastern,Southeastern University
 Southeastern Louisiana Univ,Southeastern Louisiana University
 Southeastern Oklahoma,Southeastern Oklahoma State University
+Southeastern Oklahoma St,Southeastern Oklahoma State University
 Southeastern Oklahoma State,Southeastern Oklahoma State University
 Southeastern University,Southeastern University
 Southern,Southern University and A&M College
@@ -2981,6 +2995,7 @@ Sul Ross,Sul Ross State University
 Sul Ross St,Sul Ross State University
 Sultan Qaboo,Sultan Qaboos University
 Sultan Qaboos,Sultan Qaboos University
+Sultan Qaboos University,Sultan Qaboos University
 Sung Kyun K,Sungkyunkwan University
 Sung Kyun Kw,Sungkyunkwan University
 Sunley,
@@ -3144,8 +3159,8 @@ Toledo,University of Toledo
 Toronto,University of Toronto
 Touche Ross,
 Toulouse,University of Toulouse
-Touro,
-Touro College,
+Touro,Touro College
+Touro College,Touro College
 Touro Law,
 Towson,Towson University
 Towson State,Towson University
@@ -3171,6 +3186,7 @@ Troy St-Fla,Troy State University
 Troy St-Mont,Troy State University
 Troy State,Troy State University
 Troy State Univ Dothan,Troy State University
+"Troy State Univ, Montgomery",Troy State University
 Troy State University,Troy State University
 Troy University,Troy State University
 Truman State,Truman State University
@@ -3282,10 +3298,12 @@ U of California-Berkeley,"University of California, Berkeley"
 U of Colorado at Co Springs,University of Colorado Colorado Springs
 U of Louisiana at Lafayette,"University of Louisiana, Lafayette"
 U of M,University of Massachusetts
+U of Maryland Eastern Shore,University of Maryland Eastern Shore
 U of Massachusetts at Lowell,University of Massachusetts
 U of Massachusetts Lowell,University of Massachusetts
 U of Minnesota - Duluth,University of Minnesota Duluth
 U of Minnesota Duluth,University of Minnesota Duluth
+U of Missouri - Columbia,University of Missouri
 U of Missouri – Columbia,University of Missouri
 U of Missouri at Columbia,University of Missouri
 U of Pittsburgh at Johnstown,"University of Pittsburgh, Johnstown"
@@ -3318,6 +3336,7 @@ U Wash-Bothe,University of Washington Bothell
 U Wash-Bothl,University of Washington Bothell
 U Wash-Tacom,University of Washington Tacoma
 U Washington,University of Washington
+U Wisconsin-Stevens Point,"University of Wisconsin, Stevens Point"
 U Wisconsin-Stevens Point Stevens,"University of Wisconsin, Stevens Point"
 U Wollongong,University of Wollongong
 U Woolongong,University of Wollongong
@@ -3387,7 +3406,7 @@ Univ Laval,Universite Laval
 Univ Leeds,University of Leeds
 Univ Maryland-Baltimore Co,"University of Maryland, Baltimore County"
 Univ Missouri-Kansas City,University of Missouri–Kansas City
-Univ Nacional de Cordoba,
+Univ Nacional de Cordoba,National University of Córdoba
 Univ Navarra,University of Navarra
 Univ New Brunswick-St John,University of New Brunswick
 Univ of Alaska - Fairbanks,University of Alaska Fairbanks
@@ -3410,9 +3429,11 @@ Univ of Colorado at Boulder,University of Colorado
 Univ of Colorado at Denver,"University of Colorado, Denver"
 Univ of D C,University of the District of Columbia
 Univ of District of Columbia,University of the District of Columbia
+Univ of Hawaii - West Oahu,"University of Hawaii, West Oahu"
 Univ of Hawaii at Manoa,University of Hawaii
 Univ of Houston-Clear Lake,"University of Houston, Clear Lake"
 Univ of Houston-Downtown,University of Houston-Downtown
+Univ of Houston-Victoria,University of Houston-Victoria
 Univ of Illinois at Chicago,"University of Illinois, Chicago"
 Univ of Louisiana at Monroe,University of Louisiana at Monroe
 Univ of Maine,University of Maine
@@ -3432,6 +3453,7 @@ Univ of Saskatchewan,University of Saskatchewan
 Univ of South Carolina,University of South Carolina
 Univ of Southern California,University of Southern California
 Univ of Southern Colorado,Colorado State University Pueblo
+Univ of Southern Denmark,Syddansk Universitet
 Univ of Southern Indiana,University of Southern Indiana
 Univ of Southern Maine,University of Southern Maine
 Univ of Southern Queensland,University of Southern Queensland
@@ -3445,6 +3467,7 @@ Univ of Texas-Pan American,"University of Texas, Pan American"
 Univ of the Cumberlands,Cumberland College
 Univ of the Incarnate Word,University of the Incarnate Word
 Univ of the Virgin Islands,University of the Virgin Islands
+Univ of The West Indies,University of the West Indies
 Univ of The West Indies7,University of the West Indies
 Univ of Umea,Umea University
 "Univ of Wales, Bangor",Bangor University
@@ -3595,6 +3618,7 @@ University of Rochester,University of Rochester
 University of San Diego,University of San Diego
 University of San Francisco,University of San Francisco
 University of Scranton,University of Scranton
+University of Sharjah,University of Sharjah
 University of South Alabama,University of South Alabama
 University of South Dakota,University of South Dakota
 University of South Florida,University of South Florida
@@ -3780,8 +3804,9 @@ Wayne St Col,Wayne State University
 Wayne State,Wayne State University
 Wayne State College,Wayne State University
 Wayne State University,Wayne State University
-Webber Coll,Webber College
-Webber College,Webber College
+Webber Coll,Webber International University
+Webber College,Webber International University
+Webber International Univ,Webber International University
 Weber State,Weber State University
 Weber State University,Weber State University
 Webster,Webster University
@@ -3838,7 +3863,9 @@ Westminst-PA,Westminster College (Pennsylvania)
 Westminst-UT,Westminster College (Utah)
 Westminster,
 Westminster Cl of Salt Lk Ct,Westminster College (Utah)
+Westminster College,Westminster College (Utah)
 Westminster College-PA,Westminster College (Pennsylvania)
+Westmont College,Westmont College
 WestnCape,University of the Western Cape
 Wheaton College-IL,"Wheaton College, IL"
 Wheaton College-MA,"Wheaton College, MA"
