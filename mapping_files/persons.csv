@@ -202,7 +202,7 @@ ID,scopus_name,scopus_id,grad_year
 "Ahmed, Mirghani;University of Manchester;1990","Ahmed, Mirghani Nimir",55463617000,1990
 "Ahmed, Nazim U.;Texas A&M University;1978","Ahmed, Nazim Uddin",55432664300,1978
 "Ahmed, Parvez;University of Texas, Arlington;1996","Ahmed, Parvez",55412195400,1996
-"Ahmed, Syed;Simon Fraser University;1988","Ahmed, Syed",57211680280,1988
+"Ahmed, Syed;Simon Fraser University;1988","Ahmed, Syed M.",57697932400,1988
 "Ahn, David;Stanford University;2004","Ahn, David S.",19336859800,2004
 "Ahn, Dong-Hyun;New York University;1996","Ahn, Dong-hyun",35271267900,1996
 "Ahn, Seoungpil;Purdue University;2001","Ahn, Seoungpil",7401989546,2001
@@ -433,7 +433,7 @@ ID,scopus_name,scopus_id,grad_year
 "Amihud, Yakov;New York University;1975","Amihud, Yakov",6602730596,1975
 "Amin, M. Ruhul;University of Akron;1985","Amin, Ruhul",57210228243,1985
 "Amin, Shahina;University of Illinois;1997","Amin, Shahina",7201844899,1997
-"Amin-Gutierrez de Pineres, S;Duke University;1992","de Piñeres, Sheila Amin Gutiérrez",6506364844,1992
+"Amin-Gutierrez de Pineres, S;Duke University;1992","De Piñeres, Sheila Amin Gutiérrez",6506364844,1992
 "Amir, Eli;University of California, Berkeley;1991","Amir, Eli",7004440694,1991
 "Amir, Rabah;University of Illinois","Amir, Rabah",7005008489,
 "Amira, Khaled;George Washington University","Amira, Khaled",36010306500,
@@ -1333,7 +1333,7 @@ ID,scopus_name,scopus_id,grad_year
 "Batina, Raymond;University of Minnesota;1985","Batina, Raymond G.",6603447496,1985
 "Batory, Anne H.;University of Maryland, College Park;1985","Batory, Anne Heineman",57471856100,1985
 "Batra, Raveendra N.;Southern Illinois University;1969","Batra, Ravi N.",16512126500,1969
-"Battaglini, Marco;Northwestern University;2001","Battaglini, Marco",11539457400,2001
+"Battaglini, Marco;Northwestern University;2001","Battaglini, Marco",57205933566,2001
 "Battalio, Ray;Purdue University;1969","Battalio, Raymond C.",6603687960,1969
 "Battalio, Robert H.;Indiana University;1995","Battalio, Robert H.",6603687956,1995
 "Batten, Jonathan;University of Sydney;1996","Batten, Jonathan A.",7006069611,1996
@@ -1723,7 +1723,7 @@ ID,scopus_name,scopus_id,grad_year
 "Beveridge, M. David;University of Nebraska;1970","Beveridge, David L.",7005401251,1970
 "Beversluis, Eric H.;Northwestern University;1970","Beversluis, Eric H.",16456718100,1970
 "Bewley, Kathryn;University of Waterloo;1998","Bewley, Kathryn",24774467300,1998
-"Bewley, Lee","Bewley, Lee W.",36183240500, Lee
+"Bewley, Lee","Bewley, Lee W.",36183240500,
 "Bewley, Truman F.;University of California, Berkeley;1970","Bewley, Truman F.",7004470784,1970
 "Bey, Roger P.;Pennsylvania State University;1974","Bey, Roger P.",7003669795,1974
 "Beyer, Janice M.;Cornell University;1973","Beyer, Janice M.",7202393743,1973
@@ -1888,7 +1888,7 @@ ID,scopus_name,scopus_id,grad_year
 "Bittlingmayer, George;University of Chicago;1981","Bittlingmayer, George",6602169267,1981
 "Bivin, David;Purdue University;1980","Bivin, David G.",6701876896,1980
 "Bizjak, John M.;University of Utah;1992","Bizjak, John M.",6505860565,1992
-"Bjornson, Chris E.;University of Illinois;1993","Bjornson, C.",57190645032,1993
+"Bjornson, Chris E.;University of Illinois;1993","Bjornson, Chris",57190645032,1993
 "Blacconiere, Walter G.;University of Washington;1988","Blacconiere, Walter G.",6506097681,1988
 "Black, Angela;University of Dundee;1995","Black, Angela J.",7201755416,1995
 "Black, Dan A.;Purdue University;1983","Black, Dan A.",7402568800,1983
@@ -1980,7 +1980,7 @@ ID,scopus_name,scopus_id,grad_year
 "Blocher, Edward J.;University of Texas at Austin;1974","Blocher, Edward J.",24443386900,1974
 "Block, Michael K.;Stanford University;1972","Block, Michael K.",7201557610,1972
 "Block, Stanley B.;Louisiana State University;1967","Block, Stanley B.",7103367372,1967
-"Block, Walter;Columbia University;1972","Block, Walter E.",7102483731,1972
+"Block, Walter;Columbia University;1972","Block, Walter Edward",7102483731,1972
 "Blodgett, Linda L.;University of Michigan;1987","Blodgett, Linda Longfellow",57036991000,1987
 "Blomberg, Brock;Johns Hopkins University;1994","Blomberg, S. Brock",7006212521,1994
 "Blomquist, Glenn C.;University of Chicago;1977","Blomquist, Glenn C.",7005806259,1977
@@ -2026,8 +2026,8 @@ ID,scopus_name,scopus_id,grad_year
 "Bobrowski, Paula;Syracuse University;1997","Bobrowski, Paula E.",6602142548,1997
 "Bockman, Sheldon;Indiana University;1968","Bockman, Sheldon",57189172408,1968
 "Boddy, Raford D.;University of Michigan;1968","Boddy, Raford",24439005400,1968
-"Bodenhorn, Howard N.;Rutgers University;1990","Bodenhorn, Howard N.",16427009700,1990
-"Bodenhorn, Howard;Rutgers University;1990","Bodenhorn, Howard N.",16427009700,1990
+"Bodenhorn, Howard N.;Rutgers University;1990","Bodenhorn, Howard",16427009700,1990
+"Bodenhorn, Howard;Rutgers University;1990","Bodenhorn, Howard",16427009700,1990
 "Bodensteiner, Wayne D.;University of Texas at Austin;1969","Bodensteiner, Wayne D.",6506842949,1969
 "Bodie, Zvi;Massachusetts Institute of Technology;1975","Bodie, Zvi",6603262004,1975
 "Bodily, Samuel E.;Massachusetts Institute of Technology;1976","Bodily, Samuel E.",6603149851,1976
@@ -2129,7 +2129,7 @@ ID,scopus_name,scopus_id,grad_year
 "Booth, David;University of North Carolina;1984","Booth, David",55511558700,1984
 "Booth, Douglas E.;University of Washington;1972","Booth, Douglas E.",7202259840,1972
 "Booth, Elizabeth","Booth, Elizabeth",57191767925,1981
-"Booth, G. Geoffrey;University of Michigan;1971","Booth, G. Geoffrey",7102794788,1971
+"Booth, G. Geoffrey;University of Michigan;1971","Booth, Geoffrey Geogffrey",7102794788,1971
 "Booth, James R.;University of Alabama;1981","Booth, James R.",7201595625,1981
 "Booth, Laurence D.;Indiana University;1978","Booth, Laurence D.",7006711414,1978
 "Booth, Lena;Arizona State University;1991","Booth, Lena Chua",7006711462,1991
@@ -2694,9 +2694,9 @@ ID,scopus_name,scopus_id,grad_year
 "Buhr, Karen;Carleton University;2006","Buhr, Karen J.",24722528000,2006
 "Buhr, Nola;University of Western Ontario;1994","Buhr, Nola",6507123679,1994
 "Bui, Linda T.;Massachusetts Institute of Technology;1993","Bui, Linda T.M.",7006182513,1993
-"Buijink, Willem F. J.;Antwerp;1977","Buijink, Willem F.J.",15019043200,1977
-"Buijink, Willem;Antwerp;1977","Buijink, Willem F.J.",15019043200,1977
-"Buijink, Willem;Maastricht University;1992","Buijink, Willem F.J.",15019043200,1992
+"Buijink, Willem F. J.;Antwerp;1977","Buijink, W.",15019043200,1977
+"Buijink, Willem;Antwerp;1977","Buijink, W.",15019043200,1977
+"Buijink, Willem;Maastricht University;1992","Buijink, W.",15019043200,1992
 "Bujaki, Merridee L.;Queen's University;1996","Bujaki, Merridee L.",9839149900,1996
 "Bujaki, Merridee;Queen's University;1996","Bujaki, Merridee L.",9839149900,1996
 "Bukovinsky, David M.;University of Kentucky;1993","Bukovinsky, David M.",57194453995,1993
@@ -2777,15 +2777,15 @@ ID,scopus_name,scopus_id,grad_year
 "Burnett, John E.;University of Alabama;1992","Burnett, John E.",57197459175,1992
 "Burnett, Nancy J.;University of California, Los Angeles;1988","Burnett, Nancy J.",7003336640,1988
 "Burnett, Royce;Oklahoma State University;2003","Burnett, Royce D.",23501420200,2003
-"Burnett, Sharon;Oklahoma State University;1998","Burnett, Sharon",57201288421,1998
 "Burnett, Sharon K.;Oklahoma State University;1998","Burnett, Sharon",57201288421,1998
+"Burnett, Sharon;Oklahoma State University;1998","Burnett, Sharon",57201288421,1998
 "Burnette, Jeffrey;University at Buffalo;2005","Burnette, Jeffrey D.",57213402410,2005
 "Burney, Robert B.;University of South Carolina;1993","Burney, Robert B.",25221407300,1993
 "Burnham, James;Washington University in St. Louis;1970","Burnham, James B.",7102686205,1970
 "Burnie, David A.;Syracuse University;1984","Burnie, David A.",24309802400,1984
 "Burns, Cathleen S.;New Mexico State University;1995","Burns, Cathleen S.",7201835114,1995
-"Burns, John;University of Manchester","Burns, John Paul",16522827200,1996
-"Burns, John;University of Manchester;1996","Burns, John Paul",16522827200,1996
+"Burns, John;University of Manchester","Burns, John",16522827200,1996
+"Burns, John;University of Manchester;1996","Burns, John",16522827200,1996
 "Burns, Natasha;Ohio State University;2003","Burns, Natasha",16062984000,2003
 "Burns, O. Maxie Jr.;Georgia State University;1987","Burns, O. Maxie",6508222101,1987
 "Burns, Richard M.;University of Georgia;1986","Burns, Richard M.",57191085692,1986
@@ -2892,7 +2892,7 @@ ID,scopus_name,scopus_id,grad_year
 "Cadden, David T.;CUNY, Baruch College;1992","Cadden, David T.",6507462351,1992
 "Cadenhead, Gary M.;Stanford University;1968","Cadenhead, Gary M.",22984430800,1968
 "Cadot, Olivier;Princeton University;1989","Cadot, Olivier",6701447832,1989
-"Cady, Steve;Florida State University;1996","Cady, Steven H.",7003927308,1996
+"Cady, Steve;Florida State University;1996","Cady, Steven Herrol",7003927308,1996
 "Cagatay, Nilufer;Stanford University;1986","Çaǧatay, Nilüfer",6602176904,1986
 "Cagetti, Marco;University of Chicago;2000","Cagetti, Marco",7003957143,2000
 "Cagle, Julie Ann;University of South Carolina;1993","Cagle, Julie A.B.",12752156800,1993
@@ -2903,7 +2903,7 @@ ID,scopus_name,scopus_id,grad_year
 "Cahill, Gerard;New York University;1973","Cahill, Gerard A.",7005277617,1973
 "Cahill, Miles B.;Purdue University;1995","Cahill, Miles B.",7102099146,1995
 "Cahn, E. Susanna;Columbia University;1980","Cahn, E. Susanna",56618060100,1980
-"Cahoon, Allan R.;Syracuse University;1974","Cahoon, Allan R.",7801312588,1974
+"Cahoon, Allan R.;Syracuse University;1974","Cahoon, A. R.",7801312588,1974
 "Cai, Francis;CUNY;1990","Cai, Francis",57202666433,1990
 "Cai, Nianyun (Kelly);University of Houston;2002","Cai, Kelly Nianyun",54881002400,2002
 "Cain, Louis P.;Northwestern University;1969","Cain, Louis P.",7006935083,1969
@@ -3557,7 +3557,7 @@ ID,scopus_name,scopus_id,grad_year
 "Chen, Shimin;University of Georgia;1992","Chen, Shimin",7410254014,1992
 "Chen, Shu-Jen;University of Cologne","Chen, Shujen",55585645000,
 "Chen, Shuping;University of Southern California;2002","Chen, Shuping",14044745200,2002
-"Chen, Stacey;University of Rochester;2001","Chen, Stacey",7102805144,2001
+"Chen, Stacey;University of Rochester;2001","Chen, Stacey H.",7102805144,2001
 "Chen, Stephen;University of London","Chen, Stephen",54783986200,
 "Chen, Su-Jane;University of Missouri;1988","Chen, Su Jane",7410262860,1988
 "Chen, Thomas P.;CUNY;1976","Chen, Thomas P.",56144026000,1976
@@ -4502,7 +4502,7 @@ ID,scopus_name,scopus_id,grad_year
 "Culpepper, Robert H.;University of Alabama;1996","Culpepper, Robert A.",7003682211,1996
 "Culver, Lowell W.;University of Southern California;1967","Culver, Lowell W.",57189191247,1967
 "Culver, Sarah E.;University of Houston;1993","Culver, Sarah E.",7003838269,1993
-"Cumber, Carol J.;South Dakota State University;1994","Cumber, Carol J.",36561275600,1994
+"Cumber, Carol J.;South Dakota State University;1994","Cumber, Carol J.",58084401700,1994
 "Cumby, Robert;Massachusetts Institute of Technology;1982","Cumby, Robert E.",6506762548,1982
 "Cumming, Douglas;University of Toronto;1999","Douglas J. Cumming, Douglas",54790580000,1999
 "Cumming, John;University of Illinois;1973","Cumming, John M.",54580741200,1973
@@ -5538,8 +5538,8 @@ ID,scopus_name,scopus_id,grad_year
 "Duttaray, Mousumi;Indiana University;2001","Duttaray, Mousumi",24481260900,2001
 "Dutton, Jane E.;Northwestern University;1983","Dutton, Jane E.",7102157557,1983
 "Dutton, John C.;Duke University;1978","Dutton, John C.",7102157523,1978
-"Dutton, Marilyn M.;Duke University;1989","Dutton, Marilyn Miller",7005182326,1989
-"Dutton, Marilyn;Duke University;1989","Dutton, Marilyn Miller",7005182326,1989
+"Dutton, Marilyn M.;Duke University;1989","Miller Dutton, Marilyn",7005182326,1989
+"Dutton, Marilyn;Duke University;1989","Miller Dutton, Marilyn",7005182326,1989
 "Duvall, Cheryl K.;Georgia State University;1987","Duvall, Cheryl",57194348844,1987
 "Duvall, Linda G.;University of Maryland, College Park;1993","Duvall, Linda",35932023500,1993
 "Duxbury, Darren;Leeds University;1989","Duxbury, Darren",55916769900,1989
@@ -6365,7 +6365,7 @@ ID,scopus_name,scopus_id,grad_year
 "Fischer, Paul E.;University of Rochester;1989","Fischer, Paul E.",7401648701,1989
 "Fischmar, Daniel E.;Southern Illinois University;1975","Fischmar, Daniel",57190235183,1975
 "Fish, Barry A.;Wayne State University;1971","Fish, Barry",7006438616,1971
-"Fish, Lynn;University at Buffalo;1993","Fish, Lynn A.",7006701057,1993
+"Fish, Lynn;University at Buffalo;1993","Fish, Lynn Ann",7006701057,1993
 "Fish, Mary;University of Oklahoma;1963","Fish, Mary M.",16452728900,1963
 "Fishback, Price V.;University of Washington;1983","Fishback, Price V.",6601956386,1983
 "Fishe, Raymond P. H.;University of Florida;1979","Fishe, Raymond P.H.",6603085602,1979
@@ -7055,7 +7055,7 @@ ID,scopus_name,scopus_id,grad_year
 "Gay, Gerald D.;University of Florida;1980","Gay, Gerald D.",7101981575,1980
 "Gay, Roger;University of Melbourne;1990","Gay, Roger",36481199100,1990
 "Gayle, George-Levi;University of Pittsburgh;2003","Gayle, George Levi",21740963300,2003
-"Gayle, Philip;University of Colorado;2002","Gayle, Philip G.",15059963300,2002
+"Gayle, Philip;University of Colorado;2002","Gayle, Philip Garland",15059963300,2002
 "Gaynor, Lisa M.;University of Texas at Austin;2000","Gaynor, Lisa Milici",14071131400,2000
 "Gaynor, Patricia E.;University of Miami;1973","Gaynor, Patricia E.",7003700504,1973
 "Gbenedio, Pender;University of Cincinnati;1977","Gbenedio, Pender O.",56955608300,1977
@@ -7469,7 +7469,7 @@ ID,scopus_name,scopus_id,grad_year
 "Goldreyer, Elizabeth;University of Texas, Arlington;1996","Goldreyer, Elizabeth F.",6508004649,1996
 "Goldsby, Michael;Virginia Polytechnic Institute and State University;1998","Goldsby, Michael G.",8281897800,1998
 "Goldsmith, Arthur H.;University of Illinois;1979","Goldsmith, Arthur H.",7102737616,1979
-"Goldsmith, O. Scott;University of Wisconsin, Madison;1976","Goldsmith, Scott",9266665400,1976
+"Goldsmith, O. Scott;University of Wisconsin, Madison;1976","Goldsmith, Oliver Scott",9266665400,1976
 "Goldstein, Donald;University of Massachusetts;1991","Goldstein, Don",8567738600,1991
 "Goldstein, Irwin;University of Maryland, College Park;1964","Goldstein, Irwin L.",16197214000,1964
 "Goldstein, Itay;Tel Aviv University;2001","Goldstein, Itay",8520304400,2001
@@ -7781,10 +7781,10 @@ ID,scopus_name,scopus_id,grad_year
 "Greenspan, James W.;Texas A&M University;1986","Greenspan, James W.",57041618900,1986
 "Greenstein, Brian R.;University of Houston;1987","Greenstein, Brian R.",56906771000,1987
 "Greenstein, Marilyn M.;Temple University;1991","Greenstein, Marilyn Magee",7005911865,1991
-"Greenstein, Shane;Stanford University;1989","Greenstein, Shane Mitchell",7005620197,1989
+"Greenstein, Shane;Stanford University;1989","Greenstein, Shane M.",7005620197,1989
 "Greenstone, Michael;Princeton University;1998","Greenstone, Michael",7005579308,1998
-"Greenwald, Bruce C. N.;Massachusetts Institute of Technology;1978","Greenwald, Bruce C.",13805471000,1978
-"Greenwald, Bruce;Massachusetts Institute of Technology;1978","Greenwald, Bruce C.",13805471000,1978
+"Greenwald, Bruce C. N.;Massachusetts Institute of Technology;1978","Greenwald, Bruce C.N.",13805471000,1978
+"Greenwald, Bruce;Massachusetts Institute of Technology;1978","Greenwald, Bruce C.N.",13805471000,1978
 "Greenwald, William;New York University;1950","Greenwald, William I.",56953058000,1950
 "Greenwood, Daphne T.;University of Oklahoma;1980","Greenwood, Daphne T.",16420319000,1980
 "Greenwood, Jeremy;University of Rochester;1983","Greenwood, Jeremy",7202724792,1983
@@ -7925,7 +7925,7 @@ ID,scopus_name,scopus_id,grad_year
 "Guay, Wayne R.;University of Rochester;1998","Guay, Wayne R.",56069219500,1998
 "Guder, Faruk;University of Wisconsin, Madison;1983","Güder, Faruk",6602184366,1983
 "Gudikunst, Arthur C.;Rensselaer Polytechnic Institute;1974","Gudikunst, Arthur C.",57191082731,1974
-"Gudmundson, Donald;University of Kentucky;1993","Gudmundson, Donald",6507253873,1993
+"Gudmundson, Donald;University of Kentucky;1993","Gudmundson, Donald E.",6507253873,1993
 "Gue, Kevin;Georgia Institute of Technology;1995","Gue, Kevin R.",6602427511,1995
 "Guedhami, Omrane;Universite Laval","Guedhami, Omrane",8886956400,
 "Guell, Robert;Syracuse University;1991","Guell, Robert C.",7003502638,1991
@@ -8044,7 +8044,7 @@ ID,scopus_name,scopus_id,grad_year
 "HOlstein, Adora;Pennsylvania State University;1987","Holstein, Adora D.",56956574600,1987
 "Ha, Albert;Stanford University;1992","Ha, Albert Y.",7004386661,1992
 "Ha, Daesung;Pennsylvania State University;1991","Ha, Daesung",7101767751,1991
-"Ha, Inhyuck;University of Minnesota;1999","Ha, Inhyuck “Steve”",24724017400,1999
+"Ha, Inhyuck;University of Minnesota;1999","Ha, Inhyuck Steve",24724017400,1999
 "Haab, Timothy C.;University of Maryland, College Park;1995","Haab, Timothy C.",6602751606,1995
 "Haas, Paul F.;Boston College;1970","Haas, Paul F.",10142664100,1970
 "Haas-Wilson, Deborah;University of California, Berkeley;1983","Haas-Wilson, Deborah",6701813486,1983
@@ -8225,7 +8225,7 @@ ID,scopus_name,scopus_id,grad_year
 "Han, Hsiang-Ling;University of Rochester;1992","Han, Hsiangling",7401969251,1992
 "Han, Ingoo;University of Illinois;1990","Han, Ingoo",7201559824,1990
 "Han, Jerry C. Y.;University at Buffalo;1986","Han, Jerry J.",57201152558,1986
-"Han, Jongsoo;University of Pittsburgh;2001","Han, Jongsoo",56171044000,2001
+"Han, Jongsoo;University of Pittsburgh;2001","Han, Jongsoo",57265427900,2001
 "Han, Ki C.;Michigan State University;1990","Han, Ki C.",7402963260,1990
 "Han, Li-Ming;University of Texas at Austin;1987","Han, Liming",55978019900,1987
 "Han, Yufeng;Washington University in St. Louis","Han, Yufeng",55489259700,
@@ -8480,8 +8480,8 @@ ID,scopus_name,scopus_id,grad_year
 "HassabElnaby, Hassan;Cairo U;1998","HassabElnaby, Hassan R.",8255059800,1998
 "Hassan, M. Kabir;University of Nebraska;1988","Hassan, Mohammad Kabir",57203737478,1988
 "Hassan, M. Zia;Illinois Institute of Technology;1965","Hassan, M. Zia",24387422900,1965
-"Hassan, Mahmud","Hassan, Mohammad Kabir",57192805490,1989
-"Hassan, Mahmud;Vanderbilt University;1989","Hassan, Mohammad Kabir",57192805490,1989
+"Hassan, Mahmud","Hassan, Mahmud",57192805490,1989
+"Hassan, Mahmud;Vanderbilt University;1989","Hassan, Mahmud",57192805490,1989
 "Hassan, Seid;Texas A&M University;1993","Hassan, Seid Y.",8096905700,1993
 "Hassanein, Saad A.;Catholic University of America","Hassanein, Saad A.",6602919109,
 "Hassel, Lars G.;Abo;1992","Hassel, Lars",6507603265,1992
@@ -8794,7 +8794,7 @@ ID,scopus_name,scopus_id,grad_year
 "Hesford, James W.;University of Southern California;1998","Hesford, James W.",6507599954,1998
 "Heshizer, Brian P.;University of Wisconsin, Madison;1979","Heshizer, Brian P.",6603254764,1979
 "Hess, Alan C.;Carnegie Mellon University;1969","Hess, Alan C.",8536344800,1969
-"Hess, Daniel W.;University of Arizona;1982","Hess, Dan W.",57196369082,1982
+"Hess, Daniel W.;University of Arizona;1982","Hess, Dan W.",57715494600,1982
 "Hess, Gregory;Johns Hopkins University;1989","Hess, Gregory D.",7202009012,1989
 "Hess, Peter N.;University of North Carolina;1982","Hess, Peter N.",7202302462,1982
 "Hessel, Christopher A.;New York University;1978","Hessel, Christopher A.",6602154025,1978
@@ -9442,7 +9442,7 @@ ID,scopus_name,scopus_id,grad_year
 "Hunt, Steven","Steven Hunt, Clifford",7201450796,
 "Hunt, Steven C.;University of Florida;1991","Hunt, Steven C.",36803679400,1991
 "Hunt, Tammy G.;Florida State University;1988","Hunt, Tammy G.",7202158842,1988
-"Hunte, C. Kenrick;Ohio State University","Hunte, C. Kendrick",55399189200,
+"Hunte, C. Kenrick;Ohio State University","Hunte, C. Kenrick",7004676420,
 "Hunter, Delroy;University of Warwick;1999","Hunter, Delroy M.",7402536349,1999
 "Hunter, Greg;University of California, Santa Barbara","Hunter, Greg W.",36948749900,
 "Hunter, John;New York University;2000","Hunter, John",57195993893,2000
@@ -9578,7 +9578,7 @@ ID,scopus_name,scopus_id,grad_year
 "Inci, Ahmet Can;University of Michigan;2001","Inci, A. Can",6602347075,2001
 "Indjejikian, Raffi J.;University of Pennsylvania;1989","Indjejikian, Raffi J.",6603173355,1989
 "Indvik, Julie;University of Wisconsin, Madison;1985","Indvik, Julie",6505826655,1985
-"Ingene, Chuck;Brown University;1975","Ingene, Charles A.",6601972083,1975
+"Ingene, Chuck;Brown University;1975","Ingene, Charles Arthur",6601972083,1975
 "Ingersoll, Jonathan E. Jr.;Massachusetts Institute of Technology;1975","Ingersoll, Jonathan E.",56914818300,1976
 "Ingersoll, Jonathan;Massachusetts Institute of Technology;1976","Ingersoll, Jonathan E.",56914818300,1976
 "Ingham, Hilary C.;University of Glasgow","Ingham, Hilary",7005011102,
@@ -10880,7 +10880,7 @@ ID,scopus_name,scopus_id,grad_year
 "Kim, Sukkoo;University of California, Los Angeles;1993","Kim, Sukkoo",7601598515,1993
 "Kim, Sun K.;University of Southern California;1966","Kim, Sungjin",34975057300,1966
 "Kim, Sung-soo;CUNY, Baruch College;1993","Kim, Sungsoo",55862459500,1993
-"Kim, Sungwoo;University of California, Berkeley;1957","Kim, Sungwoo",42061388500,1957
+"Kim, Sungwoo;University of California, Berkeley;1957","Kim, Sungwoo",7601581001,1957
 "Kim, Sungwoo;University of California, Berkeley;1967","Kim, Sungwoo",7601581001,1967
 "Kim, Sunwoong;Massachusetts Institute of Technology;1985","Kim, Sunwoong",7601594727,1985
 "Kim, Taewon;University of Georgia;1986","Kim, Taewon",55548992800,1986
@@ -11430,7 +11430,7 @@ ID,scopus_name,scopus_id,grad_year
 "Kugele, Lynn Phillips;University of Memphis;1998","Kugele, Lynn Phillips",6506745469,1998
 "Kugler, Adriana;University of California, Berkeley","Kugler, Adriana D.",57203181985,
 "Kugler, C. Tad;Claremont McKenna College;2004","Kugler, Tadeusz",15081417600,2004
-"Kuhle, James L.;University of Texas at Austin;1985","Kuhle, James L.",57214542281,1985
+"Kuhle, James L.;University of Texas at Austin;1985","Kuhle, James",6603871042,1985
 "Kuhlemeyer, Gregory A.;University of Tennessee;1995","Kuhlemeyer, Gregory A.",55555858000,1995
 "Kuhn, Arthur J.;University of California, Berkeley;1972","Kuhn, Arthur J.",24393904300,1972
 "Kuhn, David G.;Pennsylvania State University;1971","Kuhn, David G.",57189167999,1971
@@ -12298,7 +12298,7 @@ ID,scopus_name,scopus_id,grad_year
 "Lie, Robert;University of Amsterdam;1994","Lie, Robert",7006214684,1994
 "Lieb, Hilarie;Northwestern University;2001","Lieb, Hilarie",13805146500,2001
 "Lieberman, Marvin B.;Harvard University;1982","Lieberman, Marvin B.",7202657901,1982
-"Lieberthal, Kenneth;Columbia University;1972","Lieberthal, Kenneth",6603538685,1972
+"Lieberthal, Kenneth;Columbia University;1972","Lieberthal, Kenneth G.",6603538685,1972
 "Liebeskind, Julia;University of California, Los Angeles;1990","Liebeskind, Julia Porter",7005741503,1990
 "Liebman, Benjamin;University of Oregon;2003","Liebman, Benjamin H.",6603446663,2003
 "Liebowitz, S. Jay;University of Tennessee;1983","Liebowitz, Seth Jay",55897822200,1983
@@ -13052,7 +13052,7 @@ ID,scopus_name,scopus_id,grad_year
 "Mangel, Robert;University of Pennsylvania;1994","Mangel, Robert",6602970183,1994
 "Mangla, Inayat U.;Michigan State University;1978","Mangla, Inayat Ullah",25024305200,1978
 "Mangold, Nancy R.;University of California, Berkeley;1984","Mangold, Nancy R.",55377994500,1984
-"Mangrum, C. W.","Mangrum, C. W.",57037016600,. W.
+"Mangrum, C. W.","Mangrum, C. W.",57037016600,
 "Mangum, Garth L.;Harvard University;1960","Mangum, Garth L.",6505974926,1960
 "Mangum, Stephen L.;George Washington University;1984","Mangum, Stephen L.",8434429400,1984
 "Mangum, Wiley;Fordham University;1985","Mangum, Wiley M.",57201314929,1985
@@ -13190,8 +13190,8 @@ ID,scopus_name,scopus_id,grad_year
 "Marschke, Gerald;University of Chicago;1998","Marschke, Gerald",6602139809,1998
 "Marsden, Alastair;University of Auckland;1997","Marsden, Alastair",7006851734,1997
 "Marsden, James R.;Purdue University;1970","Marsden, James R.",7201939810,1970
-"Marsden, Richard;University of Warwick","Marsden, Richard A.",56538026700,
-"Marsden, Richard;University of Warwick;1994","Marsden, Richard A.",56538026700,1994
+"Marsden, Richard;University of Warwick","Marsden, Richard",56538026700,
+"Marsden, Richard;University of Warwick;1994","Marsden, Richard",56538026700,1994
 "Marsh, Ian;Harvard University","Marsh, Ian William",7006478594,
 "Marsh, James B.;University of Chicago;1972","Marsh, James Barney",55107722500,1972
 "Marsh, Lawrence C.;Michigan State University;1976","Marsh, Lawrence C.",7102223756,1976
@@ -14311,7 +14311,7 @@ ID,scopus_name,scopus_id,grad_year
 "Mo, Phyllis;Chinese U;1999","Mo, Phyllis Lai-Lan",7004521686,1999
 "Moak, Donald L.;University of Mississippi;1974","Moak, Donald L.",24445825500,1974
 "Mobarak, A. Mushfiq;University of Maryland, College Park;2002","Mobarak, Ahmed Mushfiq",23982821200,2002
-"Mobius, M.;Massachusetts Institute of Technology","Möbius, Markus M.",6603117488,
+"Mobius, M.;Massachusetts Institute of Technology","Möbius, Markus M.",57204301538,
 "Mobius, Marlis M.;Massachusetts Institute of Technology","Möbius, Markus M.",57204301538,2000
 "Mobley, Lee;University of California, Santa Barbara;1989","Mobley, Lee Rivers",6701602667,1989
 "Mobus, Janet;University of North Texas;1997","Mobus, Janet Luft",8531473600,1997
@@ -15079,7 +15079,7 @@ ID,scopus_name,scopus_id,grad_year
 "Neumeyer, Pablo Andres;Columbia University;1992","Neumeyer, Pablo A.",6507265258,1992
 "Neun, Stephen P.;University of Connecticut;1988","Neun, Stephen P.",13611916600,1988
 "Neun, Stephen;University of Connecticut;1988","Neun, Stephen P.",13611916600,1988
-"Neves, Joao M.M. dos Santos;University of Pennsylvania;1984","Neves, Joao S.",16430122900,1984
+"Neves, Joao M.M. dos Santos;University of Pennsylvania;1984","Neves, João S.",16430122900,1984
 "Nevo, Aviv;Harvard University;1997","Nevo, Aviv",7003322815,1997
 "New, J. Randolph;Arizona State University;1978","New, J. Randolph",24449732100,1978
 "Newark, John;University of Toronto","Newark, John",14829310600,
@@ -15540,8 +15540,8 @@ ID,scopus_name,scopus_id,grad_year
 "Olson, Paulette I.;University of Utah;1989","Olson, Paulette I.",7102834329,1989
 "Olson, Philip D.;University of Oregon;1972","Olson, Philip D.",7102834316,1972
 "Olson, Stevan K.;University of Wisconsin, Madison;1974","Olson, Stevan K.",57192948204,1974
-"Olson, Terry L.;University of Illinois;1986","Olson, Terry L.",7102145425,1986
-"Olson, Terry L.;University of Illinois;1992","Olson, Terry L.",7102145425,1992
+"Olson, Terry L.;University of Illinois;1986","Olson, Terry L.",57212233343,1986
+"Olson, Terry L.;University of Illinois;1992","Olson, Terry L.",57212233343,1992
 "Olson-Buchanan, Julie B.;University of Illinois;1992","Olson-Buchanan, Julie B.",6602120638,1992
 "Olsson, Per M.;Stockholm University;1998","Olsson, Per M.",7102046372,1998
 "Olszewski, Wojciech;Princeton University;1998","Olszewski, Wojciech",7102846564,1998
@@ -15576,7 +15576,7 @@ ID,scopus_name,scopus_id,grad_year
 "Orbach, Kenneth N.;Texas A&M University;1978","Orbach, Kenneth N.",56907035500,1978
 "Orchard, Lou X.;University of Arizona;1998","Orchard, Lou X.",55695639200,1998
 "Orcutt, Bonnie;Clark University;1994","Orcutt, Bonnie",55824796800,1994
-"Ord, J. Keith;University of London;1967","Ord, J. Keith",7006750776,1967
+"Ord, J. Keith;University of London;1967","Ord, John Keith",7006750776,1967
 "Ordonez, Lisa D.;University of California, Berkeley;1994","Ordóñez, Lisa D.",7004020856,1994
 "Ordovensky, J. Farley;Duke University;1992","Farley Ordovensky, J.",25948206000,1992
 "Ordover, Janusz A.;Columbia University;1973","Ordover, Janusz A.",6508013196,1973
@@ -16384,7 +16384,7 @@ ID,scopus_name,scopus_id,grad_year
 "Pinegar, J. Michael;University of Utah;1982","Pinegar, J. Michael",55663616600,1982
 "Pinegar, J. Michael;University of Utah;1993","Pinegar, J. Michael",55663616600,1982
 "Pineno, Charles J.;Pennsylvania State University;1979","Pineno, Charles J.",6507497278,1979
-"Pineres, Sheila;Duke University","de Piñeres, Sheila Amin Gutiérrez",6506364844,
+"Pineres, Sheila;Duke University","De Piñeres, Sheila Amin Gutiérrez",6506364844,
 "Pinfold, John F.;Massey University;1999","Pinfold, John F.",7006560617,1999
 "Pingle, Mark;University of Southern California;1988","Pingle, Mark",56040794600,1988
 "Pinker, Edieal;Massachusetts Institute of Technology;1996","Pinker, Edieal J.",6603181996,1996
@@ -16534,7 +16534,7 @@ ID,scopus_name,scopus_id,grad_year
 "Pop-Eleches, Christian;Harvard University;2003","Pop-Eleches, Cristian",6504515851,2003
 "Pope, C. Arden III;Iowa State University;1981","Pope, C. A.",57193089483,1981
 "Pope, Clayne L.;University of Chicago;1972","Pope, Clayne L.",7201775158,1972
-"Pope, Peter","Pope And, Peter F.",7005022132,1978
+"Pope, Peter","Pope, Peter F.",7005022132,1978
 "Pope, Rulon D.;University of California, Berkeley;1976","Pope, Rulon D.",7103234311,1976
 "Pope, Terry;Southern Methodist University;1969","Pope, Terry",55221267700,1969
 "Popli, Gurleen K.;University of California, Riverside;2002","Popli, Gurleen K.",23135843800,2002
@@ -16818,7 +16818,7 @@ ID,scopus_name,scopus_id,grad_year
 "Que, Antonio L.;New York University;1985","Que, Antonio L.",57032923600,1985
 "Queneau, Herve';ParisDaup;1996","Queneau, Hervé",23036909800,1996
 "Query, Tim;University of Georgia;1999","Query, Jeffrey Tim",14521380000,1999
-"Quesada, Lucia;University of Toulouse;2003","Vázquez-Quesada, Lucía",56922088100,2003
+"Quesada, Lucia;University of Toulouse;2003","Vázquez-Quesada, Lucía M.",56922088100,2003
 "Queyranne, Maurice;University of Grenobles;1977","Queyranne, Maurice",6603755372,1977
 "Quick, James C.;University of Houston;1977","Quick, James Campbell",35515497800,1977
 "Quick, Paddy;Harvard University;1975","Quick, Paddy",24554268900,1975
@@ -19507,7 +19507,7 @@ ID,scopus_name,scopus_id,grad_year
 "Smith, Stanley D.;Arizona State University;1979","Smith, Stanley D.",55702268100,1979
 "Smith, Stanley K.;University of Michigan;1976","Smith, Stanley K.",55501029600,1976
 "Smith, Stefani;University of Illinois;1997","Smith, Stefani Cheri",57212961543,1997
-"Smith, Stephen C.;Cornell University;1983","Smith, Stephen C.",57208920613,1983
+"Smith, Stephen C.;Cornell University;1983","Smith, Stephen Christian",57208920613,1983
 "Smith, Stephen D.;University of Florida;1980","Smith, Stephen D.",55574243631,1980
 "Smith, Stephen L. S.;Stanford University;1988","Smith, Stephen L.S.",16154108800,1988
 "Smith, Steve H.;Arizona State University;2000","Smith, Steven Howard",55574212543,2000
@@ -19557,7 +19557,7 @@ ID,scopus_name,scopus_id,grad_year
 "Snell, Scott A.;Michigan State University;1989","Snell, Scott A.",7004716798,1989
 "Snider, Craig;Texas Tech University","Snider, Craig Wayne",57189177729,
 "Snider, Keith;Virginia Polytechnic Institute and State University;1987","Snider, Keith F.",8414674500,1987
-"Snodgrass, Coral R.;University of Pittsburgh;1984","Snodgrass, Coral R.",56207622500,1984
+"Snodgrass, Coral R.;University of Pittsburgh;1984","Snodgrass, Coral Rose",56207622500,1984
 "Snow, Andrew;University of Pittsburgh;1997","Snow, Andrew P.",56210022000,1997
 "Snow, Arthur;University of Wisconsin, Madison;1979","Snow, Arthur",7103019950,1979
 "Snow, Charles C.;University of California, Berkeley;1972","Snow, Charles C.",7103381160,1972
@@ -19571,7 +19571,7 @@ ID,scopus_name,scopus_id,grad_year
 "Snowden, Peter N.;Leeds University","Snowden, P. Nicholas",7004701728,
 "Snyder, Charles A.;University of Nebraska;1978","Snyder, Charles A.",7202613369,1978
 "Snyder, Christopher;Massachusetts Institute of Technology;1994","Snyder, Chris M.",7202613485,1994
-"Snyder, Donald L.;Utah State University;1979","Snyder, Donald L.",7202117707,1979
+"Snyder, Donald L.;Utah State University;1979","Snyder, Donald L.",58084435600,1979
 "Snyder, Donald;Pennsylvania State University;1971","Snyder, Donald",56242458500,1971
 "Snyder, Edward A.;University of Chicago;1984","Snyder, Edward A.",56753623900,1984
 "Snyder, Herbert;Syracuse University;1994","Snyder, Herbert W.",7102670871,1994
@@ -21373,7 +21373,7 @@ ID,scopus_name,scopus_id,grad_year
 "Vayanos, Dimitrios;Massachusetts Institute of Technology;1993","Vayanos, Dimitri",6603289042,1993
 "Vaysman, Igor;Stanford University;1993","Vaysman, Igor",6507855262,1993
 "Vazacopoulos, Alkis;Carnegie Mellon University;1994","Vazacopoulos, Alkis A.",6507457352,1994
-"Vaziri, Mohammad T.;University of Oklahoma;1979","Vaziri, Mohamad T.",55993461700,1979
+"Vaziri, Mohammad T.;University of Oklahoma;1979","Vaziri, Mohamad T.",37062168300,1979
 "Vazzana, Gary;University of Missouri;1987","Vazzana, Gary S.",6602627565,1987
 "Vecchio, Robert P.;University of Illinois;1976","Vecchio, Robert P.",7006381498,1976
 "Vedder, Richard K.;University of Illinois;1965","Vedder, Richard K.",7003909211,1965
@@ -21807,7 +21807,7 @@ ID,scopus_name,scopus_id,grad_year
 "Wang, Yijiang;Harvard University;1991","Wang, Yijiang",55954508500,1991
 "Wang, Yongsheng;Texas Tech University;2005","Wang, Yongsheng",55954570600,2005
 "Wang, Yunzeng;University of Pennsylvania;1998","Wang, Yunzeng",15733182100,1998
-"Wang, Zengxiang (Eric);Queen's University","Wang, Eric Zengxiang",26023918800,
+"Wang, Zengxiang (Eric);Queen's University","Wang, Eric Zengxiang",57579332000,
 "Wang, Zhemin (Jamie);University of Wisconsin, Madison;1991","Wang, Zhemin",55850310400,1991
 "Wang, Zhemin;University of Wisconsin, Madison;1991","Wang, Zhemin",55850310400,1991
 "Wang, Zhenyu;University of Minnesota;1995","Wang, Zhenyu",55719800700,1995
@@ -21998,7 +21998,7 @@ ID,scopus_name,scopus_id,grad_year
 "Weiden, Kathleen;CUNY, Baruch College;2001","Weiden, Kathleen M.",56070148100,2001
 "Weidenaar, Dennis J.;Purdue University;1969","Weidenaar, Dennis J.",57013176600,1969
 "Weidenbaum, Murray L.;Princeton University;1958","Weidenbaum, Murray L.",24395624200,1958
-"Weidenmier, Marc;University of Illinois;1999","Weidenmier, Marc D.",6506460785,1999
+"Weidenmier, Marc;University of Illinois;1999","Weidenmier, Marc Daniel",6506460785,1999
 "Weidenmier, Marcia;University of Texas at Austin;2000","Watson, Marcia Weidenmier",36788403800,2000
 "Weidman, Stephanie;Drexel University;2002","Weidman, Stephanie M.",36070152100,2002
 "Weidner, Ken;University of Illinois;1997","Weidner, C. Ken",22939692100,1997
@@ -22516,7 +22516,7 @@ ID,scopus_name,scopus_id,grad_year
 "Wilson, Matthew;University of Texas at Austin;2000","Wilson, Matthew C.",56274356100,2000
 "Wilson, Melanie;University of Manchester;2000","Wilson, Melanie",7408666107,2000
 "Wilson, Michael D.;University of Missouri;1983","Wilson, Michael D.",57188839788,1983
-"Wilson, Nick;Nottingham University","Wilson, Nick",35966192600,
+"Wilson, Nick;Nottingham University","Wilson, Nicholas",35966192600,
 "Wilson, Paul W.;Brown University;1986","Wilson, Paul W.",55586996000,1986
 "Wilson, R. Mark;Northwestern University;1977","Wilson, R. Mark",56322597500,1977
 "Wilson, Rick L.;University of Nebraska;1990","Wilson, Rick L.",8111767900,1990
@@ -22558,7 +22558,7 @@ ID,scopus_name,scopus_id,grad_year
 "Winton, Andrew;University of Pennsylvania;1990","Winton, Andrew",6603920320,1990
 "Wirth, Itzhak;University of California, Berkeley;1976","Wirth, Itzhak",7007036846,1976
 "Wirtz, Philip;George Washington University;1983","Wirtz, Philip W.",7006702063,1983
-"Wischnevsky, Daniel;Rutgers University;1999","Wischnevsky, J. Daniel",55662922800,1999
+"Wischnevsky, Daniel;Rutgers University;1999","Daniel Wischnevsky, J.",55662922800,1999
 "Wisdom, Barry L.;University of Arkansas;1981","Wisdom, Barry L.",6603016756,1981
 "Wiseman, A. Clark;University of Washington;1968","Wiseman, Clark",8941162000,1968
 "Wiseman, Robert;University of Minnesota;1992","Wiseman, Robert M.",7102299139,1992
@@ -23274,7 +23274,7 @@ ID,scopus_name,scopus_id,grad_year
 "Zheng, Yu-Sheng;Columbia University;1987","Zheng, Yusheng",7404836894,1987
 "Zhong, Maosen","Zhong, Maosen",7102458816,1999
 "Zhong, Maosen;Louisiana Tech University;1999","Zhong, Maosen",7102458816,1999
-"Zhong, Ray;Cornell University;1998","Zhong, Ray Y.",55353690000,1998
+"Zhong, Ray;Cornell University;1998","Zhong, Ray Runyang",55353690000,1998
 "Zhou, Anjun;University of Illinois;1999","Zhou, Anjun",15821497300,1999
 "Zhou, C.;Princeton University;1995","Zhou, Chenghu",7403347013,1995
 "Zhou, Chunsheng;Princeton University;1995","Zhou, Chunsheng",7403347444,1995
