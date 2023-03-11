@@ -759,7 +759,7 @@ ID,scopus_name,scopus_id,grad_year
 "Ashkanasy, Neal;University of Queensland;1989","Ashkanasy, Neal M.",35613977200,1989
 "Ashkeboussi, Rahim;Saint Louis University;1982","Ashkeboussi, Rahim",16021120900,1979
 "Ashkeboussi, Rahim;Saint Louis University;1984","Ashkeboussi, Rahim",16021120900,1979
-"Ashley, Allan;Poly-NY;1971","Ashley, Allan S.",7003866114,1971
+"Ashley, Allan;Polytechnic University (New York);1971","Ashley, Allan S.",7003866114,1971
 "Ashley, David Warren;University of Cincinnati;1976","Ashley, David W.",7102217398,1976
 "Ashley, Nancy;University of Arizona;1995","Ashley, Nancy W.",55599380800,1995
 "Ashley, Richard A.;University of California, San Diego;1982","Ashley, Richard A.",7102082695,1982
@@ -5933,7 +5933,7 @@ Edirisinghe Chanaka;University of British Columbia;1991,"Edirisinghe, N. Chanaka
 "Erwin, Scott;Northwestern University;1994","Erwin, Scott R.",57192555282,1994
 "Erzan, Refik;Stockholm University;1983","Erzan, Refik",6603324888,1983
 "Escaleras, Monica;Florida International University;2003","Escaleras, Monica P.",8531365100,2003
-"Escanciano, J.;Carlos Mad;2004","Escanciano, Juan Carlos",14029610400,2004
+"Escanciano, J.;Charles III University of Madrid;2004","Escanciano, Juan Carlos",14029610400,2004
 "Escarraz, Donald R.;Oklahoma State University;1964","Escarraz, Donald R.",25023459000,1964
 "Eschker, Erick;University of California, Davis;1997","Eschker, Erick",6506695778,1997
 "Eschker, Erik;University of California, Davis;1997","Eschker, Erick",6506695778,1997
@@ -6113,7 +6113,6 @@ Edirisinghe Chanaka;University of British Columbia;1991,"Edirisinghe, N. Chanaka
 "Farragher, Edward;University of Illinois;1971","Farragher, Edward J.",6507978074,1971
 "Farrar, Robert H.;University of Massachusetts;1978","Farrar, Robert",24281335500,1978
 "Farrell, Anne;Michigan State University;2002","Farrell, Anne Maree",57203027792,2002
-"Farrell, Brian;Tech-Sydn;1997","Farrell, Brian J.",7102597811,1997
 "Farrell, Claude H. III;North Carolina A&T State University;1974","Farrell, Claude H.",56029450900,1974
 "Farrell, Daniel J.;University of Iowa;1977","Farrell, Dan",35388045500,1977
 "Farrell, John P.;University of Wisconsin, Madison;1973","Farrell, John P.",16519405500,1973
@@ -7071,7 +7070,7 @@ Edirisinghe Chanaka;University of British Columbia;1991,"Edirisinghe, N. Chanaka
 "Geisler, Gregory;University of North Carolina;1995","Geisler, Gregory G.",7004583712,1995
 "Geisler, Jerry L.;University of Missouri;1975","Geisler, Jerry",57189396217,1975
 "Geiss, Charles G.;University of North Carolina;1974","Geiss, Charles G.",6603770500,1974
-"Geiss, Gunther;Poly-NY;1964","Geiss, Gunther R.",24425882200,1964
+"Geiss, Gunther;Polytechnic University (New York);1964","Geiss, Gunther R.",24425882200,1964
 "Geisst, Charles R.;London School of Economics and Political Science;1972","Geisst, Charles R.",36584989300,1972
 "Geistauts, George A.;Rensselaer Polytechnic Institute;1970","Geistauts, George A.",6603379045,1970
 "Gelardi, Alexander M. G.;Arizona State University;1991","Gelardi, Alexander M.G.",22984621900,1991
@@ -7460,7 +7459,7 @@ Edirisinghe Chanaka;University of British Columbia;1991,"Edirisinghe, N. Chanaka
 "Goldstein, Irwin;University of Maryland, College Park;1964","Goldstein, Irwin L.",16197214000,1964
 "Goldstein, Itay;Tel Aviv University;2001","Goldstein, Itay",8520304400,2001
 "Goldstein, Jeffrey;Temple University;1980","Goldstein, Jeffrey A.",55682798000,1980
-"Goldstein, Joel;Poly-NY;1980","Goldstein, Joel",57199115532,1980
+"Goldstein, Joel;Polytechnic University (New York);1980","Goldstein, Joel",57199115532,1980
 "Goldstein, Jonathan Paul;University of Massachusetts;1982","Goldstein, Jonathan P.",7403363647,1982
 "Goldstein, Michael A.;University of Pennsylvania;1993","Goldstein, Michael A.",37007281400,1993
 "Goldstein, Nance;ThamesPol;1988","Goldstein, Nance",7202296072,1988
@@ -8324,7 +8323,7 @@ Edirisinghe Chanaka;University of British Columbia;1991,"Edirisinghe, N. Chanaka
 "Harmon, Michael M.;University of Southern California;1968","Harmon, Michael M.",56114111700,1968
 "Harmon, Oskar R.;Rutgers University;1980","Harmon, Oskar Ragnar",16428407400,1980
 "Harms, Craig G.;Ohio State University;1984","Harms, Craig G.",57191386269,1984
-"Harpaz, Giora;Ind St;1979","Harpaz, Giora",9943610900,1979
+"Harpaz, Giora;Indiana State University;1979","Harpaz, Giora",9943610900,1979
 "Harper, I.;Australian National University;1993","Harper, Ian R.",57219834464,1993
 "Harper, Joel;Oklahoma State University;1996","Harper, Joel T.",7402361988,1996
 "Harper, Richard K.;Duke University;1989","Harper, Richard K.",8909131300,1989
@@ -9004,8 +9003,7 @@ Edirisinghe Chanaka;University of British Columbia;1991,"Edirisinghe, N. Chanaka
 "Hofler, Richard A.;University of North Carolina;1982","Hofler, Richard A.",6603396108,1982
 "Hofmann, David;Pennsylvania State University;1992","Hofmann, David A.",7201695699,1992
 "Hofmann, Mary Ann;Arizona State University;2002","Hofmann, Mary Ann",14521235400,2002
-"Hofrenning, Stella;II-Chicago;1992","Hofrenning, Stella",57203109651,1992
-"Hofrenning, Stella;University of Illinois, Chicago;1992","Hofrenning, Stella Koutroumaoes",6506017698,1992
+"Hofrenning, Stella;University of Illinois, Chicago;1992","Hofrenning, Stella",57203109651,1992
 "Hofstede, Geert;University of Groningen;1967","Hofstede, Geert",7003537908,1967
 "Hoftyzer, John;Indiana University;1974","Hoftyzer, John",6504176451,1974
 "Hogan, Chris E.;Ohio State University;1994","Hogan, Chris E.",7103232104,1994
@@ -10847,7 +10845,7 @@ Edirisinghe Chanaka;University of British Columbia;1991,"Edirisinghe, N. Chanaka
 "Kim, Joonghyuk;University of Illinois;2001","Kim, Joonghyuk",23035016200,2001
 "Kim, Joung;University of South Carolina;1999","Kim, Joung W.",14525254900,1999
 "Kim, Jung-Wook;Harvard University;2001","Kim, Jung-wook",45561201000,2001
-"Kim, Kap-Soon;Seoul Ntl","Kim, Kap-soon",57192679701,
+"Kim, Kap-Soon;Seoul National University","Kim, Kap-soon",57192679701,
 "Kim, Kee S.;University of Texas at Austin;1978","Kim, Kee S.",7409314679,1978
 "Kim, Kenneth A.;University of Rhode Island;1997","Kim, Kenneth A.",7409321139,1997
 "Kim, Ki Hoon;University of Connecticut;1968","Kim, Ki-hoon",56331012700,1968
@@ -12326,8 +12324,7 @@ Edirisinghe Chanaka;University of British Columbia;1991,"Edirisinghe, N. Chanaka
 "Lim, Kok Chew;University of Florida;1992","Lim, Kok Chew",24299201100,1992
 "Lim, Linda Y.C.;University of Michigan;1978","Lim, Linda Y.C.",8737986200,1978
 "Lim, Sonya;Ohio State University;2003","Lim, Sonya Seongyeon",36793511000,2003
-"Lim, Stephen;Tech-Sydn;1996","Lim, Stephen",55249141700,1996
-"Lim, Stephen;Tech-Sydne;1996","Lim, Stephen",55249141700,1996
+"Lim, Stephen;University of Technology Sydney;1996","Lim, Stephen",55249141700,1996
 "Lim, Steve C.;University of Pennsylvania;1989","Lim, Steve C.",26663293400,1989
 "Lim, Steve;University of Pennsylvania;1989","Lim, Steve C.",26663293400,1989
 "Lima, Victor O.;University of Chicago;2001","Lima, Victor",57195574508,2001
@@ -13017,7 +13014,6 @@ Edirisinghe Chanaka;University of British Columbia;1991,"Edirisinghe, N. Chanaka
 "Manage, Neela D.;George Washington University;1981","Manage, Neela D.",6505784352,1981
 "Manakyan, Herman;University of Alabama;1988","Manakyan, Herman",6507059266,1988
 "Manakyan, Herman;University of Alabama;1989","Manakyan, Herman",6507059266,1989
-"Manalis, Gikas;City-Londo;1993","Manalis, Gikas",8237038900,1993
 "Manaster, Steven;University of Chicago;1977","Manaster, Steven",24441536500,1977
 "Mandal, Purnendu;University of Bradford;1986","Mandal, Purnendu",7102223367,1986
 "Mande, Vivek;University of California, Los Angeles;1991","Mande, Vivek",6602444236,1991
@@ -18594,7 +18590,7 @@ Pitman Glenn A.;Pennsylvania State University;1977,"Pitman, Glenn A.",7004192969
 "Scotchmer, Suzanne;University of California, Berkeley;1980","Scotchmer, Suzanne",6603549284,1980
 "Scott, Bradford G.;Saint Louis University;1998","Scott, Bradford Glenn",7403293430,1998
 "Scott, Bradford;Saint Louis University;1998","Scott, Brad G.",44462014400,1998
-"Scott, Brian;II-Chicago;2005","Scott, Brian L.",51665742300,2005
+"Scott, Brian;University of Illinois, Chicago;2005","Scott, Brian L.",51665742300,2005
 "Scott, Carlton H.;University of New South Wales;1971","Scott, Carlton H.",7403430271,1971
 "Scott, Carole Elizabeth;Georgia State University;1969","Scott, Carole E.",57012373400,1969
 "Scott, Charles E.;Vanderbilt University;1979","Scott, Charles E.",7403429466,1979
@@ -22832,7 +22828,7 @@ Pitman Glenn A.;Pennsylvania State University;1977,"Pitman, Glenn A.",7004192969
 "Wunder, Timothy;Colorado State University;2003","Wunder, Timothy A.",23053656800,2003
 "Wunnava, Phanindra V.;Binghamton University;1986","Wunnava, Phanindra V.",6602843882,1986
 "Wurgler, Jeffrey;Harvard University;1999","Wurgler, Jeffrey",6603142772,1999
-"Wyatt, Anne;Tech-Sydn;2001","Wyatt, Anne",24472124300,2001
+"Wyatt, Anne;University of Technology Sydney;2001","Wyatt, Anne",24472124300,2001
 "Wyatt, Arthur R.;University of Illinois;1953","Wyatt, Arthur R.",57215638256,1953
 "Wyatt, Jeffrey G.;University of South Carolina;1989","Wyatt, Jeffrey G.",7202561806,1989
 "Wyatt, Steve B.;University of Texas, Dallas;1980","Wyatt, Steve B.",7005406810,1980
@@ -23377,8 +23373,7 @@ Wymer. Walter,"Wymer, Walter W.",24167101300,
 "Zou, Joe;Swansea;2003","Zou, Hong",48663306300,2003
 "Zoubi, Taisier A.;University of North Texas;1992","Zoubi, Taisier A.",9278699000,1992
 "Zschock, Dieter;Tufts University;1967","Zschock, Dieter K.",6603113692,1967
-"Zubaidah, Ismail;N S Wales;1993","Ismail, Zubaidah",57209968392,1993
-"Zubaidah, Ismail;University of New South Wales;1993","Ismail, Zubaidah Binti",7003288472,1993
+"Zubaidah, Ismail;University of New South Wales;1993","Ismail, Zubaidah",57209968392,1993
 "Zuber, Richard A.;University of Kentucky;1978","Zuber, Richard A.",7004387570,1978
 "Zuberi, Habib A.;Southern Illinois University;1971","Zuberi, Habib A.",6602392928,1971
 "Zuboff, Shoshana;Harvard University;1980","Zuboff, Shoshana",6504354391,1980
