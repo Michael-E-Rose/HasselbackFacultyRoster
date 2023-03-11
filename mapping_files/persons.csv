@@ -2400,6 +2400,7 @@ ID,scopus_name,scopus_id,grad_year
 "Brenner, Vincent C.;Pennsylvania State University;1969","Brenner, Vincent C.",56485507200,1969
 "Brent, Robert J.;University of Manchester;1976","Brent, Robert J.",7103203738,1976
 "Brent, William H.;Nova Southeastern University;1993","Brent, William",6603155094,1993
+"Breslauer, George W.;University of Michigan","Breslauer, George W.",6602367608,
 "Breslawski, Steven T.;University at Buffalo;1987","Breslawski, Steven T.",6602880574,1987
 "Breslia, Thomas;West Virginia University;1976","Breslin, Thomas",26654726400,1976
 "Breslin, Thomas P.;West Virginia University;1976","Breslin, Thomas",26654726400,1976
@@ -2888,7 +2889,6 @@ ID,scopus_name,scopus_id,grad_year
 "Cagetti, Marco;University of Chicago;2000","Cagetti, Marco",7003957143,2000
 "Cagle, Julie A. B.;University of South Carolina;1993","Cagle, Julie A.B.",12752156800,1993
 "Cagle, Julie Ann;University of South Carolina;1993","Cagle, Julie A.B.",12752156800,1993
-"Cagliesi, Gabriella;University of Pennsylvania;1993","Cagliesi, Gabriella",55824597900,1993
 "Cagwin, Douglass;University of Arkansas;1999","Cagwin, Douglass",15752592700,1999
 "Cahan, Steven F.;University of Colorado;1988","Cahan, Steven F.",7003594466,1988
 "Cahill, Gerard A.;New York University;1973","Cahill, Gerard A.",7005277617,1973
@@ -3342,7 +3342,6 @@ ID,scopus_name,scopus_id,grad_year
 "Chance, Don M.;Louisiana State University;1980","Chance, Don M.",7004075650,1980
 "Chance, Don;Louisiana State University;1980","Chance, Don M.",7004075650,1980
 "Chand, Suresh;Carnegie Mellon University;1979","Chand, Suresh",35616251000,1979
-"Chanda, Areendam;Brown University;2001","Chanda, Areendam",23392062900,2001
 "Chandar, Nandini;Case Western Reserve University;1997","Chandar, Nandini",6603871775,1997
 "Chandler, Gaylen N.;University of Utah;1990","Chandler, Gaylen N.",7102583531,1990
 "Chandler, Howard;Maharishi University of Management;1990","Chandler, Howard M.",35857357300,1990
@@ -3887,6 +3886,7 @@ ID,scopus_name,scopus_id,grad_year
 "Clarke, Louise;York University;1992","Clarke, Louise",7201974170,1992
 "Clarke, Peter J.;Dublin University;1984","Clarke, Peter",57190476567,1984
 "Clarke, Richard L.;University of Texas at Austin;1988","Clarke, Richard",7403069905,1988
+"Clarke, T. K.;University of Illinois;1979","Clarke, T. K.",7202914956,1979
 "Clarke, T. K.;University of Illinois;1982","Clarke, T. K.",7202914956,1982
 "Clarke, Thomas Keith;University of Illinois;1982","Clarke, T. K.",7202914956,1982
 "Clarke, Thomas;University of Warwick","Clarke, Thomas",7202915627,
@@ -5649,6 +5649,7 @@ Edirisinghe Chanaka;University of British Columbia;1991,"Edirisinghe, N. Chanaka
 "Edlund, Lena;Stockholm University;1996","Edlund, Lena",6506326066,1996
 "Edmister, Robert O.;Ohio State University","Edmister, Robert O.",6506890502,1970
 "Edmister, Robert O.;Ohio State University;1970","Edmister, Robert O.",6506890502,1970
+"Edmister, Robert Orland;Ohio State University;1970","Edmister, Robert O.",6506890502,1970
 "Edmiston, Kelly D.;University of Tennessee;1998","Edmiston, Kelly D.",6603856375,1998
 "Edmonds, Cindy;University of Alabama;1991","Edmonds, Cindy D.",57201295407,1991
 "Edmonds, Eric V.;Princeton University;1999","Edmonds, Eric V.",7005876864,1999
@@ -6078,6 +6079,7 @@ Edirisinghe Chanaka;University of British Columbia;1991,"Edirisinghe, N. Chanaka
 "Fanara, Philip Jr.;Indiana University;1980","Fanara, Philip",55224281900,1980
 "Fanchon, Phillip F.;University of California, Santa Barbara;1982","Fanchon, Phillip F.",6508292794,1982
 "Fandt, Patricia M.;Texas A&M University;1986","Fandt, Patricia M.",16434396500,1986
+"Fane, Gary;University of Florida;1974","Fane, Gary R.",57207706290,1974
 "Fanelli, Russell;Rensselaer Polytechnic Institute;1984","Fanelli, Russell",7102407390,1984
 "Fang, Hanming;University of Pennsylvania;2000","Fang, Hanming",7402542831,2000
 "Fang, Hsing;Arizona State University;1986","Fang, Hsing",7402543093,1986
@@ -7127,6 +7129,7 @@ Edirisinghe Chanaka;University of British Columbia;1991,"Edirisinghe, N. Chanaka
 "Gerchak, Y.;University of British Columbia;1980","Gerchak, Yigal",7005788247,1980
 "Gerde, Virginia;Virginia Polytechnic Institute and State University;1998","Gerde, Virginia Woods",8108998700,1998
 "Gerdes, Eugenia Proctor;Duke University","Gerdes, Eugenia Proctor",16405614500,
+"Gerdes, Eugenia Proctor;Duke University;1973","Gerdes, Eugenia Proctor",16405614500,1973
 "Gerdes, William D.;University of Nebraska;1978","Gerdes, William D.",9941305600,1978
 "Gerety, Mason S.;University of Washington;1986","Gerety, Mason S.",56910988000,1986
 "Gerhart, Barry A.;University of Wisconsin, Madison;1985","Gerhart, Barry",6701862162,1985
@@ -9350,6 +9353,7 @@ Edirisinghe Chanaka;University of British Columbia;1991,"Edirisinghe, N. Chanaka
 "Hudson, William;University of North Texas;1996","Hudson, William C.",57196368859,1996
 "Hueckel, Glenn R.;University of Wisconsin, Madison;1972","Hueckel, Glenn",23085441700,1972
 "Huefner, Ronald J.;Cornell University;1968","Huefner, Ronald J.",24066813000,1968
+"Huelsbeck, David","Huelsbeck, David R.",6504127731,
 "Huenemann, Ralph;Harvard University","Huenemann, Ralph W.",6603752747,
 "Hueng, James C.;University of Wisconsin, Madison;1997","Hueng, C. James",6507424862,1997
 "Huettman, Elizabeth;Purdue University;1990","Huettman, Elizabeth",25222879400,1990
@@ -9690,6 +9694,7 @@ Edirisinghe Chanaka;University of British Columbia;1991,"Edirisinghe, N. Chanaka
 "Jacob, Rudolph A.;New York University;1987","Jacob, Rudolph A.",7201989962,1987
 "Jacob, Varghese;Purdue University;1986","Jacob, Varghese S.",7006604302,1986
 "Jacobs, David C.;Cornell University;1983","Jacobs, David C.",56778069900,1983
+"Jacobs, Derya","Jacobs, Derya Alasya",7402586193,
 "Jacobs, Derya A.;Missouri University of Science and Technology","Jacobs, Derya Alasya",7402586193,
 "Jacobs, Donald P.;Columbia University;1957","Jacobs, Donald P.",57190457381,1957
 "Jacobs, Fred A.;University of Georgia;1973","Jacobs, Fred A.",55547127260,1973
@@ -10799,6 +10804,7 @@ Edirisinghe Chanaka;University of British Columbia;1991,"Edirisinghe, N. Chanaka
 "Kim, Byoung Ho;Northwestern University;1991","Kim, Byoung-ho",56125099300,1991
 "Kim, Changsoo;Florida International University;1993","Kim, Chang-soo",57196369484,1993
 "Kim, Chong W.;Ohio State University;1976","Kim, Chong W.",56141699200,1976
+"Kim, Chong;Ohio State University;1976","Kim, Chongwoong",8358604400,1976
 "Kim, Chongyoul;Rutgers University;1982","Kim, Chong-youl",26026276600,1982
 "Kim, Chung Kweon;University of Pittsburgh;1994","Kim, MinChung",16230708000,1994
 "Kim, D.;Drexel University;2000","Kim, Doseong",56109777600,2000
@@ -11425,6 +11431,7 @@ Edirisinghe Chanaka;University of British Columbia;1991,"Edirisinghe, N. Chanaka
 "Kuhn, Kai-uwe;University of Oxford;1991","Kühn, Kai Uwe",36137396900,1991
 "Kuhn, Kristine;University of Illinois;1997","Kuhn, Kristine M.",7201404208,1997
 "Kuhn, Peter;Harvard University;1983","Kuhn, Peter",35997540500,1983
+"Kuhnhenn, Gary;University of Illinois;1970","Kuhnhenn, Gary L.",6506450175,1970
 "Kuipers, David;University of Missouri;1996","Kuipers, David R.",6505921301,1999
 "Kuipers, David;University of Missouri;1999","Kuipers, David R.",6505921301,1999
 "Kujawa, Duane A.;University of Michigan;1970","Kujawa, Duane",57011188400,1970
@@ -13220,6 +13227,7 @@ Edirisinghe Chanaka;University of British Columbia;1991,"Edirisinghe, N. Chanaka
 "Martin, David G.;Saint Louis University;1991","Martin, Nicholas G.",57195254907,1991
 "Martin, David W.;University of Illinois;1984","Martin, David W.",55476565200,1984
 "Martin, Deryl W.;Texas A&M University;1984","Martin, Deryl W.",55476560000,1984
+"Martin, Gregory S.;University of Wisconsin, Madison;1994","Martin, Gregory S.",57194850032,1994
 "Martin, Harry J.;Southern Illinois University;1980","Martin, Harry J.",7401980137,1980
 "Martin, Jack;Pennsylvania State University;1991","Martin, Jack K.",55813491200,1991
 "Martin, James E.;Washington University in St. Louis;1973","Martin, James E.",56283346300,1973
@@ -15216,6 +15224,7 @@ Edirisinghe Chanaka;University of British Columbia;1991,"Edirisinghe, N. Chanaka
 "Noiset, Luc;Tulane University","Noiset, Luc P.",6506021970,
 "Nolan, James R.;University at Albany;1986","Nolan, James R.",7201399771,1986
 "Nolan, James R.;University at Albany;1987","Nolan, James R.",7201399771,1987
+"Nolan, Linda","Nolan, Linda L.",7006762890,
 "Noland, Thomas G.;University of Mississippi;2000","Noland, Thomas G.",57197715233,2000
 "Noland, Thomas R.;University of Illinois;1992","Noland, Thomas R.",7005163216,1992
 "Noll, Roger G.;Harvard University;1967","Noll, Roger G.",7005067480,1967
@@ -20034,7 +20043,6 @@ Pitman Glenn A.;Pennsylvania State University;1977,"Pitman, Glenn A.",7004192969
 "Stock, Toby;Indiana University;1995","Stock, Toby",7004073406,1995
 "Stock, Wendy A.;Michigan State University;1996","Stock, Wendy A.",7101623815,1996
 "Stocken, Phillip;Pennsylvania State University;1998","Stocken, Phillip C.",6603184010,1998
-"Stockhausen, Gerard L. S.J.;University of Michigan;1985","Stockhausen, Gerard L.",35238749900,1985
 "Stockly, Sue;University of Texas at Austin;1999","Stockly, Sue K.",35076521800,1999
 "Stockman, Alan C.;University of Chicago;1978","Stockman, Alan C.",7006086543,1978
 "Stockman, David;University of Chicago;1997","Stockman, David R.",6701762673,1997
@@ -21113,6 +21121,7 @@ Pitman Glenn A.;Pennsylvania State University;1977,"Pitman, Glenn A.",7004192969
 "Tufano, Peter;Harvard University;1989","Tufano, Peter",6602088559,1989
 "Tufte, David R.;University at Buffalo;1992","Tufte, David R.",6602767764,1992
 "Tuggle, F. Douglas;Carnegie Mellon University;1971","Tuggle, Francis Doug (Doug)",6602447825,1971
+"Tuggle, F. Douglas;Carnegie Mellon University;1991","Tuggle, Francis Doug (Doug)",6602447825,1991
 "Tuggle, Francis D. (Doug);Carnegie Mellon University;1971","Tuggle, Francis Doug (Doug)",6602447825,1971
 "Tulett, David M.;Queen's University;1986","Tulett, David M.",56422165300,1986
 "Tullar, William L.;University of Rochester;1975","Tullar, William Latimer",7801684409,1975
@@ -22830,7 +22839,7 @@ Pitman Glenn A.;Pennsylvania State University;1977,"Pitman, Glenn A.",7004192969
 "Wydick, W. Bruce;University of California, Berkeley;1996","Wydick, Bruce",6602655941,1996
 "Wygal, Donald E.;University of Pittsburgh;1977","Wygal, Donald E.",24381150900,1977
 "Wyld, David C.;University of Memphis;1993","Wyld, David C.",6602516312,1993
-"Wymer. Walter;1997","Wymer, Walter W.",24167101300,
+Wymer. Walter,"Wymer, Walter W.",24167101300,
 "Wyndelts, Robert W.;University of Georgia;1974","Wyndelts, Robert W.",16450618500,1974
 "Wynn-Williams, Kate;University of Otago","Wynn-Williams, Kate L.H.",8976498300,1999
 "Wynn-Williams, Kate;University of Otago;1999","Wynn-Williams, Kate L.H.",8976498300,1999
