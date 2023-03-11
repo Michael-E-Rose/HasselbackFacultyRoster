@@ -1,4 +1,4 @@
-dep,name,rank,area,degree,grad_year,school,since,annotation
+institution,name,rank,area,degree,degree_year,school,start,annotation
 Abilene Christian Univ,"Lytle, Richard S.",Dean$,Mktg,PHD,94,Ariz St,1991,
 Abilene Christian Univ,"Fowler, Bill E.",C-As,,MS,83,Walsh,1990,
 Abilene Christian Univ,"Pope, Terry",Assoc,C,PHD,69,So Meth,8-92,

@@ -1,4 +1,4 @@
-dep,name,rank,area,degree,grad_year,school,since,annotation
+institution,name,rank,area,degree,degree_year,school,start,annotation
 Abilene Christian Univ,"Lytle, Richard S.",Dean$,Mktg,PHD,94,Ariz St,1991,
 Abilene Christian Univ,"Fowler, Bill",C-As,AC,MBA,83,Walsh,1992,
 Abilene Christian Univ,"Wright, William E.",Prof,GFM,PHD,56,Tx-Austin,1956,

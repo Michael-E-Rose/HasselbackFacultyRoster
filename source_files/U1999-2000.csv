@@ -1,4 +1,4 @@
-dep,name,rank,area,degree,grad_year,school,since,annotation
+institution,name,rank,area,degree,degree_year,school,start,annotation
 Abilene Christian Univ,"Lytle, Richard S.",Dean$,Mktg,PHD,94,Ariz St,1991,
 Abilene Christian Univ,"Lynn, Monty L.",C-Ac,Mgt,PHD,85,Brighm Yg,1985,
 Abilene Christian Univ,"Brister, Jozell",Assoc,,MS,73,North Tx,1980,

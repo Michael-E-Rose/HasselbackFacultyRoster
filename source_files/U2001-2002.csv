@@ -1,4 +1,4 @@
-dep,name,rank,area,degree,grad_year,school,since,annotation
+institution,name,rank,area,degree,degree_year,school,start,annotation
 Adams State College,"Weston, Rafael R.",Dean,,PHD,72,Harvard,1988,
 Adams State College,"Ellis, Theodore",Prof,,PHD,72,Colo St,1967,
 Adams State College,"Keiser, Kurt J.",Asst,,ABD,,Colo St,,
