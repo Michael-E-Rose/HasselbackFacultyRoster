@@ -86,7 +86,6 @@ def main():
             .set_index("scopus_id"))
     outer = pd.DataFrame()
     for listing, subset1 in df.groupby("listing"):
-        print(listing)
         inner = pd.DataFrame()
         for category, subset2 in subset1.groupby("category"):
             new = subset2.drop(columns=["listing", "category"])

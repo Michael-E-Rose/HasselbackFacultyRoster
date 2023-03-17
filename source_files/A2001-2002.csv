@@ -785,7 +785,7 @@ Univ of California-Davis,"Odean, Terrance T.",Asst,FQ,PHD,97,Berkeley,1997,,
 "Univ of Calif, Riverside","Hesford, James W.",Asst,M,PHD,98,S Calif,2001,,
 "U of Calif, Santa Barbara","Nisbet, Mary J.",D-SLe,FIM,PHD,90,Glasgow,1991,,
 "U of Calif, Santa Barbara","Harmon, Coby",Lect,VGFS,BA,82,Ca-SnBarb,1988,,
-"U of Calif, Santa Barbara","Loster, Donald R.",Lect,,MA,,BS 69 Woodbury,1979,,
+"U of Calif, Santa Barbara","Loster, Donald R.",Lect,MA,BS,69,Woodbury,1979,,
 "U of Calif, Santa Barbara","Maass, Lisa E.",Lect,CFNP,BA,85,Ca-SnBarb,1989,,
 "U of Calif, Santa Barbara","Park, Debbie",Lect,FM,BA,89,Ca-SnBarb,2000,,
 "U of Calif, Santa Barbara","Sander, Henry C.",Lect,FXP,BA,76,Conn,1980,,
@@ -2336,7 +2336,7 @@ Hartwick College,"Sears, Thomas G.",Prof,MXQ,MBA,87,Syracuse,1978,,
 Hartwick College,"Wightman, Priscella Z.",Asst,AFC,MS,90,SUNY-Alb,1985,,
 Harvard University,"Clark, Kim B.",Dean,M,DBA,78,Harvard,1978,Harry E. Figgle Jr. Professor of Business Administration,
 Harvard University,"Palepu, Krishna G.",C-Pr,FM,PHD,83,MIT,1983,Ross Graham Walker Professor,
-Harvard University,"Anthony, Robert N.",Emer,1984,DCS,52,Harvard,1940,email: rnanthony@valley.net,
+Harvard University,"Anthony, Robert N.",Emer,1984,DCS,52,Harvard,1940,,
 Harvard University,"Bruns, William J. Jr.",Prof,MV,PHD,63,Berkeley,1969,Henry R. Byers Professor of Business Administration,
 Harvard University,"Christenson, Charles J.",Emer,TMN,DBA,61,Harvard,1957,Royal Little Professor of Business Administration,
 Harvard University,"Datar, Srikant M.",Prof,FMA,PHD,85,Stanford,1996,Arthur Lowes Dickenson Professor of Accounting,
@@ -4351,7 +4351,7 @@ Northwestern University,"Lys, Thomas",Prof,FM,PHD,82,Rochester,1981,Gary A. Rose
 Northwestern University,"Prince, Thomas R.",Prof,MSF,PHD,62,Illinois,1962,,
 Northwestern University,"Revsine, Lawrence",Prof,FTI,PHD,68,Nrthwstrn,1971,John & Norma Darling Distinguished Professor of Financial Accounting,
 Northwestern University,"Gigler, Frank B.",Assoc,F,PHD,92,Minnesota,1999,,
-Northwestern University,"Sridhar, Sri S.",Assoc,FM,PHD,90,Pittsburgh,1990,e-mail sridhara@casbah.acns.nwu.edu,
+Northwestern University,"Sridhar, Sri S.",Assoc,FM,PHD,90,Pittsburgh,1990,,
 Northwestern University,"Vincent, Linda",Assoc,F,PHD,95,Nrthwstrn,1999,,
 Northwestern University,"Walther, Beverly R.",Assoc,FM,PHD,95,Chicago,1995,,
 Northwestern University,"Finn, Mark W.",Asst,FM,PHD,95,Cornell,1996,,
@@ -4932,7 +4932,7 @@ Rollins College,"Drtina, Ralph E.",Prof,MWU,PHD,80,Ohio St,1984,,
 Rollins College,"Matulich, Serge",Emer,FMX,PHD,71,Berkeley,1984,,
 Roosevelt University,"Cicarelli, James",Dean,,PHD,68,Conn,1994,,2000-2001
 Roosevelt University,"Hoppa, Donald A.",C-As,FC,MSA,85,Roosevelt,1985,,2000-2001
-Roosevelt University,"Ament, Joseph D.",Prof,XP,JD,62,J Marshal,1966,The Samuel Specthire Professor of Accounting; jament@muchlaw.com,2000-2001
+Roosevelt University,"Ament, Joseph D.",Prof,XP,JD,62,J Marshal,1966,The Samuel Specthire Professor of Accounting,2000-2001
 Roosevelt University,"Faircloth, Terence A.",Prof,AF,MSA,71,Roosevelt,1974,,2000-2001
 Roosevelt University,"Groner, Michael I.",Assoc,CF,PHD,77,Illinois,1981,,2000-2001
 Roosevelt University,"Holtzblatt, Mark A.",Assoc,IFX,PHD,84,Arkansas,1981,,2000-2001
@@ -5358,9 +5358,9 @@ Simpson College,"Mueller, Marilyn",C-Pr,L,JD,81,Drake,1986,,
 Simpson College,"Anderson, Patricia A.",Asst,AFR,MACC,85,Arizona,2000,,
 Simpson College,"Juffernbruch, Mark",Asst,ACGX,JD,,Iowa,1999,,
 Simpson College,"Meade, Janet",Asst,,MA,83,Truman,2000,,
-Skidmore College Saratoga,"Canavan, Martin J.",C-Ac,PFW,MS,75,SUNY-Alb,1979,,1999-2000
-Skidmore College Saratoga,"Corr, Paul J.",Asst,PMX,MS,77,SUNY-Alb,1981,,1999-2000
-Skidmore College Saratoga,"Lewis, Eric",Asst,AV,PHD,95,Union,1996,,1999-2000
+Skidmore College,"Canavan, Martin J.",C-Ac,PFW,MS,75,SUNY-Alb,1979,,1999-2000
+Skidmore College,"Corr, Paul J.",Asst,PMX,MS,77,SUNY-Alb,1981,,1999-2000
+Skidmore College,"Lewis, Eric",Asst,AV,PHD,95,Union,1996,,1999-2000
 Slippery Rock University,"Mastrianna, Frank V.",Dean,,PHD,68,Cincinnati,3-87,,
 Slippery Rock University,"Orvis, Bruce",C-As,M,PHD,96,Oklahoma,8-95,,
 Slippery Rock University,"Grierson, Peter R.",Assoc,CMTI,PHD,81,Geo St,1-88,,
@@ -5453,7 +5453,7 @@ University of South Florida,"Reck, Jacqueline L.",Asst,GMF,PHD,96,Missouri,8-96,
 University of South Florida,"Wheeler, Patrick",Asst,S,PHD,99,Geo St,8-99,,
 University of South Florida,"Jozsi, Celina L.",Inst,F,MACC,77,S Fla,6-76,,
 University of South Florida,"Price, Theresa",Inst,AP,MACC,92,Florida,8-92,,
-University of South Florida,"Quilliam, William C.",Inst,AB,PHD,91,Florida,8-92,email quilliam @virtu.sar.usf.edu,
+University of South Florida,"Quilliam, William C.",Inst,AB,PHD,91,Florida,8-92,,
 Southeast Missouri St Univ,"McDougall, Gerald S.",Dean,,PHD,74,Claremont,1993,,
 Southeast Missouri St Univ,"Stough, Stanley",C-Pr,M,PHD,75,Arkansas,1987,,
 Southeast Missouri St Univ,"Johnson, Gary G.",Prof,ANXS,PHD,89,Arkansas,1982,,
@@ -5516,7 +5516,7 @@ Univ of Southern California,"Merchant, Kenneth A.",Dean,MB,PHD,78,Berkeley,1990,
 Univ of Southern California,"Arnold, Jerry L.",Prof,F,PHD,75,Michigan,1979,,
 Univ of Southern California,"Bonner, Sarah E.",Prof,BFA,PHD,88,Michigan,7-92,"BDO Seidman, LLP Faculty Fellow",
 Univ of Southern California,"DeFond, Mark L.",Prof,FAI,PHD,87,U Wash,1987,Joseph A. DeBell Professor of Business Administration,
-Univ of Southern California,"Diamond, Michael A.",Prof,FI,PHD,78,UCLA,1985,email mdiamond@usc.edu; Executive Vice Provost,
+Univ of Southern California,"Diamond, Michael A.",Prof,FI,PHD,78,UCLA,1985,Executive Vice Provost,
 Univ of Southern California,"Holder, William W.",Prof,NGFA,DBA,74,Oklahoma,1979,,
 Univ of Southern California,"Larsen, E. John",Prof,KVFJ,DBA,67,S Calif,6-63,,
 Univ of Southern California,"Lin, Thomas W.",Prof,MIA,PHD,75,Ohio St,1975,Accounting Circle Professor,
@@ -6022,7 +6022,7 @@ Univ of Texas at Austin,"McAnally, Mary Lea",Asst,F,PHD,94,Stanford,9-94,,
 Univ of Texas at Austin,"Sedatole, Karen L.",Asst,M,PHD,0,Michigan,9-00,,
 Univ of Texas at Austin,"Vaysman, Igor",Asst,CFMY,PHD,93,Stanford,1-95,,
 Univ of Texas at Austin,"Weaver, Connie D.",Asst,FX,PHD,97,Ariz St,9-99,,
-Univ of Texas at Austin,"Huber, C. Courtland Jr.",SLect,FCMT,PHD,78,Stanford,6-88,email chuber@optionii.bus.utexas.edu,
+Univ of Texas at Austin,"Huber, C. Courtland Jr.",SLect,FCMT,PHD,78,Stanford,6-88,,
 Univ of Texas at Austin,"Joseph, Richard",SLect,X,JD,87,Tx-Austin,9-93,MPA/PPA Director,
 Univ of Texas at Austin,"Atiase, Florence",Lect,FM,MACC,83,Florida,1-93,,
 Univ of Texas at Austin,"Charrier, Gretchen",Lect,FMX,MPA,96,Tx-Austin,6-97,,
@@ -6537,7 +6537,7 @@ University of Washington,"Dukes, Roland E. (Pete)",Prof,FTI,PHD,74,Stanford,1979
 University of Washington,"Heath, Loyd C.",Emer,1998,PHD,65,Berkeley,1962,,
 University of Washington,"Jiambalvo, James J.",Prof,MA,PHD,77,Ohio St,1977,PricewaterhouseCoopers and Alumni Professor,
 University of Washington,"Mueller, Fred J.",Emer,1987,PHD,56,Ohio St,1956,,
-University of Washington,"Mueller, Gerhard G.",Emer,1996,PHD,62,Berkeley,1960,Financial Accounting Standards Board; 2030847-0700 x 222 ggmueller @fasb.org,
+University of Washington,"Mueller, Gerhard G.",Emer,1996,PHD,62,Berkeley,1960,Financial Accounting Standards Board,
 University of Washington,"Noreen, Eric W.",Prof,M,PHD,77,Stanford,1976,also at INSEAD,
 University of Washington,"Ramanathan, K. V.",Prof,CMU,PHD,70,Nrthwstrn,1971,,
 University of Washington,"Shevlin, Terry",Prof,FX,PHD,86,Stanford,1-86,Deloitte & Touche Professor,
@@ -6700,7 +6700,7 @@ West Virginia Univ Inst Tech,"Melton, Paul D.",Assoc,CG,MBA,,,,,
 West Virginia Univ Inst Tech,"Perry, Jacqueline A.",Asst,CPV,PHD,,,1999,,
 West Virginia State College,"Shafer, Patricia M.",C-Ac,CFGT,MBA,71,WVCOGS,1980,,
 West Virginia State College,"Hodges, John P.",Asst,FCPA,MPA,81,W Virginia,1984,,
-West Virginia State College,"Pauley, C. Edman",Asst,FPTX,MBA,74,W Virginia,1982,email epauley@citynet.net,
+West Virginia State College,"Pauley, C. Edman",Asst,FPTX,MBA,74,W Virginia,1982,,
 West Virginia State College,"Zellers, James T. III",Asst,FPTV,MBA,74,W Virginia,1979,,
 Western Carolina University,"Shiffler, Ronald E.",Dean,M,PHD,80,Florida,7-96,,
 Western Carolina University,"Little, Philip L.",C-Ac,AFP,DBA,86,La Tech,1993,,
@@ -6728,7 +6728,7 @@ Western Illinois University,"Falgiani, A. Anthony",Assoc,XML,JD,81,S Texas,9-89,
 Western Illinois University,"Lucas, Marcia J.",Assoc,FP,PHD,91,St Louis,9-79,,
 Western Illinois University,"Smith, Nancy E.",Assoc,FT,PHD,86,Nebraska,9-82,,
 Western Illinois University,"Coe, Martin",Asst,SV,MBA,92,St Ambro,9-94,,
-Western Illinois University,"Hunt, Steven C.",Asst,AFB,PHD,91,Florida,9-98,email steve_hunt@ccmail.wiu.edu,
+Western Illinois University,"Hunt, Steven C.",Asst,AFB,PHD,91,Florida,9-98,,
 Western Illinois University,"Woodruff, Gregg S.",Asst,X,ABD,,Memphis,9-01,,
 Western Illinois University,"McCabe, Diana",Inst,P,MACC,97,W Illinois,9-98,,
 Western Illinois University,"Pendergast, Susanna D.",Inst,P,MACC,95,W Illinois,9-94,,
@@ -7509,9 +7509,9 @@ University of Aberdeen,"Buckland, Roger",Prof,FGIY,MPHL,85,York,1993,,
 University of Aberdeen,"Fraser, Patricia",Prof,FQY,PHD,89,City Bus,1995,,
 University of Aberdeen,"Heald, David A.",Prof,GI,BA,69,Leicester,1990,,
 University of Aberdeen,"Thomson, Lydia",SLect,FPV,DPHL,68,Oxford,1986,,
-University of Aberdeen,"Arthur, Alex",Lect,,ABD,,M MLIT 87 Aberdeen,1990,,
+University of Aberdeen,"Arthur, Alex",Lect,ABD,MLIT,87,Aberdeen,1990,,
 University of Aberdeen,"Elad, Charles M.",Lect,IM,PHD,93,Glasgow,1992,,
-University of Aberdeen,"Geaughan, Neal",Lect,GN,MBA,,C 93 Aberdeen,1998,,
+University of Aberdeen,"Geaughan, Neal",Lect,EGN,MBAC,93,Aberdeen,1998,,
 University of Aberdeen,"Georgiou, George",Lect,FHIT,PHD,80,Aberdeen,1990,,
 University of Aberdeen,"Black, Angela",Lect,FQY,PHD,95,Dundee,1999,,
 University of Aberdeen,"Molyneaus, David",Lect,FA,PHD,1,Edinburgh,2001,,
@@ -7695,7 +7695,7 @@ Chinese Univ of Hong Kong,"Qi, Daqing",Assoc,FM,PHD,96,Mich St,1996,,2000-2001
 Chinese Univ of Hong Kong,"Tong Wu, Marian",Assoc,AF,MPA,77,Tx-Austin,1989,,2000-2001
 Chinese Univ of Hong Kong,"Wu, Woody",Assoc,FM,PHD,92,NYU,1995,,2000-2001
 Chinese Univ of Hong Kong,"Xie, Jai-Zheng James",Assoc,AFMT,PHD,91,Brit Colum,1999,,2000-2001
-Chinese Univ of Hong Kong,"Yang, Lloyd",Assoc,BEC,MBA,75,ChinesHK *,1989,,2000-2001
+Chinese Univ of Hong Kong,"Yang, Lloyd",Assoc,BEC,MBA,75,ChinesHK,1989,,2000-2001
 Chinese Univ of Hong Kong,"Ferguson, Michael",Asst,BF,PHD,97,Minnesota,1997,,2000-2001
 Chinese Univ of Hong Kong,"Lam, Kevin",Asst,IMS,PHD,97,Toronto,1998,,2000-2001
 Chinese Univ of Hong Kong,"Young, Danqing",Asst,BCM,PHD,98,Conn,1998,,2000-2001
@@ -7793,7 +7793,7 @@ Deakin Univ at Burwood,"Potter, Brad",Lect,FA,BCOM,92,Deakin,1992,,
 Deakin Univ at Burwood,"Purnell, Allan",Lect,F,BBUS,76,VColl,1984,,
 Deakin Univ at Burwood,"Raar, Jean",Lect,M,PHD,99,RMIT,1993,,
 Deakin Univ at Burwood,"VanEekelen, Antonie",Lect,F,BED,85,VColl,1989,,
-Deakin Univ at Burwood,"Viney, Christopher W.",Lect,F,MBA,,S 96 Monash,1999,,
+Deakin Univ at Burwood,"Viney, Christopher W.",Lect,F,MBAS,96,Monash,1999,,
 Deakin Univ at Burwood,"Vinning, Russell",Lect,F,MBA,91,Monash,1988,,
 Deakin University-Geelong,"Clarke, Philip",Dean,,,,,,,
 Deakin University-Geelong,"Carnegie, Garry D.",H-Pr,FH,PHD,94,Flinders,1988,,
@@ -7954,7 +7954,7 @@ Glasgow University,"McKernan, John F.",Asst,F,MACC,90,Glasgow,1990,,
 Glasgow University,"McPhail, Kenneth",Asst,JN,PHD,97,Dundee,1997,,
 Glasgow University,"Milner, Margaret M.",Asst,QS,MACC,87,Glasgow,1986,,
 Glasgow University,"Shackleton, J. Kendrick",Asst,MB,MSC,74,Bradford,1974,,
-Glasgow University,"Stoner, Gregory N.",Asst,,MS,,BSC 78 Lancaster,1984,,
+Glasgow University,"Stoner, Gregory N.",Asst,MS,BSC,78,Lancaster,1984,,
 University of Graz,"Mandl, Gerwald",Prof,AF,PHD,77,Vienna,1978,,
 University of Graz,"Wagenhofer, Alfred",Prof,YIMF,PHD,90,Vienna,1991,,
 University of Graz,"Riegler, Christian",Assoc,MCU,PHD,0,U Graz,1991,,
@@ -8269,7 +8269,7 @@ University of Lancaster,"Young, Steven",Lect,FM,PHD,95,Lancaster,2000,,
 LaTrobe University,"Langfield-Smith, Kim",H-Pr,M,PHD,92,Monash,1998,,
 LaTrobe University,"Ahmed, Kamran",SLect,FIM,PHD,94,Austr Natl,1999,,
 LaTrobe University,"Capitanio, Carmel",Lect,AFMG,BEC,,LaTrobe,1991,,
-LaTrobe University,"Hanlon, Dean",Lect 94792557 d.hanlon X,,MCOM,,Monash,2000,,
+LaTrobe University,"Hanlon, Dean",Lect,X,MCOM,,Monash,2000,,
 LaTrobe University,"Hill, Glenn",Lect,F,BBUS,,Swinburn,1990,,
 LaTrobe University,"Ji, Xu-Dong",Lect,IHF,PHD,,LaTrobe,1996,,
 LaTrobe University,"Langa, Leo",Lect,FT,MEC,,LaTrobe,1993,,
@@ -8374,7 +8374,7 @@ London School Economics,"Macmillan, Keith",Lect,HJW,PHD,98,London,2000,,2000-200
 London School Economics,"Trombetta, Marco",Lect,AFY,PHD,99,Oxford,1996,,2000-2001
 London School Economics,"Beccalli, Elena",JLect,FI,PHD,0,Milan,2000,,2000-2001
 London School Economics,"Kleiner, Thibaut",JLect,IFMT,MBA,95,HEC Paris,2000,,2000-2001
-London School Economics,"Labro, Eva",JLect,,MS,,ENG 93 Leuven,2000,,2000-2001
+London School Economics,"Labro, Eva",JLect,MS,ENG,93,Leuven,2000,,2000-2001
 Loughborough University,"Wilson, Richard M. S.",H-Pr,M,MSC,69,Bradford,1995,,
 Loughborough University,"Belk, Penelope A.",Lect,IF,MA,75,Lancaster,1987,,
 Loughborough University,"Higson, Andrew W.",Lect,MA,PHD,87,Bradford,1986,,
@@ -8640,7 +8640,7 @@ Nanyang Technological Univ,"Hu, Kin Hoi Billy",Lect,FM,BACC,92,Nanyang,1995,,199
 Nanyang Technological Univ,"Ng, Bu Peow Terrence",Lect,AO,MCOM,96,NS Wales,1993,,1999-2000
 Nanyang Technological Univ,"Seow, Jean Lin",Lect,AF,MSC,96,Manchest,1993,,1999-2000
 Nanyang Technological Univ,"Tan, How Joo",Lect,FM,PHD,90,Glasgow,1986,,1999-2000
-Nanyang Technological Univ,"Tan, Hwee Cheng",Lect,,CFM,,SM 92 MIT,1989,,1999-2000
+Nanyang Technological Univ,"Tan, Hwee Cheng",Lect,CFM,SM,92,MIT,1989,,1999-2000
 Nanyang Technological Univ,"Tan, Kai Guan Clement",Lect,DS,MSC,90,London,1989,,1999-2000
 Nanyang Technological Univ,"Tan, Mui Siang Patricia",Lect,FQ,ABD,,Brit Colum,1985,,1999-2000
 Nanyang Technological Univ,"Teo, Pin Pin Susan",Lect,FT,PHD,89,Wisconsin,1983,,1999-2000
@@ -8656,7 +8656,7 @@ Napier University,"Sievewright, Douglas J. A.",SLect,AF,FCCA,3-81,,,,
 Napier University,"Wright, Iain A.",SLect,FA,MACC,2-84,,,,
 Napier University,"Brown, James",Lect,,MSC,,,1999,,
 Napier University,"Cramb, Andrew",Lect,X,BSC,,,1991,,
-Napier University,"Deacon, James",Lect,X,BCOM,,F-85,,,
+Napier University,"Deacon, James",Lect,X,BCOM,,,F-85,,
 Napier University,"FitzGerald, Adrian A.",Lect,FM,BCOM,,,1998,,
 Napier University,"Forbes, Elizabeth",Lect,F,ACCA,9-86,,,,
 Napier University,"Fotheringham, Alun",Lect,,BA,,,1999,,
@@ -8804,7 +8804,7 @@ University of Newcastle,"Gibson, Brian",SLect,CFQT,MCOM,88,Newcastle,1985,,2000-
 University of Newcastle,"Motyka, Wolodymyr",SLect,DHIM,PHD,94,NS Wales,1988,,2000-2001
 University of Newcastle,"Arnold, M. W.",Lect,FIT,MEDS,85,Newcastle,1988,,2000-2001
 University of Newcastle,"Day, R. J.",Lect,F,MCOM,90,NS Wales,1-91,,2000-2001
-University of Newcastle,"Hartnett, Neil A.",Lect,,CFM,,MCOM 91 Newcastle,1986,,2000-2001
+University of Newcastle,"Hartnett, Neil A.",Lect,CFM,MCOM,91,Newcastle,1986,,2000-2001
 University of Newcastle,"Palfreyman, Simone",Lect,AX,BCOM,,Newcastle,1995,,2000-2001
 University of Newcastle,"Stanton, Patricia A.",Lect,FT,BCOM,86,Newcastle,1989,,2000-2001
 University of Newcastle,"Duncan, Paul",Lect,,MCOM,,Newcastle,1999,,2000-2001
@@ -9252,7 +9252,7 @@ University of Umea,"Andersson, Hakan",Asst,TM,MSC,72,Umea,9-88,,
 University of Umea,"Haggqvist, Ann-Christin",Asst,F,MSC,82,Umea,7-88,,
 University of Umea,"Hedstrom, Owe R.",Asst,MG,PHD,66,Umea,1-70,Director of Undergraduate Studies,
 University of Umea,"Isaksson, Anders",Asst,SBYA,BSC,93,Umea,,,
-University of Umea,"Lindberg, Erik",Asst,,MA,,LIPH 98 Lulea,8-98,,
+University of Umea,"Lindberg, Erik",Asst,MA,LIPH,98,Lulea,8-98,,
 University of Umea,"Lindberg, Lars",Asst,F,BSC,91,Umea,8-92,,
 University of Umea,"Nilsson, Henrik",Asst,FT,MSC,95,Umea,8-95,,
 University of Umea,"Nilsson, Stellan K. I.",Asst,AF,LIPH,95,Umea,9-90,,
@@ -9345,15 +9345,15 @@ University of Warwick,"Basioudis, Ihas",Fell,HTAO,MSC,,Stirling,,,2000-2001
 University of Warwick,"Corvi, Peter",SFell,FM,PHD,,Edinburgh,,,2000-2001
 University of Warwick,"Read, Laura",Fell,,PHD,,Warwick,,,2000-2001
 University of Warwick,"Sadler, Graham",Fell,,PHD,,Warwick,,,2000-2001
-Univ of The West Indies7,"Chaderton, Robertine",H-Le,AI,PHD,,Manchest,,,
-Univ of The West Indies7,"Williams, Randolph",Prof,X,PHD,,Colorado,,,
-Univ of The West Indies7,"Bakre, Owalabi M.",Lect,M,MCOM,,Rajastha,,,
-Univ of The West Indies7,"Dick-Forde, Emily",Lect,F,MPHL,,Cambridge,,,
-Univ of The West Indies7,"Layne, Armand W.",Lect,MT,PHD,,Birminghm,,,
-Univ of The West Indies7,"Mendes, Margaret",Lect,A,MA,,W Indies,,,
-Univ of The West Indies7,"Raghurandam, Moolchand",Lect,C,MSC,,W Indies,,,
-Univ of The West Indies7,"Williams, Michael",Lect,C,MSC,,W Indies,,,
-Univ of The West Indies7,"Carrington, Donley",ALect,MT,MSC,,Iowa St,,,
+Univ of The West Indies,"Chaderton, Robertine",H-Le,AI,PHD,,Manchest,,,
+Univ of The West Indies,"Williams, Randolph",Prof,X,PHD,,Colorado,,,
+Univ of The West Indies,"Bakre, Owalabi M.",Lect,M,MCOM,,Rajastha,,,
+Univ of The West Indies,"Dick-Forde, Emily",Lect,F,MPHL,,Cambridge,,,
+Univ of The West Indies,"Layne, Armand W.",Lect,MT,PHD,,Birminghm,,,
+Univ of The West Indies,"Mendes, Margaret",Lect,A,MA,,W Indies,,,
+Univ of The West Indies,"Raghurandam, Moolchand",Lect,C,MSC,,W Indies,,,
+Univ of The West Indies,"Williams, Michael",Lect,C,MSC,,W Indies,,,
+Univ of The West Indies,"Carrington, Donley",ALect,MT,MSC,,Iowa St,,,
 Univ of Western Australia,"Mulvey, Charles",Dean,,MA,,Aberdeen,1999,,
 Univ of Western Australia,"Eggleton, Ian R. C.",C-Pr,BGM,PHD,79,Chicago,1984,,
 Univ of Western Australia,"Brown, Philip R.",Prof,F,PHD,68,Chicago,1980,,
@@ -9379,7 +9379,7 @@ Univ of Western Australia,"Newby, Rick",Lect,F,MPHL,96,Murdoch,2001,,
 Univ of Western Australia,"Robinson, Peter",Lect,F,MED,80,W Austrl,1990,,
 Univ of Western Australia,"Scully, Glennda",Lect,FL,BCOM,81,Melbourne,1987,,
 Univ of Western Australia,"Tarca, Ann",Lect,FI,MACC,97,W Austrl,1998,,
-Univ of Western Australia,"Wee, Marvin Ge Way",Lect,F,F,,MFIN 99 W Austrl,1999,,
+Univ of Western Australia,"Wee, Marvin Ge Way",Lect,F,MFIN,99,W Austrl,1999,,
 Univ of Western Australia,"Boujos, Jocelyne",ALect,T,LLB,90,W Austrl,1987,,
 Univ of Western Australia,"Chang, Millicent",ALect,F,BCOM,90,W Austrl,1992,,
 Univ of Western Australia,"Goh, Alicia",ALect,F,BCOM,99,W Austrl,2000,,

@@ -251,7 +251,7 @@ Augustana College IL,"Jurasek, Richard T.",Dean,Econ,PHD,76,Ohio St,9-98,,
 Augustana College IL,"Lonergan, Janis",C-Pr,,PHD,78,S Illinois,9-76,,
 Augustana College IL,"Hammermeister, John F.",Asst,,ABD,,Nova SE,9-82,,
 Augustana College SD,"Oppegard, Anne M.",C-Ac,Atg,PHD,97,Nebraska,1988,,
-Augustana College SD,"Bolen, Dennis I.",Asst,1 CDEX,PHD,0,N Dakota,1988,,
+Augustana College SD,"Bolen, Dennis I.",Asst,CDEX,PHD,0,N Dakota,1988,,
 Aurora University,"Carroll, Michael",D,,PHD,97,Loyola,,,
 Aurora University,"Brooks, Ileana",Assoc,,PHD,88,N Illinois,,,
 Aurora University,"Eisinger,",Asst,,DBA,82,Indiana,2001,,
@@ -732,7 +732,7 @@ Calif State U - San Marcos,"Tsay, Wenyah",Asst,U,PHD,97,Utah,8-98,,
 "Calif State U, Stanislaus","Cherukuri, U. Rao",Prof,CEFY,PHD,72,N Carol,9-70,,
 "Calif State U, Stanislaus","Vellenga, Daniel R.",Prof,CEM&,PHD,74,Mich St,9-86,,
 "Calif State U, Stanislaus","Wagner, Andrew J.",Assoc,LNPV,ABD,,Tx A&M,9-95,,
-Calvin College,"Diephouse, David",Dean,,PHD,c,Vanderbilt,1965,,
+Calvin College,"Diephouse, David",Dean,,PHD,73,Vanderbilt,1965,,
 Calvin College,"Cook, David",Prof,,MSAC,79,W Mich,,,
 Cameron University,"Burgess, Sylvia",Dean$,Law,JD,82,Oklahoma,1995,,
 Cameron University,"Bhattacharya, Topan K.",C-Pr,JMY&,PHD,92,Oklahoma,1992,,
@@ -1455,7 +1455,7 @@ Florida International Univ,"Roussakis, Emmanuel N.",C-Pr,,PHD,68,Louvain,1976,,
 Florida International Univ,"Bear, Robert M.",Prof,,PHD,70,Iowa,1983,,
 Florida International Univ,"Bierwag, Gerald O.",Prof,,PHD,62,Nrthwstrn,1991,Ryder Systems Professor of Business Administration,
 Florida International Univ,"Daigler, Robert T.",Prof,,PHD,76,Oklahoma,1982,,
-Florida International Univ,"Dandapani, Krishnan",Prof,3,PHD,85,Penn St,1983,,
+Florida International Univ,"Dandapani, Krishnan",Prof,,PHD,85,Penn St,1983,,
 Florida International Univ,"Parhizgari, Ali M.",Prof,,PHD,76,Maryland,1982,,
 Florida International Univ,"Prakash, Arun J.",Prof,,PHD,81,Oregon,1978,,
 Florida International Univ,"Zdanowicz, John S.",Prof,,PHD,71,Mich St,1985,"Director, Center for Banking and Financial Institution",
@@ -1468,10 +1468,10 @@ Florida International Univ,"Welch, William",Assoc,,PHD,74,Michigan,1972,,
 Florida International Univ,"DeBoyrie, Maria E.",Asst,,PHD,95,Fla Intl,1995,,
 Florida International Univ,"Keys, James D.",Inst,,MBA,87,Fla Intl,1983,,
 Florida Southern College,"Brown, Carl C.",C-Pr,Econ,PHD,79,Okla St,1980,,
-Florida Southern College,"Lebrenz, Eugene R.",Prof,1,EDD,,N Illinois,1987,,
-Florida Southern College,"Eberle, Paul B.",Assoc,14,PHD,90,Missouri,2000,,
+Florida Southern College,"Lebrenz, Eugene R.",Prof,,EDD,,N Illinois,1987,,
+Florida Southern College,"Eberle, Paul B.",Assoc,,PHD,90,Missouri,2000,,
 Florida Southern College,"Bythewood, Craig",Asst,,PHD,,Florida,2001,,
-Florida Southern College,"Wiley, C. Jeffery",Asst,16,MBA,,Indiana,1976,,
+Florida Southern College,"Wiley, C. Jeffery",Asst,,MBA,,Indiana,1976,,
 Florida State University,"Stith, Melvin T.",Dean,Mktg,PHD,77,Syracuse,8-85,,
 Florida State University,"Nast, Donald A.",C-Ac,FNOI,PHD,75,Penn St,1-74,SunTrust/Tallahassee Professor in Finance,
 Florida State University,"Ang, James S.",Prof,FGQV,PHD,72,Purdue,8-80,Bank of America Eminent Scholar in Finance,
@@ -2215,7 +2215,7 @@ Liberty University,"Mateer, Robert N.",C-Pr,,MBA,64,Tulane,1984,,2000-2001
 Lincoln University,"Quartey, Kojo A.",Dean,,PHD,87,Miss St,8-99,,2000-2001
 Lincoln University,"Linhardt, Wayne C.",H $,,ABD,,Nova SE,,,2000-2001
 Linfield College,"Kiehl, Sandra",C-Ac,Mgt,PHD,88,Port St,1988,,
-Linfield College,"Chambers, Scott",Assoc,12,PHD,88,Ca-Davis,1990,,
+Linfield College,"Chambers, Scott",Assoc,,PHD,88,Ca-Davis,1990,,
 Lipscomb University,"Boulware, George W.",Dean,X#,PHD,76,S Carol,9-82,,
 Lipscomb University,"Ingram, William C.",H-Pr,DER,PHD,76,W Virginia,1-72,,
 Lipscomb University,"Fulks, L. Gerald",Prof,V,DA,84,Mid Tenn,9-78,,
@@ -3261,9 +3261,7 @@ Oral Roberts University,"Chapman, Robert",Inst,,MBA,90,Tx Tech,8-00,,
 University of Oregon,"Romero, Philip",Dean,,PHD,88,Rand,1999,,
 University of Oregon,"Partch, M. Megan",C-Pr,,PHD,81,Wisconsin,1981,,
 University of Oregon,"Dann, Larry Y.",Prof,,PHD,80,UCLA,1977,Richard W. Lindholm Professor of Finance and Taxation,
-University of Oregon,Richard W. Lindholm Professor of Finance and Taxation,,,,,,,,
 University of Oregon,"Mikkelson, Wayne H.",Prof,,PHD,80,Rochester,1984,Roger Engermann Professor of Finance,
-University of Oregon,Roger Engermann Professor of Finance,,,,,,,,
 University of Oregon,"Hopewell, Michael H.",Emer,,PHD,72,U Wash,1969,,
 University of Oregon,"Racette, George A.",Assoc,,PHD,72,U Wash,1974,,
 University of Oregon,"Chalmers, John M. R.",Asst,,PHD,95,Rochester,1996,,
@@ -3308,9 +3306,9 @@ University of the Pacific,"Bryan, Donald W.",Assoc,R,PHD,74,Syracuse,1974,,
 University of the Pacific,"Knight, John R.",Assoc,&,PHD,90,LSU,9-95,,
 University of the Pacific,"Tatsch, Paul A.",Assoc,I,PHD,77,SUNY-Bin,9-80,,
 Pacific Lutheran University,"Bell, Donald R.",Dean,Mgt,PHD,80,Iowa,6-98,,1998-1999
-Pacific Union College,"Voth, Richard",C-Pr,12 B,PHD,74,Ariz St,1968,,
-Pacific Union College,"Hardcastle, Rodney",Asst,37,MBA,89,Golden Gt,1989,,
-Pacific Union College,"Madrid, Daniel G.",Asst,46,MBA,91,Ca-SnDgo,1991,,
+Pacific Union College,"Voth, Richard",C-Pr,B,PHD,74,Ariz St,1968,,
+Pacific Union College,"Hardcastle, Rodney",Asst,,MBA,89,Golden Gt,1989,,
+Pacific Union College,"Madrid, Daniel G.",Asst,,MBA,91,Ca-SnDgo,1991,,
 University of Pennsylvania,"Harker, Patrick T.",Dean,Mgt,PHD,83,Penn,1984,,
 University of Pennsylvania,"Gibbons, Michael R.",C-Pr,,PHD,80,Chicago,1989,I. W. Burnham II Professor of Investment Banking,
 University of Pennsylvania,"Abel, Andrew B.",Prof,,PHD,78,MIT,1986,Robert Morris Professor of Banking,
@@ -3749,6 +3747,11 @@ University of St. Thomas-TX,"Canac, Pierre",Assoc,VN,PHD,87,Houston,,,
 University of St. Thomas-TX,"Ueng, C. Joe",Assoc,UC,PHD,95,St Louis,,,
 Saint Vincent College,"Quinlivan, Gary",Dean,,PHD,,SUNY-Alb,,,1998-1999
 Saint Vincent College,"McDonald, William",Asst,,MBA,,W Mich,,,1998-1999
+Saint Xavier University,"Eber, John",Dean,YZ,EDD,83,N Illinois,,,1998-1999
+Saint Xavier University,"Cyze, Donald A.",D-Ac,At,LLM,,Valparaiso,,,1998-1999
+Saint Xavier University,"Chishty, Muhammod",Assoc,,PHD,91,Geo St,,,1998-1999
+Saint Xavier University,"Varjavand, Reza",Assoc,OPW,PHD,83,Oklahoma,,,1998-1999
+Saint Xavier University,"Hoque, Monzurul",Asst,,PHD,87,Illinois,,,1998-1999
 Salem State College,"Meadow, H. Lee",Dean,Mktg,PHD,83,Va Tech,,,1996-1997
 Salem State College,"McGee, Paul F.",Assoc,FI,MS,76,Bentley,,,1996-1997
 Salem State College,"Spangler, Gordon",Assoc,CFM,PHD,63,Tufts,,,1996-1997
@@ -5782,11 +5785,6 @@ William Paterson University,"Hororian, Berch",C-Pr,Econ,PHD,72,NYU,,,
 William Paterson University,"Ghosh, Arvin",Prof,D,PHD,72,CUNY,,,
 William Paterson University,"Cai, Francis",Assoc,DO,PHD,90,CUNY,,,
 William Paterson University,"Williams, Thomas G. E.",Assoc,PU,PHD,98,Tx A&M,,,
-Saint Xavier University,"Eber, John",Dean,YZ,EDD,83,N Illinois,,,1998-1999
-Saint Xavier University,"Cyze, Donald A.",D-Ac,At,LLM,,Valparaiso,,,1998-1999
-Saint Xavier University,"Chishty, Muhammod",Assoc,,PHD,91,Geo St,,,1998-1999
-Saint Xavier University,"Varjavand, Reza",Assoc,OPW,PHD,83,Oklahoma,,,1998-1999
-Saint Xavier University,"Hoque, Monzurul",Asst,,PHD,87,Illinois,,,1998-1999
 Winona State University,"Gorman, Kenneth L.",Dean,BusE,EDD,80,N Illinois,,,1998-1999
 Winona State University,"Manrique, Gabriel G.",C-Pr,Econ,PHD,82,Notre Dm,,,1998-1999
 Winona State University,"Kesler, David W.",Prof,DJLO,PHD,98,Wi-Milwa,,,1998-1999

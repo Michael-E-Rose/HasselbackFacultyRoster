@@ -564,7 +564,7 @@ ID,scopus_name,scopus_id,grad_year
 "Anderson, Robert L.;University of North Texas;1971","Anderson, Robert L.",55492824900,1971
 "Anderson, Robert M.;Yale University;1977","Anderson, Robert M.",57193254251,1977
 "Anderson, Ronald;Texas A&M University;1998","Anderson, Ronald C.",55492812500,1998
-"Anderson, Ronald;University of Michigan;1976","Anderson, Ronald C.",55492812500,1976
+"Anderson, Ronald;University of Michigan;1976","Anderson, Ronald W.",57190364143,1976
 "Anderson, Roy C.;Tulane University;1965","Anderson, Roy C.",57010575500,1965
 "Anderson, Seth C.;University of North Carolina;1984","Anderson, Seth C.",25023033200,1984
 "Anderson, Shannon W.;Harvard University;1993","Anderson, Shannon W.",7404216309,1993
@@ -1531,7 +1531,7 @@ ID,scopus_name,scopus_id,grad_year
 "Beckworth, David;University of Georgia;2003","Beckworth, David",18036416300,2003
 "Bector, C. R.;Illinois Institute of Technology;1968","Bector, C. R.",7003368089,1968
 "Bedard, Jean C.;University of Wisconsin, Madison;1985","Bedard, Jean C.",57188535478,1985
-"Bedard, Jean;University of Southern California;1986","Bedard, Jean C.",57188535478,1986
+"Bedard, Jean;University of Southern California;1986","Bédard, Jean",57212976139,1986
 "Bedard, Kelly;Queen's University;1996","Bedard, Kelly",36766395600,1996
 "Bedford, Norman;Golden Gate University;1989","Bedford, Norman",36930149700,1989
 "Bednarek, Heather L.;Michigan State University;1999","Bednarek, Heather L.",6603278080,1999
@@ -3492,6 +3492,7 @@ ID,scopus_name,scopus_id,grad_year
 "Chance, Don M.;Louisiana State University;1980","Chance, Don M.",7004075650,1980
 "Chance, Don;Louisiana State University;1980","Chance, Don M.",7004075650,1980
 "Chand, Suresh;Carnegie Mellon University;1979","Chand, Suresh",35616251000,1979
+"Chanda, Areendam","Chanda, Areendam",23392062900,
 "Chandar, Nandini;Case Western Reserve University;1997","Chandar, Nandini",6603871775,1997
 "Chandler, Gaylen N.;University of Utah;1990","Chandler, Gaylen N.",7102583531,1990
 "Chandler, Howard;Maharishi University of Management;1990","Chandler, Howard M.",35857357300,1990
@@ -8564,7 +8565,7 @@ Edirisinghe Chanaka;University of British Columbia;1991,"Edirisinghe, N. Chanaka
 "Hampton, Nathan E.;University of California, Santa Barbara;1989","Hampton, Nathan Eric",57192349919,1989
 "Hamwi, Iskandar;University of Pennsylvania;1969","Hamwi, Iskandar S.",16406361100,1969
 "Hamzaee, Reza G.;Arizona State University;1985","Hamzaee, Reza G.",6507022919,1985
-"Han, Bing;Stanford University;2002","Han, Bing",37019684100,2002
+"Han, Bing;Stanford University;2002","Han, Bing",57680651400,2002
 "Han, Bing;University of California, Los Angeles;2002","Han, Bing",37019684100,2002
 "Han, Bong-Heui;University of Texas at Austin;1991","Han, Bong H.",7401726363,1991
 "Han, Hsiang-Ling;University of Rochester;1992","Han, Hsiangling",7401969251,1992
@@ -9581,7 +9582,7 @@ Edirisinghe Chanaka;University of British Columbia;1991,"Edirisinghe, N. Chanaka
 "Hoskin, Robert E.;Cornell University;1981","Hoskin, Robert E.",56692619600,1981
 "Hoskins, Margaret;University of Mississippi;1992","Hoskins, Margaret A.",36118173100,1992
 "Hosni, Djehane;University of Arkansas;1978","Hosni, Djehane A.",7801380908,1978
-"Hossain, Mahmud;CUNY, Baruch College;2003","Hossain, Mahmud",9272462500,2003
+"Hossain, Mahmud;CUNY, Baruch College;2003","Hossain, Mahmud",58070356000,2003
 "Hossain, Mahmud;Massey University;1998","Hossain, Mahmud",9272462500,1998
 "Hossein-Zadeh, Esmail;The New School;1987","Hossein-Zadeh, Esmail",7801398554,1987
 "Hosseini, Ahmad;University of Missouri;1972","Hosseini, Seied Ahmad",37002877100,1981
