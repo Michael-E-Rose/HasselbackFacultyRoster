@@ -57,5 +57,5 @@ hass = pd.read_csv(FACULTY_FILE, index_col=0)
 ## Workflow
 - 
 - [`./mapping_files/institutions.csv`](./mapping_files/institutions.csv) and [`./mapping_files/persons.csv`](./mapping_files/persons.csv) are mapping files to aggregate over differently used university names and to map researchers to their Scopus profile IDs.
-- [`condense_faculty_lists.py`](condense_faculty_lists.py) combines the information.
+- [`make_hasselback.py.py`](make_hasselback.py.py) combines the information.
 - [`hasselback.csv`](hasselback.csv) is the resulting file.
