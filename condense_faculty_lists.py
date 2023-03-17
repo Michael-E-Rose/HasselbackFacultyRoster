@@ -43,7 +43,9 @@ def read_hasselback_file(fname, aff_map, degree_incl=('PHD',),
     """Read and compile file, subsetted to relevant degress only."""
     df = pd.read_csv(fname)
     df = df[df['degree'].isin(degree_incl)]
+    df["rank"] = df["rank"].str.replace("$", "", regex=False)
     df = df[~df['rank'].isin(rank_excl)]
+    df = df[~df["rank"].fillna("").str.startswith("V")]  # Visiting positions
     df = df[~df["annotation"].fillna("").str.startswith("visiting from")]
     # Use correct listing information
     df["category"] = fname.stem[0]
